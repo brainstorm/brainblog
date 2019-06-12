@@ -1,7 +1,7 @@
 baseurl = "https://blogs.nopcode.org/brainstorm"
 languageCode = "en-us"
 title = "BrainBlog"
-theme = "hugo-lithium-theme"
+theme = "hugo-lithium"
 googleAnalytics = "UA-11158994-2"
 disqusShortname = "nopcode"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
