@@ -38,7 +38,7 @@ Mentre dono classe, els animo a fullejar el llibre que he comprat a BCN:
 <!--more-->
 
   
-També vaig apuntant les sigles que vaig comentant a la pissarra i faig alguns dibuixos sobre xarxes wireless. El delegat de la classe, molt atent, al veure'm senyalar coses a la paret del projector, m'explica educadament que puc usar un pal que m'ha deixat expressament al terra per senyalar. No puc evitar somriure i tots ho fan també <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+També vaig apuntant les sigles que vaig comentant a la pissarra i faig alguns dibuixos sobre xarxes wireless. El delegat de la classe, molt atent, al veure'm senyalar coses a la paret del projector, m'explica educadament que puc usar un pal que m'ha deixat expressament al terra per senyalar. No puc evitar somriure i tots ho fan també :) 
 
 Al acabar la classe, Mesmin m'acompanya a saludar als administradors de sistemes locals. Tal com havia vist a BCN, la infraestructura de xarxa té força problemes... només m'ensenyen la part física, un altre dia amb més temps els preguntaré temes de direccionament i configuracions dels serveis bàsics de xarxa.
 

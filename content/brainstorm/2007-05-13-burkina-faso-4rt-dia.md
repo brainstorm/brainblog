@@ -12,7 +12,7 @@ title: 'Burkina Faso: 4rt dia'
 
 Seguint l'horari que ens ha estat establert, dono dues hores de classe. Continuo explicant conceptes de seguretat en xarxes wireless. Durant uns moments m'envaeix la sensació que ningú entén què estic explicant... i efectivament, s'aixequen quatre braços esperant respostes: què és un firewall ?
 
-Explico doncs per sobre conceptes bàsics i aplicacions concretes: iptables i shorewall. Comento per sobre ZoneAlarm com a exemple de firewall d'usuari (apareix en les transparències que uso de la [LISA2005][1]). Segueixen l'explicació amb atenció i proposen regles addicionals a les que tinc definides al meu portàtil (regles shorewall) <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Fins i tot algú s'interessa per què és un DMZ i ràpidament entén el concepte. Trobo que ha estat encertada la idea de donar classes donant per suposat que els estudiants tènen un cert nivell. Així reaccionen fent preguntes contínuament sobre el que no entenen. Aquest fet dòna més vida a les classes perque són els mateixos alumnes els que treballen per desgranar què s'està explicant i no s'adormen.
+Explico doncs per sobre conceptes bàsics i aplicacions concretes: iptables i shorewall. Comento per sobre ZoneAlarm com a exemple de firewall d'usuari (apareix en les transparències que uso de la [LISA2005][1]). Segueixen l'explicació amb atenció i proposen regles addicionals a les que tinc definides al meu portàtil (regles shorewall) :) Fins i tot algú s'interessa per què és un DMZ i ràpidament entén el concepte. Trobo que ha estat encertada la idea de donar classes donant per suposat que els estudiants tènen un cert nivell. Així reaccionen fent preguntes contínuament sobre el que no entenen. Aquest fet dòna més vida a les classes perque són els mateixos alumnes els que treballen per desgranar què s'està explicant i no s'adormen.
 
 <div class='flickr_photo'>
   <center>
@@ -61,6 +61,6 @@ El mateix espai de comerç és aprofitat per a fabricar el producte: cosint roba
 
 Sortim del mercat sense comprar res a recomanació d'en Mesmin: una primera visita per tenir en ment preus raonables i un altre dia ja comprarem tot regatejant. Ell mateix ens fa alguna demostració i ens explica com funciona la dansa de preus entre venedors i compradors (que sigui dit de pas, varia força entre estrangers i locals).
 
-Després de la jornada intensa, una estona per descansar, escriure i pensar no està de menys i això és el que faig <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+Després de la jornada intensa, una estona per descansar, escriure i pensar no està de menys i això és el que faig :)
 
  [1]: http://blogs.nopcode.org/brainstorm/2006/07/19/my-lisa05-summaries-online/

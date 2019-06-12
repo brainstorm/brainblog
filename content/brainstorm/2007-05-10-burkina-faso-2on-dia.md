@@ -41,7 +41,7 @@ Autobusos replets, l'equipatge s'amuntega al sostre d'aquests forçant al límit
 
 Durant tot el viatge de **5 hores** faig fotos de la carretera, em sorprenen força coses:
 
-No hi ha muntanya, la vegetació és molt més abundant del que m'esperava... ho imaginava més desèrtic. La terra és de color vermell de mart, al que ens té acostumats la NASA <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_razz.gif" alt=":-P" class="wp-smiley" /> 
+No hi ha muntanya, la vegetació és molt més abundant del que m'esperava... ho imaginava més desèrtic. La terra és de color vermell de mart, al que ens té acostumats la NASA :P 
 
 <div class='flickr_photo'>
   <center>
@@ -59,7 +59,7 @@ Petites agrupacions de cases de fang al llarg del viatge... molt disperses, és 
 
 Els animals pasturen però en general estan ben quiets, sembla com si volguessin evitar al màxim qualssevol tipus de moviment que pugui generar calor, certament ja deuen tenir prou amb els 40ºC de temperatura ambient.
 
-En una de les parades abans d'arribar a Bobo (Komoro) decideixo comprar alguna cosa per picar als venedors ambulants... un tros de pa calent no sembla perillós, i és boníssim <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Mentre l'estic endrapant la venedora em torna a demanar per la finestra, fa cara d'indignada i junt amb els altres venedors em criden l'atenció ... havia pagat de més i em volia tornar el canvi :-! Un exemple de la procedència del nom del país: "Burkina Faso" traduït significa "Terra de la gent honesta".
+En una de les parades abans d'arribar a Bobo (Komoro) decideixo comprar alguna cosa per picar als venedors ambulants... un tros de pa calent no sembla perillós, i és boníssim :) Mentre l'estic endrapant la venedora em torna a demanar per la finestra, fa cara d'indignada i junt amb els altres venedors em criden l'atenció ... havia pagat de més i em volia tornar el canvi :-! Un exemple de la procedència del nom del país: "Burkina Faso" traduït significa "Terra de la gent honesta".
 
 <div class='flickr_photo'>
   <center>
@@ -69,7 +69,7 @@ En una de les parades abans d'arribar a Bobo (Komoro) decideixo comprar alguna c
 
 Al arribar a Bobo cal deixar el confort de l'aire acondicionat de l'autobús... tot i així, l'hostia de calor no m'agafa de sorpresa. Em rep Athanase & Xavi que em porten cap a l'hotel a deixar les maletes i anem a visitar el "centre de càlcul" a simple vista es veu un ordinador de la UPC i rosetes en **molt** mal estat.
 
-Al tercer intent trobo una roseta que m'assigna IP & voilà, connectat ! (així vaig fer el post d'ahir) <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />  
+Al tercer intent trobo una roseta que m'assigna IP & voilà, connectat ! (així vaig fer el post d'ahir) :)  
 Un cop instal·lats a l'hotel sopem un bistec amb patates acompanyat de cervesa Burkinesa ! Boníssima, altíssimament recomanable !
 
 De tornada veiem els mercats ambulants tancats, la gent passeja i algú ens saluda en un dels múltiples dialectes d'allà (en aquest cas, Dioula): Benvinguts !
@@ -94,4 +94,4 @@ Per si no us ho creieu, us ho explico:
 2.  Taula sobre el somier
 3.  **Jo** sobre la taula
 4.  Navalla en mà fent un forat al sostre intentant mantenir l'equilibri
-5.  Argolla col·locada i aguanta: Prova superada ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_biggrin.gif" alt=":-D" class="wp-smiley" />
+5.  Argolla col·locada i aguanta: Prova superada ! :D

@@ -27,7 +27,7 @@ Les dues hores de classe d'avui les dedico a mostrar la part més pràctica dels
 <!--more-->
 
   
-Mentre preparen l'exposició, aprofito per veure què fa la última fila de la classe on alguns dels alumnes tènen portàtils... estan revisant pàgines del CERT sobre seguretat WiFi ! Boníssim ! Faig sortir a tres persones (dues noies i un noi) a fer l'exposició i es defensen prou bé <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Mentre preparen l'exposició, aprofito per veure què fa la última fila de la classe on alguns dels alumnes tènen portàtils... estan revisant pàgines del CERT sobre seguretat WiFi ! Boníssim ! Faig sortir a tres persones (dues noies i un noi) a fer l'exposició i es defensen prou bé :) 
 
 Descobreixo més coses sobre l'antic radioenllaç Nasso-Bobo gràcies a les explicacions de Mesmin. A simple vista es veu un cable de baixa pèrdua LMR400 connectat a un pigtail N a SMA que al seu torn està connectat a un sistema embedded que haig de determinar què fa exactament.
 

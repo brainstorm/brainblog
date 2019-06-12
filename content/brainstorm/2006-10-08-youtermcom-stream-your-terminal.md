@@ -23,7 +23,7 @@ Les possibilitats del sistema són molt interessants:
 
 A que espereu ? Encara no heu feu submit del vostre [TermCast][4] ?! Correu abans que se'ns acabi l'ample de banda a nopcode.org (si, està allotjat en aquesta mateixa màquina, [nopcode.org][5]).
 
-Descobriu als altres visitants la força del vostre terminal ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+Descobriu als altres visitants la força del vostre terminal ! ;)
 
  [1]: http://barcelona.pm.org/
  [2]: http://meneame.net/story/youterm-youtube-videos-consola

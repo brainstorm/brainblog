@@ -39,6 +39,6 @@ Es dificil descriure amb paraules l'encant del lloc, pero si voleu tenir un peti
 - Palaus i temples en blanc marbre en la distancia, alguns en els pics de les montanyes que t'envolten  
 - Calma
 
-Podrieu resistir la temptacio d'estar-hi un dia mes ? Jo no <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Podrieu resistir la temptacio d'estar-hi un dia mes ? Jo no :)
 
  [1]: http://en.wikipedia.org/wiki/Pushkar

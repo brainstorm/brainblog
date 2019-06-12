@@ -15,7 +15,7 @@ tags:
 title: "LISA '05: Cinqu\xE8 dia"
 ---
 
-Toca descansar una mica de tanta conferència de LISA i veure món <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Ens vem aixecar aviat i ens vem preparar uns gofres que van sortir de conya:
+Toca descansar una mica de tanta conferència de LISA i veure món :) Ens vem aixecar aviat i ens vem preparar uns gofres que van sortir de conya:
 
 <center>
   <a href='http://blogs.nopcode.org/brainstorm/wp-content/images/gofres.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-gofres.jpg' alt='Gofres a San Diego' /></a>

@@ -56,7 +56,7 @@ Per sopar em trobo un indi amb caracter sosegat, que sembla tenir mes conversa q
 
 > Where are you from ? What's your name... ohh, Spain ? Hola !
 
-Finalment m'acaba convidant a compartir amb ell un "piscolavis" de chapati (pa indi) amb salsa... despres de dubtar forca, accedeixo, molt amable <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Finalment m'acaba convidant a compartir amb ell un "piscolavis" de chapati (pa indi) amb salsa... despres de dubtar forca, accedeixo, molt amable :) 
 
 <div class='flickr_photo'>
   <center>
@@ -66,4 +66,4 @@ Finalment m'acaba convidant a compartir amb ell un "piscolavis" de chapati (pa i
 
 La guia sol desaconsellar fortament el contacte amb locals, pero si hi apliquem una mica de sentit comu i aventura, veiem que la hospitalitat india no te rival.
 
-A mes, resulta ser l'aniversari de "Ganesh", el deu elefant. Per aquestes dates, a part de festes locals al carrer amb musica a tot volum, sembla ser que s'honora el "Shanti" (pau), un bon moment per ser hospitalari i amable <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+A mes, resulta ser l'aniversari de "Ganesh", el deu elefant. Per aquestes dates, a part de festes locals al carrer amb musica a tot volum, sembla ser que s'honora el "Shanti" (pau), un bon moment per ser hospitalari i amable :)

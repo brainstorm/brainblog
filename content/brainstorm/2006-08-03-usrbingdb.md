@@ -14,7 +14,7 @@ tags:
 title: 'usr-bin-gdb'
 ---
 
-No s'ha de posar pas un sh-bang per automatitzar una sessió de debugging repetitiva amb gdb, però el títol m'ha semblat encertat <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_razz.gif" alt=":-P" class="wp-smiley" /> Tot i això gdb s'ho empassa, si ho voleu posar, és totalment inofensiu <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> 
+No s'ha de posar pas un sh-bang per automatitzar una sessió de debugging repetitiva amb gdb, però el títol m'ha semblat encertat :P Tot i això gdb s'ho empassa, si ho voleu posar, és totalment inofensiu ;) 
 
 Simplement cal fer ús del paràmetre "-x" i passar-li un fitxer de text amb les comandes que vols executar, una per línea, així de fàcil:
 
@@ -31,7 +31,7 @@ n
 
 <!--more-->
 
-Tal com si treballessim interactivament amb el nostre gdb de sempre <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> A continuació teniu el resultat d'executar part de l'script que acabo de mostrar (certament no ve massa a cuento, però em fa gràcia posar-ho):
+Tal com si treballessim interactivament amb el nostre gdb de sempre :) A continuació teniu el resultat d'executar part de l'script que acabo de mostrar (certament no ve massa a cuento, però em fa gràcia posar-ho):
 
 <pre>> gdb -x exec_gdb
 (...)
@@ -45,4 +45,4 @@ Tal com si treballessim interactivament amb el nostre gdb de sempre <img src="ht
 1: /t *a = {1111111111111111111111111111111111111111111111111111111111111111,
 </pre>
 
-Aixx... -x, si t'hagués conegut abans... que bé va llegir la documentació (man gdb) de tant en tant, no trobeu ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_razz.gif" alt=":-P" class="wp-smiley" />
+Aixx... -x, si t'hagués conegut abans... que bé va llegir la documentació (man gdb) de tant en tant, no trobeu ? :P

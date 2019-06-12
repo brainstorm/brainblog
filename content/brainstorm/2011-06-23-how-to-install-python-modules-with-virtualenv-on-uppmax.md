@@ -128,7 +128,7 @@ $ workon devel<br />
 
 For the [rubyists][8] out there, there's a similar tool called [RVM][9] and for the [camels][10], there's [local::lib][11].
 
-Choose your weapon and enjoy your new [userland][12] freedom <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Choose your weapon and enjoy your new [userland][12] freedom :)
 
  [1]: http://www.uppmax.uu.se/how-to-install-your-own-python-modules-or-specific-python-version
  [2]: http://pypi.python.org/pypi/virtualenv

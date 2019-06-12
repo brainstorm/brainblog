@@ -76,7 +76,7 @@ So supervisord got that the exit status was unexpected (143 instead of 0 or 2) a
 
 After this check, one would want to get rid of the "nodaemon" directive so that supervisord runs on background and revise echo\_supervisord\_conf command to include the fancier features it offers. But after what I've shown, the default settings seem very reasonable to me.
 
-Det var lätt som en plett, eller ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Det var lätt som en plett, eller ? :)
 
  [1]: http://supervisord.org/
  [2]: http://supervisord.org/index.html

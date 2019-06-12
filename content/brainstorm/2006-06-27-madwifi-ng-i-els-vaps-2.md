@@ -47,7 +47,7 @@ ath2
 ath3
 </pre>
 
-Què acaba de passar ? Hem creat **tres** access points virtuals més sobre la mateixa tarja wifi <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Veiem-ho amb l'iwconfig (sortida retallada):
+Què acaba de passar ? Hem creat **tres** access points virtuals més sobre la mateixa tarja wifi :) Veiem-ho amb l'iwconfig (sortida retallada):
 
 <pre>ath0    IEEE 802.11g  ESSID:"test"
           Mode:Master  Frequency:2.417GHz  Access Point: 00:80:BE:BA:CA:FE
@@ -63,7 +63,7 @@ Aqui els tenim ! Quatre access points virtuals al mateix canal però amb **MACs 
 
 També es poden crear interfícies en mode client (sta) i d'altres. Per a més info, mireu-vos el [wiki][2] de madwifi-ng, no té desperdici.
 
-I què passa si creem aquests access points posant com a ESSID un AP legítim ? Un possible usuari despistat (o una radio nostra més potent) podria associar-se a nosaltres al veure tants AP's repetits a la llista d'scaneig. Cal anar doncs cada cop més amb compte amb els APs repetits abans de connectar-se a una xarxa sense fils <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+I què passa si creem aquests access points posant com a ESSID un AP legítim ? Un possible usuari despistat (o una radio nostra més potent) podria associar-se a nosaltres al veure tants AP's repetits a la llista d'scaneig. Cal anar doncs cada cop més amb compte amb els APs repetits abans de connectar-se a una xarxa sense fils ;)
 
  [1]: http://madwifi.org/
  [2]: http://madwifi.org/wiki/UserDocs

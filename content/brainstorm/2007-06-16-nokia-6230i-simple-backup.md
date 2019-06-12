@@ -25,7 +25,7 @@ The "AR" stands for "ARchive" and tells gnokii to search the SMS's there, and no
 
 Here I'm assuming that you have configured your [/etc/gnokiirc][2] [properly][3]. Just for the record, I'm using a [bluetooth usb adapter][4].
 
-As a result of this mini-howto, you have a plaintext copy of your phonebook and sms messages on your computer, isn't it easy and convenient ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Sure, there are clearly better and comprehensive alternatives out there, like [SyncML][5] ([OpenSync][6]), but this solution suits my needs very quickly and it's quite effortless.
+As a result of this mini-howto, you have a plaintext copy of your phonebook and sms messages on your computer, isn't it easy and convenient ? :) Sure, there are clearly better and comprehensive alternatives out there, like [SyncML][5] ([OpenSync][6]), but this solution suits my needs very quickly and it's quite effortless.
 
 Doing a backup of the photos is even simpler if you happen to have [kblueetothd][7], one of the coolest KDE [kioslaves][8]: just drag&drop the pictures to your PC and you're done !
 

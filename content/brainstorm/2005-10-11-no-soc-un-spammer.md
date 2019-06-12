@@ -32,7 +32,7 @@ Ara ja està corregit, és a dir, els dos resolen a nopcode.org. Després vaig o
 
 <!--more-->
 
-I en dos dies em van de-llistar <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> :<table style="color:black" width=100% border=0> 
+I en dos dies em van de-llistar :) :<table style="color:black" width=100% border=0> 
 
 <td width="10%">
   Netblock:
@@ -71,7 +71,7 @@ Ah, se'm oblidava, requisits previs imprescindibles (en el cas d'auna):
 
 Aviam si hi ha sort amb [NJABLDYNA][3] i amb [FIVETENSRC][4] :-).
 
-**EDIT:** Doncs he tingut sort ! He estat esborrat de les dues llistes que em faltaven al cap de 2 dies d'enviar el mateix mail que vaig enviar a SORBS <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+**EDIT:** Doncs he tingut sort ! He estat esborrat de les dues llistes que em faltaven al cap de 2 dies d'enviar el mateix mail que vaig enviar a SORBS :)
 
  [1]: http://blogs.nopcode.org/brainstorm/2005/09/10/registre-ptr-dauna/
  [2]: http://www.nl.sorbs.net/

@@ -24,7 +24,7 @@ Equipats amb audioguies, descobrim les diferents parts del increible fort i les 
 
 TODO: Vistes ciutat blava
 
-La visita al fort ens obliga a veure la ciutat en perspectiva, lluny del primer pla evident i sovint desagradable d'una ciutat bruta i caotica. Aixi doncs, visita recomanada <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+La visita al fort ens obliga a veure la ciutat en perspectiva, lluny del primer pla evident i sovint desagradable d'una ciutat bruta i caotica. Aixi doncs, visita recomanada :) 
 
 ## Voluntariat en el sud
 

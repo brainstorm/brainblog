@@ -46,6 +46,6 @@ Un dels nostres "camel mans" ens prepara un sopar delicios i complet, irradiant 
 
 Lluna plena en el desert mentre acluquem els ulls...
 
-Bona nit <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Bona nit :)
 
  [1]: http://www.perl.org

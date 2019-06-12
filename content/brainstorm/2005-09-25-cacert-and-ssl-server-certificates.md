@@ -22,7 +22,7 @@ My SSL certificates are not self-signed, I use a <acronym title="Certificate Aut
 
 I've joined that CA six months ago and I'm really happy with it. I've learnt lots of issues about SSL, certificate generation, CA's, security devices, trust policies, server configurations, code signing, etc...
 
-If you want to know more about certificates, check cacert's [wiki][2], there's a lot of interesting stuff there, including how to join CAcert's <acronym title="Web of Trust">WoT</acronym> <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />  
+If you want to know more about certificates, check cacert's [wiki][2], there's a lot of interesting stuff there, including how to join CAcert's <acronym title="Web of Trust">WoT</acronym> ;)  
 <!--more-->
 
 Next I'm gonna explain how easy it was to generate a certificate for my main domain and subdomains: I've simply used a helper perl [script][3] to generate a [<acronym title="Certificate Signing Request">CSR</acronym>][4] and a private key. Then, I've sent that CSR to CAcert, and they sent back to me my server certificate. Then, with a certificate signed by CAcert, and my private key file, I'm now able to secure my services (imap, smtp, www and jabber).

@@ -179,7 +179,7 @@ FileDaemon {                          # this is me
 }
 </pre>
 
-S'accepten crítiques/preguntes/idees ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+S'accepten crítiques/preguntes/idees ! ;)
 
  [1]: http://blogs.nopcode.org/brainstorm/wp-content/images/bacu_logored.jpg
  [2]: http://www.bacula.org/

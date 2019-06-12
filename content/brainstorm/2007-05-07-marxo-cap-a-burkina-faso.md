@@ -15,7 +15,7 @@ title: Marxo cap a... Burkina Faso
 
 La de coses que m'han passat desde el meu últim post... entre les més destacades estarien:
 
-*   A hores d'ara tots els que seguiu aquest blog ho sabeu, però: Ja sóc enginyer tècnic informàtic ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+*   A hores d'ara tots els que seguiu aquest blog ho sabeu, però: Ja sóc enginyer tècnic informàtic ! :) 
 *   D'aqui 11 hores aprox. marxo cap a [Ouagadougou][1], [Burkina Faso][2]
 
 La intenció d'aquest viatge és col·laborar amb la "Université Polytechnique de [Bobo Dioulasso][3]". Com ?:

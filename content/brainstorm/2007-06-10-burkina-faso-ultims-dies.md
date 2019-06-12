@@ -42,4 +42,4 @@ Al dia següent, el viatge de tornada el veig passar entre noms divertits de pob
 5.  NARIOU
 6.  RONSIN
 
-Finalment, i després d'una agradable estona de reflexions sobre tot plegat amb en Mesmin, pujo a l'avió molt satisfet i força inquiet. Apenes dormo durant el vol de nit sobrevolent el mar Mediterrani: la vista del cel per sobre els núvols s'ho mereix... estrella fugaç inclosa <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Finalment, i després d'una agradable estona de reflexions sobre tot plegat amb en Mesmin, pujo a l'avió molt satisfet i força inquiet. Apenes dormo durant el vol de nit sobrevolent el mar Mediterrani: la vista del cel per sobre els núvols s'ho mereix... estrella fugaç inclosa :)

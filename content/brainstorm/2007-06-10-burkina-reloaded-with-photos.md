@@ -10,7 +10,7 @@ tags:
 title: Burkina reloaded (with photos) !
 ---
 
-I just wanted to thank all the people involved in this project and all the readers, friends, comments and support received during my stay in Burkina Faso: Thanks to all ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+I just wanted to thank all the people involved in this project and all the readers, friends, comments and support received during my stay in Burkina Faso: Thanks to all ! :) 
 
 As I promised to many of you, I just edited the posts adding the highly requested photos of this wonderful experience: you can click on any of them, and you'll be transferred to the whole album. From there you can see all the 525 photos in a row: enjoy ! Please, be patient with my modest home server and bandwidth while checking the images :-S
 

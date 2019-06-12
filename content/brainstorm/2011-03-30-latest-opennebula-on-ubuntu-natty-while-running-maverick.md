@@ -19,7 +19,7 @@ So you cannot wait for a few days when the new ubuntu release comes out with upd
 2.  You get more intrepid and try to perform some black magic with apt-pinning, risking your system's integrity if you don't do it properly (thanks [@alexmuntada][2]!): <font color="red">#FAIL</font>
 3.  You realize that you want manageable distribution packages as opposed to [unmantainable][3] and [hard to share hacks][4] and go for the [recommended alternative to apt-pinning][5] (using deb-src): <font color="green">#WIN</font>
 
-Now, the <font color="green">#BIGWIN</font> would have been giving back to the community by building my own package and contributing it via [PPA][6] or whatever packaging system you use, but that good practice will come eventually <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Now, the <font color="green">#BIGWIN</font> would have been giving back to the community by building my own package and contributing it via [PPA][6] or whatever packaging system you use, but that good practice will come eventually :)
 
  [1]: http://opennebula.org/
  [2]: http://twitter.com/alexmuntada

@@ -43,9 +43,9 @@ Yep, that's it's main theme and I'm not a furniture expert, so why not add a com
   </tr>
 </table>
 
-All the components are holding by transparent nylon fishing wire. That way the visual impact of the hack is minimum <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> It was not easy to fit all the stuff in such a limited space. For instance, the PSU had to be unmounted outside the furniture, put the parts inside, and mounted again like a ship in a bottle :-P.
+All the components are holding by transparent nylon fishing wire. That way the visual impact of the hack is minimum :) It was not easy to fit all the stuff in such a limited space. For instance, the PSU had to be unmounted outside the furniture, put the parts inside, and mounted again like a ship in a bottle :-P.
 
-The hardware specs are quite minimum: PII 233 with 256 MB RAM, 10GB HDD, a couple of wireless network adapters (one PCI Atheros-based wifi card and the other one is a Senao 200mW PCMCIA card on a PLX PCI adapter). Finally there is also an ethernet card connected to an <acronym title="Analog Telephone Adapter">ATA</acronym> which is in turn connected to a cheap DECT phone. Now I'm using this computer as a free hotspot+PBX, and it's working quite good ATM <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+The hardware specs are quite minimum: PII 233 with 256 MB RAM, 10GB HDD, a couple of wireless network adapters (one PCI Atheros-based wifi card and the other one is a Senao 200mW PCMCIA card on a PLX PCI adapter). Finally there is also an ethernet card connected to an <acronym title="Analog Telephone Adapter">ATA</acronym> which is in turn connected to a cheap DECT phone. Now I'm using this computer as a free hotspot+PBX, and it's working quite good ATM :)
 
  [1]: http://en.wikipedia.org/wiki/Rattan
  [2]: http://images.google.es/images?q=hamper&hl=es&btnG=B%C3%BAsqueda+de+im%C3%A1genes

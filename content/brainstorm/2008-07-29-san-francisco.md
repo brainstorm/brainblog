@@ -13,7 +13,7 @@ tags:
 title: San Francisco
 ---
 
-Aquest és un post-draft de la meva visita a San Francisco & San Diego, California que es va quedar així fa uns anys, deixo a la vostra imaginació el recorregut/experiències <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Aquest és un post-draft de la meva visita a San Francisco & San Diego, California que es va quedar així fa uns anys, deixo a la vostra imaginació el recorregut/experiències :) 
 
 Després d'11 hores de vol, trobar-se algú que t'espera a la sortida per portar-te cap a San Francisco en cotxe no té preu... thx [HC][1] !
 

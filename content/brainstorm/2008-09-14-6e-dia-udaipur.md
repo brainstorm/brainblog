@@ -25,7 +25,7 @@ No s'ho pensa massa i em porta a un hostel mantingut per una familia la mar de s
 
 ## Rapides retrobades
 
-A l'endema em retrobo per pura casualitat amb Tamara en el mateix hostel ! Va acompanyada d'en Roeland, from Holland <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+A l'endema em retrobo per pura casualitat amb Tamara en el mateix hostel ! Va acompanyada d'en Roeland, from Holland :) 
 
 Junts planejem comencar per explorar la periferia d'Udaipur amb moto, tal com varem fer a Pushkar... 
 

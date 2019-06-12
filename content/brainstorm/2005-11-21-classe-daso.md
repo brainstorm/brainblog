@@ -15,9 +15,9 @@ title: Classe d'ASO
 
 Avui he donat una classe d'[ASO][1] a la facultat sobre unix i una mica de tot... he titulat la presentació "Com muntar un servidor a casa", més tard m'he adonat que no tenia pràcticament res a veure amb el contingut de la presentació. El títol "LCAC & Admin Unix: Experiències personals", potser ho descriu millor. En resum, la presentació ha acabant sent un recull d'experiències muntant el servidor de casa i treballant al LCAC.
 
-He fet la presentació a les 10 del matí i a les 5 de la tarda, per les opinions d'amics sembla que m'ha sortit força bé, ja comentareu ! De fet és la primera presentació tècnica que faig, davant de més de ~60 persones <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+He fet la presentació a les 10 del matí i a les 5 de la tarda, per les opinions d'amics sembla que m'ha sortit força bé, ja comentareu ! De fet és la primera presentació tècnica que faig, davant de més de ~60 persones :) 
 
-Per fer la presentació he usat una classe de latex molt interessant que vaig descobrir fa poc: [latex-beamer][2], us la recomano ! Queden unes presentacions amb un aspecte impecable i estructurades al més pur estil LaTeX <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Per fer la presentació he usat una classe de latex molt interessant que vaig descobrir fa poc: [latex-beamer][2], us la recomano ! Queden unes presentacions amb un aspecte impecable i estructurades al més pur estil LaTeX :) 
 
 [Aqui][3] teniu el pdf i les [fonts][4].
 

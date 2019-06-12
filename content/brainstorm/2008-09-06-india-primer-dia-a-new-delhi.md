@@ -12,7 +12,7 @@ tags:
 title: 'India: Primer dia a New Delhi'
 ---
 
-Despres del kitkat blogil motivat per problemes tecnics, torno a emetre... de moment en mode BETA i sense fotos, i ja que estem posats, sense accents <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Despres del kitkat blogil motivat per problemes tecnics, torno a emetre... de moment en mode BETA i sense fotos, i ja que estem posats, sense accents :) 
 
 Si algu sap com posar accents en un teclat bluetooth DELL america i en una nokia 770, li agraïre... merci plue pel teclat !
 
@@ -24,7 +24,7 @@ Virgin atlantic, compania aerea fins ara desconeguda per mi: Aquesta gent no es 
 
 ## Arribada
 
-Despres de les obligades comprovacions del visat, omplert de formularis similars als d'USA pero sense tantes preguntes antiterrorista, ja soc dins ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Despres de les obligades comprovacions del visat, omplert de formularis similars als d'USA pero sense tantes preguntes antiterrorista, ja soc dins ! :) 
 
 Canvio euros per rupies... de sobte l'oficinista em dona dos feixos de bitllets que no m'esperava pas: El canvi esta bastant desigualat. En el moment d'escriure aquestes linees, 1000 rupies (Rs) són 15€. Al canviar 300€ en 6 bitllets de 50€, em vaig trobar de sobte amb un bon feix de bitllets difícils d'amagar :-S
 
@@ -40,13 +40,13 @@ Canvio euros per rupies... de sobte l'oficinista em dona dos feixos de bitllets 
 
 A la sortida de l'aeroport, cal ser rapids i practics si hi ha sort de divisar un autobus verd a la sortida, a per ell ! Seran 50Rs + 25Rs addicionals per equipatge que porteu.
 
-Altrament, si no voleu esperar massa, conegueu a una simpatica parella de manyicos de Saragossa i compartiu taxi previa reserva (300Rs a compartir entre tres) <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Altrament, si no voleu esperar massa, conegueu a una simpatica parella de manyicos de Saragossa i compartiu taxi previa reserva (300Rs a compartir entre tres) :) 
 
 El primer contacte amb la circulacio de Delhi, no es apte per cardiacs: una norma basica del seu codi de circulacio es pitar, tota altra senyal, es totalment secundaria. El resultat es una Cristina comentant amablement pero amb espant i urgencia:
 
 <quote>Driver, be careful, please !</quote>
 
-Pero no hi ha res a fer, la circulacio es totalment normal a ulls indis <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Pero no hi ha res a fer, la circulacio es totalment normal a ulls indis :) 
 
 *   Qui necessita l'absurda norma de distancia de seguretat ? Pita'm quan et falti mig centimetre per xocar, gracies
 *   Senyals pintades a la via... delimiten carrils de circulacio ? Nope, tant sols son decoratives, pita si no et deixo passar per el meu carril
@@ -61,7 +61,7 @@ Observant els locals he conseguit aprendre les dues tecniques fonamentals per cr
 1.  Actuar com Indiana Jones quan intentava creuar un pont invisible: fer un acte de fe pel qual no t'atropellaran i aguantar les pitades com un valent.
 2.  Seguir un grup de locals en el moment que es decideixen a fer la maniobra 1.
 
-El cert, es que despres d'aprendre a creuar, aixeques un moment la vista, mires al teu voltant i veus una gentada en moviment, colors, olors, soroll i caos... satura els sentits, ja soc a l'india, nomes em queda aprendre a estar-hi <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+El cert, es que despres d'aprendre a creuar, aixeques un moment la vista, mires al teu voltant i veus una gentada en moviment, colors, olors, soroll i caos... satura els sentits, ja soc a l'india, nomes em queda aprendre a estar-hi :) 
 
 El tema olors no em va impactar tant com creia... no hi ha per tant, a Barcelona tambe hi ha carrers que fan olor a pixat i a tub d'escapament, tot i que certament no hi ha vaques al carrer :S 
 
@@ -92,4 +92,4 @@ Cristina, una italiana hiperactiva i molt simpatica te el detall d'escriure'm un
 *   Cheese Naan
 *   Chai
 
-Tinc forca temps i ganes per descobrir aixo i molt mes, i vosaltres ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Tinc forca temps i ganes per descobrir aixo i molt mes, i vosaltres ? :)

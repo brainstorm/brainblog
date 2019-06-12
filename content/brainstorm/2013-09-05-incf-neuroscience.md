@@ -29,7 +29,7 @@ Before that, I spent almost [3 years in another field][4] of (data) science, gen
 
 Also today I got to answer a series of seemingly routine questions prior to attending a workshop ([EUDAT][6]). While I was writing, I realized that I was drawing a nice portrait of today's data science wins and struggles, be it genomics, neuroscience or other data-hungry sciences I might encounter during my career.
 
-Suddenly I couldn't resist to share my braindumpings, I hope you enjoy the read <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Suddenly I couldn't resist to share my braindumpings, I hope you enjoy the read :) 
 
 <!--more-->
 

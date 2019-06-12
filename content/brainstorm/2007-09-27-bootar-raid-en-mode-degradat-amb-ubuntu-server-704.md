@@ -20,7 +20,7 @@ Doncs res, sorpresa: Ubuntu server es nega a bootar si falta algun dels discs O_
 
 El cas és que salta una consola del ramdisk inicial i no arrenca res de l'array :/ Després de passar-me una bona estona pels foros, trobar i aplicar la solució, [reporto el bug al launchpad d'Ubuntu][3].
 
-Bé, només volia estalviar aquest trencaclosques que lliga initramfs+mdadm per al que vol que el seu RAID funcioni com hauria, *enjoy it* <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Bé, només volia estalviar aquest trencaclosques que lliga initramfs+mdadm per al que vol que el seu RAID funcioni com hauria, *enjoy it* :)
 
  [1]: http://en.wikipedia.org/wiki/Fakeraid#Software_RAID
  [2]: http://en.wikipedia.org/wiki/Master_boot_record

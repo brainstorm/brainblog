@@ -30,7 +30,7 @@ You can check [LISA's main page][1] and see their juicy tutorial and technical s
 
 Some of my friends told me to go to an annual [22C3][3] meeting, from Chaos Computer Club, which has nothing to do with [CCC][4] nor [CCC][5]. I've had to drop their offer because I was waiting the above mail from LISA... So, you guys, beat that GMT-8 vs your not\_too\_much\_far\_from_home GMT+1 ;-P
 
-Now seriously, enjoy you all too and have a nice Christmas from Berlin <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> I'll be preparing my final exams that time :_/
+Now seriously, enjoy you all too and have a nice Christmas from Berlin ;) I'll be preparing my final exams that time :_/
 
  [1]: http://www.usenix.org/events/lisa05/
  [2]: http://www.usenix.org/events/lisa05/training/

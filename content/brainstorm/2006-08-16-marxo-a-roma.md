@@ -10,6 +10,6 @@ tags:
 title: Marxo a Roma
 ---
 
-Del 16 al 21 faig un viatge amb amics a [Roma][1], a culturitzar-se una mica i veure món <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> En fi, només volia dir que disfruteu les vacances els que em llegiu... si es que encara hi ha algú que ho fa ;-P
+Del 16 al 21 faig un viatge amb amics a [Roma][1], a culturitzar-se una mica i veure món :) En fi, només volia dir que disfruteu les vacances els que em llegiu... si es que encara hi ha algú que ho fa ;-P
 
  [1]: http://wikitravel.org/en/Rome

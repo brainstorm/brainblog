@@ -14,7 +14,7 @@ As [pool.ntp.org][1] website states:
 
 > The pool.ntp.org project is a big virtual cluster of timeservers striving to provide reliable easy to use NTP service for millions of clients without putting a strain on the big popular timeservers 
 
-I'm using this service for ages, and one day I though that it was fair to contribute a **really** minimal amount of bandwidth to help improving the overall reliability of pool.ntp.org... well at least pool.europe.ntp.org <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+I'm using this service for ages, and one day I though that it was fair to contribute a **really** minimal amount of bandwidth to help improving the overall reliability of pool.ntp.org... well at least pool.europe.ntp.org :) 
 
 I've measured the instant and average bitrate in KB with [mesure][2], these are the results:
 
@@ -35,7 +35,7 @@ As you see, it's just ~1KB/s of "lost" bandwidth... as I said, minimal. Of cours
 
 The joining process is completely painless, just an email @ (with confirmation mail) and password have to be supplied, and you've got to change pool.ntp.org server and choose 3-5 static stratum 2 hosts from a [list][3], this policy assures an acceptable quality of service.
 
-In exchange for the bandwidth, they provide a couple of interesting [stats][4] too evaluate my ntp server quality... I hope that I've convinced you to join, see you there ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+In exchange for the bandwidth, they provide a couple of interesting [stats][4] too evaluate my ntp server quality... I hope that I've convinced you to join, see you there ! ;)
 
  [1]: http://www.pool.ntp.org/
  [2]: ftp://ftp.nopcode.org/prj/mesure/mesure-0.5.tar.gz

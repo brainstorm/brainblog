@@ -53,7 +53,7 @@ L'avantatge d'aquest sistema es veu en aquest log: l'spammer no ha passat del [R
 1.  Estalvi d'ample de banda: spammer, queda't el cos del missatge
 2.  Estalvi en temps de CPU: Els filtres bayesians descansen
 
-Pero no tot són meravelles a SPF, s'han de tenir ben presents els [greus problemes que comporta][11] implantar aquest sistema. Tot i així, i sent conscient dels seus problemes, SPF ha conseguit retornar la calma al meu INBOX, benvingut ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Pero no tot són meravelles a SPF, s'han de tenir ben presents els [greus problemes que comporta][11] implantar aquest sistema. Tot i així, i sent conscient dels seus problemes, SPF ha conseguit retornar la calma al meu INBOX, benvingut ! :) 
 
 Ah ! He mostrat la banda "interna" d'SPF, aqui teniu l'externa (la que publico via registre TXT de DNS):
 

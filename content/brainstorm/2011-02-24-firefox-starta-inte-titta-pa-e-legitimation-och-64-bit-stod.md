@@ -125,6 +125,6 @@ in __kernel_vsyscall ()</p>
 #8  0xb638ca4e in clone () from /lib/tls/i686/cmov/libc.so.6<br />
 </http:>`
 
-Visst, **/usr/local/lib/libtokenapi.so** är den skyldige. Följa [en andra post här][1] om du vill fixa det, lycka till ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Visst, **/usr/local/lib/libtokenapi.so** är den skyldige. Följa [en andra post här][1] om du vill fixa det, lycka till ! :)
 
  [1]: http://blogs.nopcode.org/brainstorm/2010/06/21/swedish-vs-spanish-digital-certificate-hacks/

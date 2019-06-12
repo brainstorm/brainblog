@@ -171,7 +171,7 @@ Then, update the ramdisk image by running:
 
 Now, using virt-manager, you expect to see your virtual machine booting... but it complains about not being able to connect via VNC. Looking around launchpad bug I get some pointers and manage to fix the issue and [report my case][2].
 
-As usual I only wish others to avoid wasting their time on those bugs, good luck <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+As usual I only wish others to avoid wasting their time on those bugs, good luck :)
 
  [1]: http://en.wikipedia.org/wiki/Open_Virtualization_Format
  [2]: https://bugs.launchpad.net/ubuntu/+source/libvirt/+bug/517478

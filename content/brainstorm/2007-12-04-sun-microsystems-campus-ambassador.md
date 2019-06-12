@@ -24,11 +24,11 @@ As the title states, I've been recently elected as a campus ambassador for my un
 *   Help support Sun events and contests
 *   Evangelize Sun development tools to students, professors and researchers
 
-So I'll be posting here (or my own sun.com blog) my experiences on this new opportunity on my life as a computer enthusiast <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> There are a lot of new and amazing **Open Source** Sun initiatives to discover and explore, I'll try to keep you all readers entertained with my findings !
+So I'll be posting here (or my own sun.com blog) my experiences on this new opportunity on my life as a computer enthusiast :) There are a lot of new and amazing **Open Source** Sun initiatives to discover and explore, I'll try to keep you all readers entertained with my findings !
 
-In fact, [jmmv][1] has already greeted my on his blog in advance about a topic related to [DTrace][2], thanks Julipedia <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> 
+In fact, [jmmv][1] has already greeted my on his blog in advance about a topic related to [DTrace][2], thanks Julipedia ;) 
 
-Thanks also to my [favourite sysadmins][3] for my new DTrace [privileges][4] needed to conduct my first tech talk <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Thanks also to my [favourite sysadmins][3] for my new DTrace [privileges][4] needed to conduct my first tech talk :) 
 
 <font color='#f63526'>*UPDATE*</font>: Here's my new Sun blog: <http://blogs.sun.com/rvalls>
 

@@ -16,7 +16,7 @@ tags:
 title: Bad clouds, good clouds
 ---
 
-This is an on-demand blog post, none of the actors are real institutions nor people, anything resembling real life might be pure coincidence <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+This is an on-demand blog post, none of the actors are real institutions nor people, anything resembling real life might be pure coincidence :) 
 
 So there's a day, that day when an organization realizes that there's a real need to have a solid cloud platform as an official infrastructure offering. Admit it, we all have some idle cycles we could make better use of.
 

@@ -16,7 +16,7 @@ Since I do think that spoken [languages are just pipes][1] and I use them interc
 
 But sometimes you find yourself reading on some foreign bit of info, like a [swedish][2] [newspaper][3]... sure, one can easily perform a full translation by just going to google translate, but supposing you're learning how to use a new <acronym title='spoken languange'>pipe</acronym>, how can you translate that word and integrate it into your vocabulary without losing the focus on the piece of text you were reading on the first place ?
 
-Firefox with [greasemonkey][4] together with [Google Translator Tooltip][5], saves the day for me, I hope it's useful to you as well <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Firefox with [greasemonkey][4] together with [Google Translator Tooltip][5], saves the day for me, I hope it's useful to you as well :) 
 
 **Hint:** configure it as "detect language" and you have an anti-babel device in just one double click.
 

@@ -13,7 +13,7 @@ tags:
 title: Asus W5A bluetooth patch per el kernel 2.6.14
 ---
 
-Recentment he conseguit fer anar el suport bluetooth del meu portàtil adaptant un [patch fet per el kernel 2.6.13][1] al 2.6.14. No he hagut de canviar massa coses, però si no voleu perdre una estona arreglant els rejects del patch original, aqui teniu el [meu per el 2.6.14][2] <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> 
+Recentment he conseguit fer anar el suport bluetooth del meu portàtil adaptant un [patch fet per el kernel 2.6.13][1] al 2.6.14. No he hagut de canviar massa coses, però si no voleu perdre una estona arreglant els rejects del patch original, aqui teniu el [meu per el 2.6.14][2] ;) 
 
 Despres d'aplicar-lo, compileu el kernel amb les opcions de BT activades (no cal totes, només que les fareu servir, p.ex, BT_SCO no és necessari si no teniu intenció de treballar amb audio & bluetooth).
 
@@ -49,7 +49,7 @@ ASL comp revision  : 0x2002026
 # echo 1 > /proc/acpi/asus/bled
 </pre>
 
-Si tot ha anat bé l'últim echo encendrà la llum del bluetooth. Podeu fer els emerges de les tools que necessitareu i llestos <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Si tot ha anat bé l'últim echo encendrà la llum del bluetooth. Podeu fer els emerges de les tools que necessitareu i llestos :) 
 
 <pre># emerge net-wireless/bluez-utils net-wireless/bluez-hcidump
 </pre>

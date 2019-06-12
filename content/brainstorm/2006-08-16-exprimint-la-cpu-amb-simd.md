@@ -14,17 +14,17 @@ tags:
 title: Exprimint la CPU amb SIMD
 ---
 
-Fa un temps vaig [comentar][1] que parlaria més o menys regularment de BioDAC... bé, el cert és que durant el curs ja he anat prou atabalat i no m'hi he pogut dedicar tot el que voldria, però ara sí <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Fa un temps vaig [comentar][1] que parlaria més o menys regularment de BioDAC... bé, el cert és que durant el curs ja he anat prou atabalat i no m'hi he pogut dedicar tot el que voldria, però ara sí :) 
 
 Un dels objectius bàsics que comentava en el post inicial de la beca era: 
 
 > (...) optimitzar tècniques de pattern matching usant instruccions [SIMD][2] presents en els microprocessadors d’avui en dia
 
-Doncs bé, això he fet aquests dies de sol i pluja d'estiu, tot alternant entre platja i tecles <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> 
+Doncs bé, això he fet aquests dies de sol i pluja d'estiu, tot alternant entre platja i tecles ;) 
 
 ### Què és SIMD ?
 
-En poques paraules: procesar amb una sola instrucció, múltiples dades, d'aqui ***S**ingle **I**nstruction **M**ultiple **D**ata*. No explicaré més a fons els detalls d'aquesta tecnologia, trobo que wikipedia ja em substitueix prou bé <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Només volia comentar uns detalls que m'he trobat al treballar-hi i que està bé tenir en compte si decidiu traduïr el vostre flamant algorisme per a que usi registres vectorials...
+En poques paraules: procesar amb una sola instrucció, múltiples dades, d'aqui ***S**ingle **I**nstruction **M**ultiple **D**ata*. No explicaré més a fons els detalls d'aquesta tecnologia, trobo que wikipedia ja em substitueix prou bé :) Només volia comentar uns detalls que m'he trobat al treballar-hi i que està bé tenir en compte si decidiu traduïr el vostre flamant algorisme per a que usi registres vectorials...
 
 <!--more-->
 
@@ -94,7 +94,7 @@ Les instruccions vectorials estan pensades per a multimèdia, per a processar mo
 }
 </pre>
 
-S'accepten millores/optimitzacions d'aquest últim <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+S'accepten millores/optimitzacions d'aquest últim ;)
 
  [1]: http://blogs.nopcode.org/brainstorm/2005/10/02/beca-de-formacio-biodac/
  [2]: http://en.wikipedia.org/wiki/SIMD

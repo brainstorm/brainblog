@@ -45,7 +45,7 @@ foreach my $ssid (@ssids) {
 }
 </pre>
 
-Pipejant l'script amb sort & uniq ja tenim lo que buscava, sense complicacions. Per una versió més elaborada, podeu preguntar a en [MiKi][7] <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+Pipejant l'script amb sort & uniq ja tenim lo que buscava, sense complicacions. Per una versió més elaborada, podeu preguntar a en [MiKi][7] ;)
 
  [1]: http://blogs.nopcode.org/brainstorm/2005/12/05/san-diego-lanada-1er-dia/
  [2]: http://neg9.org/toorcon/toorcon2004_cd/Schmoo%20Group

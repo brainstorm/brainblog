@@ -58,7 +58,7 @@ During a very quick walk around the room, I discovered [a variant analysis pipel
 
 From [provenance standardization][21] to [workflow systems][22] and a prototype to collect runtime metrics by [Per Unneberg][23] gives a grasp on the exciting ways left to walk for genomics and computational biology.
 
-Definitely looking forward to some more action tomorrow morning <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Definitely looking forward to some more action tomorrow morning :)
 
  [1]: http://www.open-bio.org/wiki/BOSC_2013 "Bioinformatics Open Source Conference 2013"
  [2]: http://www.bioruby.org/

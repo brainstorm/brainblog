@@ -34,7 +34,7 @@ A veure això :
 38.0.57.62.in-addr.arpa domain name pointer nopcode.org.
 </pre>
 
-Si finalment retiren la meva ip de la llista negra, escriuré un altre post explicant com fer-ho pas a pas <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+Si finalment retiren la meva ip de la llista negra, escriuré un altre post explicant com fer-ho pas a pas ;)
 
  [1]: http://en.wikipedia.org/wiki/PTR_record
  [2]: http://www.dnsstuff.com/tools/ip4r.ch?ip=62.57.0.38

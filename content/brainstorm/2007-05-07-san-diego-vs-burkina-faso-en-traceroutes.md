@@ -69,4 +69,4 @@ over a maximum of 30 hops:
  20   348 ms   623 ms   353 ms  10.127.42.14
 </pre>
 
-Gracias Elli por el traceroute desde Bobo ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+Gracias Elli por el traceroute desde Bobo ! ;)

@@ -29,4 +29,4 @@ CONFIG_USB_HIDINPUT=y
 <li>A les instruccions diu que és resistent a àcids també... espero no trobar-me mai en aquests entorns :-S</li>
 <li>Si l'usuari és extremadament porc i no vol perdre temps netejant les tecles (amb aigua i sabó es renta ràpidament).</li>
 </ul>
-<p>S'accepten més idees <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> </p>
+<p>S'accepten més idees ;) </p>

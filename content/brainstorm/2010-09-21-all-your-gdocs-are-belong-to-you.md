@@ -32,7 +32,7 @@ cd gdata-python-client && sudo setup.py install<br />
 
 If your environment is sane, that would install your libs under /usr/local, not having to worry about munging with $PYTHONPATH.
 
-Then, for googlecl, well, surprise: "easy_install googlecl" will do the trick (ignore INSTALL.txt this time) <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Then, for googlecl, well, surprise: "easy_install googlecl" will do the trick (ignore INSTALL.txt this time) :) 
 
 Now, issuing a simple (no wildcard "*" needed!):
 
@@ -44,13 +44,13 @@ Downloading (42) CasosUs to /home/romanvg/tmp/docs.txt/(42) CasosUs.txt
 (...)
 </pre>
 
-Will download all your documents <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> It's important that you leave the command run until its full completion, otherwise most of the documents (if not all) will not be written to disk. There's another catch as well: watch out for error messages like the following:
+Will download all your documents :) It's important that you leave the command run until its full completion, otherwise most of the documents (if not all) will not be written to disk. There's another catch as well: watch out for error messages like the following:
 
 <pre>[Errno 2] No such file or directory: '/home/romanvg/tmp/docs.txt/Placement / Keyword Report, Feb 15, 2010 4:29:01 PM Central European Time.xls'
 Does your destination filename contain invalid characters?
 </pre>
 
-So morale of the story: Keep your filenames short, lowercased and simple, the UNIX way or clutter your nifty code with error-handling <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+So morale of the story: Keep your filenames short, lowercased and simple, the UNIX way or clutter your nifty code with error-handling :)
 
  [1]: http://www.ecko-labs.com/wp-content/themes/mystream/thumb.php?src=wp-content/uploads/2010/06/googlecl21.png&w=390&h=230&zc=1&q=90
  [2]: http://en.wikipedia.org/wiki/All_your_base_are_belong_to_us

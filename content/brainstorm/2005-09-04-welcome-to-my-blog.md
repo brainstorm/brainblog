@@ -10,9 +10,9 @@ tags:
 title: Welcome to my blog !
 ---
 
-So here it is: yet another personal geekish blog <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> You may be asking... why another one ? Well, I've some thoughts, projects, wishes... *interests* for short, which I'm really willing to share for too much time till now.
+So here it is: yet another personal geekish blog :) You may be asking... why another one ? Well, I've some thoughts, projects, wishes... *interests* for short, which I'm really willing to share for too much time till now.
 
-My main purposes on this blog are manifold: technical writings, thoughts, findings, reflections... and of course being interesting and fun altogether. Moreover, I hope you would enjoy it like I will ! Please, feel free to post comments ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+My main purposes on this blog are manifold: technical writings, thoughts, findings, reflections... and of course being interesting and fun altogether. Moreover, I hope you would enjoy it like I will ! Please, feel free to post comments ! :) 
 
 In addition, I decided that posts will be indifferently written in English, Catalan or even Spanish because I don't want to stuck on my way of expressing in just one language and because I enjoy using them all.
 

@@ -19,7 +19,7 @@ La motivació final del projecte és optimitzar aquestes técniques de *pattern 
 
 Ara mateix estem en la fase inicial que consisteix en buscar algoritmes i fer implementacions preliminars per tal de tenir una idea clara de com funcionen exactament aquests algoritmes. El professor que porta aquesta beca ens ha recomanat un <acronym title="Flexible pattern matching in strings"><a href="http://www.dcc.uchile.cl/~gnavarro/FPMbook/">llibre</a></acronym> que explica amb detall com funcionen aquests algoritmes i les diferents variants/optimitzacions possibles. A part, també hem creat un compte a [del.icio.us][7] on anem postejant totes les url's interessants que s'envien periòdicament a una llista de correu privada gràcies a [rss2email][8].
 
-Bé doncs intentaré postejar de forma regular els meus progressos per tal que no acabi sent una pràctica amb entrega final per ahir <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+Bé doncs intentaré postejar de forma regular els meus progressos per tal que no acabi sent una pràctica amb entrega final per ahir :)
 
  [1]: http://www.ac.upc.edu
  [2]: http://www.ac.upc.edu/personal/rvalls,en.html

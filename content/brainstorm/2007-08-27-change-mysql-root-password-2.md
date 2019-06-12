@@ -45,6 +45,6 @@ mysql&gt; flush privileges;
 Query OK, 0 rows affected (0.01 sec)
 </pre>
 
-Thanks to [netadmintools][1] for this quick recipe <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Thanks to [netadmintools][1] for this quick recipe :)
 
  [1]: http://www.netadmintools.com/art90.html

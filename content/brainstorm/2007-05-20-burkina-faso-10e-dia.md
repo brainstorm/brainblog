@@ -18,7 +18,7 @@ Avui arribem força d'hora a l'ESI, pero de seguida veiem que algo passa: tots e
   </center>
 </div>
 
-Abans però, en Xavi em demana que em miri un portàtil suposadament avariat que s'arregla automàgicament <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Després em dedico a informar als administradors sobre els progressos que vaig assolint amb el servidor. Al cap i a la fi, ells es faràn càrrec d'aquesta màquina quan jo no hi sigui i han d'estar preparats. Per tal de fer una petita prova, connectem un dels PC's de la mateixa sala al servidor, formant una petita xarxa local d'un sol pc. Resulta ser suficient per veure que les regles que havia definit al firewall són massa restrictives i les rectifico. També activo l'IP forwarding, després de tot, volem proxy per web, no per a tota connexió.  
+Abans però, en Xavi em demana que em miri un portàtil suposadament avariat que s'arregla automàgicament :) Després em dedico a informar als administradors sobre els progressos que vaig assolint amb el servidor. Al cap i a la fi, ells es faràn càrrec d'aquesta màquina quan jo no hi sigui i han d'estar preparats. Per tal de fer una petita prova, connectem un dels PC's de la mateixa sala al servidor, formant una petita xarxa local d'un sol pc. Resulta ser suficient per veure que les regles que havia definit al firewall són massa restrictives i les rectifico. També activo l'IP forwarding, després de tot, volem proxy per web, no per a tota connexió.  
 <!--more-->
 
 Resulta impactant veure en els logs la quantitat d'atacs que rep el firewall desde internet. Fins ara l'estratègia de firewalling a l'ESI consistia en instal·lar firewalls d'aplicació de windows en tots i cada un dels ordinadors... i resar perque l'usuari no desactivés el firewall :-S Això suposa un risc de seguretat important per l'ESI, i de fet, els virus proliferen dins d'aquesta xarxa. Sense anar més lluny, el pendrive d'en Xavier ja té tres virus provinents d'una de les màquines dels laboratoris. En aquest sentit, els administradors es queixen perque no dónen l'abast pel que fa a reinstal·lar windows sovint. Trobo que donades aquestes circumstàncies és **normal**.
@@ -41,7 +41,7 @@ A última hora, decideixo posar en producció el servidor, canviant el PC on fin
 *   Clar que sí home, cap problema ! Fes, fes !
 *   M'encanta això, tant de bo pogués fer-ho amb aquesta soltura a la feina X"D
 
-En Bob riu una bona estona, deu pensar que els administradors europeus estem carregats de punyetes pel que fa al tracte amb l'usuari <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Amb tot el respecte li explico el concepte de [<acronym title='Bastard Operator From Hell'>BOFH</acronym>][2] i en tenim per una bona estona amb els riures <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_razz.gif" alt=":-P" class="wp-smiley" /> 
+En Bob riu una bona estona, deu pensar que els administradors europeus estem carregats de punyetes pel que fa al tracte amb l'usuari :) Amb tot el respecte li explico el concepte de [<acronym title='Bastard Operator From Hell'>BOFH</acronym>][2] i en tenim per una bona estona amb els riures :P 
 
 Després de tot, l'invent funciona correctament i al cap d'uns minuts ja hi ha varies webs en el proxy-cache i més de 600 dominis en la cache de BIND.
 
@@ -50,7 +50,7 @@ Després de tot, l'invent funciona correctament i al cap d'uns minuts ja hi ha v
 655
 </pre>
 
-Per a celebrar la posada en marxa de la màquina, li pregunto a un dels estudiants què fan per el vespre-nit i quedem per anar a un "Maqui", que és el nom que reben aqui els bars amb terrassa. Entre riures i anécdotes ens anem coneixent tots, sembla que tots tenen molt inculcat que a part d'informàtics han de ser homes de negocis que maneguin molts diners. Entre els càrrecs més repetits dels "jo vull ser..." figura el de <acronym title='DataBase Administrator'>DBA</acronym>. Intercambien experiències, costums, etc. Per exemple, els nois em pregunten què busquen les noies catalanes en els africans... no tinc més remei que respondre-li que si ho sabés li diria encantat i que el desconeixement és general, no només en el cas africà... noies, si voleu comentar e ilustrar-me estaré encantat :P. Ah! Per cert, aqui es dóna la mà a les noies per saludar, tot i això accepten de bon grat els dos petons als que estem acostumats a Barcelona <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Em comenten que només es fa aquesta salutació en ocasions especials.
+Per a celebrar la posada en marxa de la màquina, li pregunto a un dels estudiants què fan per el vespre-nit i quedem per anar a un "Maqui", que és el nom que reben aqui els bars amb terrassa. Entre riures i anécdotes ens anem coneixent tots, sembla que tots tenen molt inculcat que a part d'informàtics han de ser homes de negocis que maneguin molts diners. Entre els càrrecs més repetits dels "jo vull ser..." figura el de <acronym title='DataBase Administrator'>DBA</acronym>. Intercambien experiències, costums, etc. Per exemple, els nois em pregunten què busquen les noies catalanes en els africans... no tinc més remei que respondre-li que si ho sabés li diria encantat i que el desconeixement és general, no només en el cas africà... noies, si voleu comentar e ilustrar-me estaré encantat :P. Ah! Per cert, aqui es dóna la mà a les noies per saludar, tot i això accepten de bon grat els dos petons als que estem acostumats a Barcelona :) Em comenten que només es fa aquesta salutació en ocasions especials.
 
 <div class='flickr_photo'>
   <center>
@@ -58,7 +58,7 @@ Per a celebrar la posada en marxa de la màquina, li pregunto a un dels estudian
   </center>
 </div>
 
-De tornada cap a l'hotel, la cuina de l'hotel ja està tancada... per sort no tenia gana igualment, així que decideixo anar a dormir i demà ja esmorçaré fort per compensar <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+De tornada cap a l'hotel, la cuina de l'hotel ja està tancada... per sort no tenia gana igualment, així que decideixo anar a dormir i demà ja esmorçaré fort per compensar :)
 
  [1]: http://wndw.net/
  [2]: http://en.wikipedia.org/wiki/BOFH

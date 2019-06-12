@@ -16,9 +16,9 @@ tags:
 title: Nokia 6230i unlock procedure
 ---
 
-I've recently acquired a nokia 6230i cellphone but it's locked for my provider: amena... but hey, good news, I can [unlock it for free][1] <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> The reason of this post is twofold:
+I've recently acquired a nokia 6230i cellphone but it's locked for my provider: amena... but hey, good news, I can [unlock it for free][1] :) The reason of this post is twofold:
 
-*   Give thanks to [3DES][2] for his short but informative [post][3] about that matter <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> 
+*   Give thanks to [3DES][2] for his short but informative [post][3] about that matter ;) 
 *   The procedure required to unlock nokia 6230i [differs][4] from what's advised on the web: **you have to keep your SIM inserted** on the phone while executing the procedure, **do not remove it beforehand !**
 
 Just wanted to document that issue that kept me trying and reading recipes for a while.

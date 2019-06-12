@@ -12,7 +12,7 @@ tags:
 title: "Burkina Faso: 7\xE8 dia"
 ---
 
-Fins ara no us havia mostrat la primera imatge del mati, aqui la teniu <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Fins ara no us havia mostrat la primera imatge del mati, aqui la teniu :) 
 
 <div class='flickr_photo'>
   <center>
@@ -20,7 +20,7 @@ Fins ara no us havia mostrat la primera imatge del mati, aqui la teniu <img src=
   </center>
 </div>
 
-Avui també toca fer visites turístiques <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Ens aixequem força d'hora per poder arribar bé a un llac que queda prop de Banfora (5:30 hora local). Per la carretera ens trobem un exemple més de la sobrecàrrega que aguanten els vehicles africans.
+Avui també toca fer visites turístiques :) Ens aixequem força d'hora per poder arribar bé a un llac que queda prop de Banfora (5:30 hora local). Per la carretera ens trobem un exemple més de la sobrecàrrega que aguanten els vehicles africans.
 
 <div class='flickr_photo'>
   <center>
@@ -43,7 +43,7 @@ Desde la sortida fins la tornada ens envaeix una calma indescriptible, apenes se
 
 > La tranquilitat que es respira, no es pot explicar ni amb fotos ni paraules
 
-A meitat de trajecte veiem una manada d'uns tretze hipopòtams en el seu hàbitat natural... asomen els ulls per sobre la superfície de l'aigua i es tornen a submergir al cap de poca estona. El guia ens comenta que solen sortir del llac per la nit i és passen la resta del dia a l'aigua... quina vida ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+A meitat de trajecte veiem una manada d'uns tretze hipopòtams en el seu hàbitat natural... asomen els ulls per sobre la superfície de l'aigua i es tornen a submergir al cap de poca estona. El guia ens comenta que solen sortir del llac per la nit i és passen la resta del dia a l'aigua... quina vida ! :) 
 
 <div class='flickr_photo'>
   <center>

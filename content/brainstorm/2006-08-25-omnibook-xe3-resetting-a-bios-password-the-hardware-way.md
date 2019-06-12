@@ -20,7 +20,7 @@ Everything started with the following question:
 
 A few searches looking for the typical master or universal passwords didn't help much (nope, "admin" does not work as a backdoor bios password as most sites say, really). The owner was really fed up with HP support and it was quite late at night, so calling nor sending emails were going to help either.
 
-Searching a bit deeper on forums, people were complaining about the same problem without solution: "Cannot reset omnibook xe3 bios password", and the well known common thrick to erase the bios password was futile (removing the CMOS battery for a while to erase the password and settings). According to some posts, the password was actually stored on a [24C16][1] [EEPROM][2] close to the BIOS chip... So there we go <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Searching a bit deeper on forums, people were complaining about the same problem without solution: "Cannot reset omnibook xe3 bios password", and the well known common thrick to erase the bios password was futile (removing the CMOS battery for a while to erase the password and settings). According to some posts, the password was actually stored on a [24C16][1] [EEPROM][2] close to the BIOS chip... So there we go :) 
 
 <!--more-->
 
@@ -68,7 +68,7 @@ Third, download [icprog][4] and [configure it properly][5] (I use TE20 which is 
   </p>
   
   <p>
-    After rebooting for three times on a row, the laptop complained about corrupted bios, one more reboot and I was able to enter the BIOS ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Happy end, isn't it ? Well, sort of, there are some pending curiosity issues here:
+    After rebooting for three times on a row, the laptop complained about corrupted bios, one more reboot and I was able to enter the BIOS ! :) Happy end, isn't it ? Well, sort of, there are some pending curiosity issues here:
   </p>
   
   <ul>
@@ -90,7 +90,7 @@ Third, download [icprog][4] and [configure it properly][5] (I use TE20 which is 
   </ul>
   
   <p>
-    Nevermind, the laptop is now 100% functional with Ubuntu installed and flying to Helsinki <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+    Nevermind, the laptop is now 100% functional with Ubuntu installed and flying to Helsinki ;)
   </p>
 
  [1]: http://www.futurlec.com/Memory/24C16SMD.shtml

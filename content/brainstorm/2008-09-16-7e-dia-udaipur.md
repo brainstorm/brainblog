@@ -22,7 +22,7 @@ TODO: Posicio kamasutra
 
 <!--more-->
 
-Decidim acostar-nos al "sunset point" amb ricksaw, lloc ideal per contemplar una posta de sol sobre el palau flotant en el llac <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Decidim acostar-nos al "sunset point" amb ricksaw, lloc ideal per contemplar una posta de sol sobre el palau flotant en el llac :) 
 
 Crida l'atencio que alguns locals encara recordin orgullosament la intervencio de James Bond a "Octopussy" usant com a escenari aquesta preciosa ciutat... aquest "remember" arriba al punt que hotels com el Minerwa, passen la pelicula cada tarda en el restaurant :-!
 
@@ -32,7 +32,7 @@ Despres d'una setmana d'India, procurem posar en comu les bases per sobreviure a
 
 ### Assessinant l'angles
 
-Per comunicarte per la india, no cal tenir un gran nivell d'angles... de fet es contraproduent: s'ha de reaprendre, recuperar les primeres llicons d'angles on **parlavem angles com indis**, simplificant el llenguatge <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Per comunicarte per la india, no cal tenir un gran nivell d'angles... de fet es contraproduent: s'ha de reaprendre, recuperar les primeres llicons d'angles on **parlavem angles com indis**, simplificant el llenguatge :) 
 
 Exemple:
 
@@ -61,8 +61,8 @@ Ens acabarem cansant. Deixo aqui un parell d'estategies que ens han donat result
 1.  Demanar 10 rupies abans que ells ho facin
 2.  Preguntar d'on son i com es diuen
 
-D'aquesta forma conseguim que es quedin parats, trencant els seus esquemes, amb temps suficient per fugir sense ser perseguit amb mes preguntes <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+D'aquesta forma conseguim que es quedin parats, trencant els seus esquemes, amb temps suficient per fugir sense ser perseguit amb mes preguntes :) 
 
 ## Cap a Jodhpur!
 
-L'anada cap a Jodhpur la fem en bus "sleeper class". Es el primer bus que dormo en una llitera, botant i movent-se continuament... pero consegueixo dormir ! El cansament fa miracles <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+L'anada cap a Jodhpur la fem en bus "sleeper class". Es el primer bus que dormo en una llitera, botant i movent-se continuament... pero consegueixo dormir ! El cansament fa miracles :)

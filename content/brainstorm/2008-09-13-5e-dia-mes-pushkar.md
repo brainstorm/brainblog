@@ -24,7 +24,7 @@ Despres de l'intercanvi d'experiencies i recomanacions entre viatgers (m'encante
 
 <!--more-->
 
-Despres de fer una ullada al mapa, veiem que les distancies son impracticables amb bici... solucio: moto de 50cc per apenes 300Rs/24h, gasolina inclosa <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Despres de fer una ullada al mapa, veiem que les distancies son impracticables amb bici... solucio: moto de 50cc per apenes 300Rs/24h, gasolina inclosa :) 
 
 TODO: Moto
 
@@ -36,4 +36,4 @@ Passem per poblats on apenes entenen l'angles i on els nens ens paren la ma per 
 - 5km, sir  
 - Ok, whatever, thanks !
 
-Finalment, despres d'un cami rural amb zones de sorra estil desert, grans forats a l'asfalt i excrements de vaca sagrada de dimensions fins ara desconegudes, conseguim arribar a l'objectiu: Un indret forca inhospit, on les 3 persones que hi viuen no ens permeten fer-hi fotos... Un home gran ens introdueix les reliquies del lloc i ens despedim, tornant cap a Pushkar, contents per la descoberta, pero sobretot, per l'aventura <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Finalment, despres d'un cami rural amb zones de sorra estil desert, grans forats a l'asfalt i excrements de vaca sagrada de dimensions fins ara desconegudes, conseguim arribar a l'objectiu: Un indret forca inhospit, on les 3 persones que hi viuen no ens permeten fer-hi fotos... Un home gran ens introdueix les reliquies del lloc i ens despedim, tornant cap a Pushkar, contents per la descoberta, pero sobretot, per l'aventura :)

@@ -25,4 +25,4 @@ A l'endema ens deixem perdre una estona pels mercats, una bona forma de veure co
 
 TODO: Alguna foto del mercat
 
-Reservem el bitllet de tren per la nostra proxima destinacio: Jaisalmer. Degut a l'alta ocupacio dels trens, ens haurem de quedar un dia mes en aquesta ciutat... temps suficient per visitar el fort, pero aixo ja es una altra historia, un altre post <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Reservem el bitllet de tren per la nostra proxima destinacio: Jaisalmer. Degut a l'alta ocupacio dels trens, ens haurem de quedar un dia mes en aquesta ciutat... temps suficient per visitar el fort, pero aixo ja es una altra historia, un altre post :)

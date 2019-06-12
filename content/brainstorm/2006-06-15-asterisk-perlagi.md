@@ -13,7 +13,7 @@ tags:
 title: Asterisk Perl::AGI
 ---
 
-Bé, després d'un bon munt de temps de silenci, per fi he acabat examens finals projectes & pràctiques varies ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Volia comentar una petita part del que hem estat fent com a projecte de xarxes i sistemes operatius ([PXCSO][1]) que trobo força interessant. 
+Bé, després d'un bon munt de temps de silenci, per fi he acabat examens finals projectes & pràctiques varies ! :) Volia comentar una petita part del que hem estat fent com a projecte de xarxes i sistemes operatius ([PXCSO][1]) que trobo força interessant. 
 
 Bàsicament he tocat per primer cop la AGI via perl (que ve a ser com els CGI's però per Asterisk). Obviament el ebuild (facilet) per gentoo, ha caigut :-P:
 
@@ -36,7 +36,7 @@ El cas és que necessitavem aquest mòdul juntament amb dos dels meus mòduls pr
 
 <!--more-->
 
-Potser pensareu... com s'ha complicat la vida, amb la d'alternatives que hi ha (demanar dump de la BBDD, demanar que generin horari amb XML, etc...) pero ei, estem a la universitat i és divertit provar coses noves, no ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> 
+Potser pensareu... com s'ha complicat la vida, amb la d'alternatives que hi ha (demanar dump de la BBDD, demanar que generin horari amb XML, etc...) pero ei, estem a la universitat i és divertit provar coses noves, no ? ;) 
 
 Finalment l'invent va funcionar força bé, tot i que canviar l'idioma del festival no és tasca trivial perquè:
 

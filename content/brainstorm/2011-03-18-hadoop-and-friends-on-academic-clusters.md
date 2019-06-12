@@ -66,7 +66,7 @@ Almost **four** years ago I first approached those problems by building a modest
   </p>
   
   <p>
-    Can't wait to see big university private clouds catching up with their commercial counterparts. I just hope it does not take too long to have such convenient tools on user hands <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+    Can't wait to see big university private clouds catching up with their commercial counterparts. I just hope it does not take too long to have such convenient tools on user hands :)
   </p>
 
  [1]: http://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/hadoop.png

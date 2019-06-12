@@ -14,7 +14,7 @@ title: 'Burkina Faso: Viatge & 1er dia'
 
 Ja sóc a Ouaga, després d'alguna correcuita per l'aeroport francés per un canvi de porta d'embarcament imprevist... què seria del viatger sense aquestes emocions ?
 
-Al mateix avió conec un Burkinabe (burkinés) de Ouagadougou que torna d'una setmana de formació als estats units: treballa a la [US Peace Corps"][1]. Quina sorpresa, un IT Manager (Administrador de sistemes) i a més d'una [ONG][2] al seient del costat <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Al mateix avió conec un Burkinabe (burkinés) de Ouagadougou que torna d'una setmana de formació als estats units: treballa a la [US Peace Corps"][1]. Quina sorpresa, un IT Manager (Administrador de sistemes) i a més d'una [ONG][2] al seient del costat :) 
 
 Entre d'altres xerrem sobre el pais, gent, cultura... pero també sobre postfix, spamassassin, major distros i sobre perquè no usar sistemes privatius en ONGs, només faltaria ;-P
 
@@ -31,9 +31,9 @@ Amb unes temperatures que oscil·len entre els 35-40 i pico graus en l'estació 
 
 Tot just després, recullo les maletes, sorprenentment estan en perfecte estat. No sembla que hagin sofert danys, en especial tot l'equip wifi que porto en una maleta a part.
 
-Al sortir a l'exterior m'espera William aguantant un cartell amb el meu nom escrit en bolígraf depressa i corrents <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_razz.gif" alt=":-P" class="wp-smiley" /> 
+Al sortir a l'exterior m'espera William aguantant un cartell amb el meu nom escrit en bolígraf depressa i corrents :P 
 
-No em funciona el mobil, no selecciona cap operador automàticament... Si selecciono qualssevol dels tres manualment, no em dóna accés a la xarxa igualment, estic incomunicat... sembla que el roaming no funciona com hauria <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_sad.gif" alt=":-(" class="wp-smiley" /> Més tard truco desde el fixe de l'hotel sense cap problema.
+No em funciona el mobil, no selecciona cap operador automàticament... Si selecciono qualssevol dels tres manualment, no em dóna accés a la xarxa igualment, estic incomunicat... sembla que el roaming no funciona com hauria :( Més tard truco desde el fixe de l'hotel sense cap problema.
 
 Al arribar a l'hotel central a Ouaga em dónen les claus d'una habitació... cómoda i amb alguns luxes (aire acondicionat i TV)... element distintiu a destacar: cobrellit de "barrio sésamo" X"D
 
@@ -53,7 +53,7 @@ Sopo un pollastre amb arrós a l'hotel, menjar típic d'aquest país segons s'in
 
 Encenc una espiral antimosquits, em ruixo jo mateix de Relec (antimosquits) i ruixo l'habitació d'insecticida... resultat: picada de mosquit a la cama... Sr mosquit, després de saltar totes les defenses t'has guanyat el festí :-S
 
-En fi, aquest post només és un draft, ja l'aniré pulint <strike>quan puji les fotos</strike>... thx per llegir i fins aviat ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Pregunteu coses, procuraré respondre si puc <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+En fi, aquest post només és un draft, ja l'aniré pulint <strike>quan puji les fotos</strike>... thx per llegir i fins aviat ! :) Pregunteu coses, procuraré respondre si puc :)
 
  [1]: http://www.peacecorps.gov/
  [2]: http://en.wikipedia.org/wiki/Peace_Corps

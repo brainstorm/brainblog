@@ -42,4 +42,4 @@ Després d'una bona insolació (braços vermells gamba-guiri i una mica de mal d
   </center>
 </div>
 
-Avui ha estat un dia especialment dur. M'atreveixo a dir que **3 hores** de bicicleta sota sol africà poden amb les forçes de qualsevol. Així doncs, després d'un merescut sopar, em prenc un gelocatil líquid per aliviar el mal de cap i cap dins la xarxa antimosquits <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+Avui ha estat un dia especialment dur. M'atreveixo a dir que **3 hores** de bicicleta sota sol africà poden amb les forçes de qualsevol. Així doncs, després d'un merescut sopar, em prenc un gelocatil líquid per aliviar el mal de cap i cap dins la xarxa antimosquits :P

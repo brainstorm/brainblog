@@ -28,7 +28,7 @@ No us perdeu les [slides d'aquesta xerrada][18] ! En una frase, [Make:][19] maga
 
 Després ha aparegut en [bunnie][21], famós per el seu llibre ["Hacking the Xbox"][22] entre altres [hacks][23], i ens ha explicat algunes de les tècniques que usa per fer [enginyeria inversa directament en silici][24] (observant directament els components i pistes dels xips)... impressionant.
 
-Al tornar cap al hostel ens hem trobat que tots els restaurants estaven tancats !! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_sad.gif" alt=":-(" class="wp-smiley" /> A les 10pm ! Per sort hem trobat un mexicà que estava obert fins tard... tot i que el menjar deixava bastant que desitjar (qui té estomac per menjar un "burrito" de monjetes xafades amb formatge a les 11 de la nit ?... ~7 del matí a BCN ?).
+Al tornar cap al hostel ens hem trobat que tots els restaurants estaven tancats !! :( A les 10pm ! Per sort hem trobat un mexicà que estava obert fins tard... tot i que el menjar deixava bastant que desitjar (qui té estomac per menjar un "burrito" de monjetes xafades amb formatge a les 11 de la nit ?... ~7 del matí a BCN ?).
 
  [1]: http://www.usenix.org/events/lisa05/training/tutonefile.html#m7
  [2]: http://www.cfengine.org/

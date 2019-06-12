@@ -16,13 +16,13 @@ title: use FIB::RSS;
 
 En el post anterior comentava alguns mòduls que ens poden fer la vida més fàcil si volem extreure dades d'una web de forma automàtica. Em vaig oblidar però de mencionar l'extensió del firefox [LiveHttpHeaders][1], sant grial de l'spidering que vaig descobrir gràcies a l'[esteve][2]. Si resulta que la pàgina només carrega amb explorer, podeu provar sort amb [IEHttpHeaders][3] o [Fiddler][4].
 
-També en el post anterior vaig deixar en suspens les raons que em van portar a mirar-me tots aquests móduls. Doncs bé, saludo des d'aqui a [Jordi][5], que em va picar prou com per fer un feed dels PFCs de la facultat usant els mòduls que vaig explicar, ell ja en sap els motius <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />  
+També en el post anterior vaig deixar en suspens les raons que em van portar a mirar-me tots aquests móduls. Doncs bé, saludo des d'aqui a [Jordi][5], que em va picar prou com per fer un feed dels PFCs de la facultat usant els mòduls que vaig explicar, ell ja en sap els motius :)  
 <!--more-->
 
   
 Nomes cal que apunteu el vostre lector de feeds preferits cap a <http://nopcode.org/fib/rss20.xml> i sabreu quan, on i qui presenta PFC's periòdicament a la [FIB][6].
 
-<strike>El codi el publicaré d'aqui uns dies, pero abans, podeu probar a generar un feed amb les notícies de la FIB usant el següent template i els móduls que he descrit, aviam com us en sortiu <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> </strike>
+<strike>El codi el publicaré d'aqui uns dies, pero abans, podeu probar a generar un feed amb les notícies de la FIB usant el següent template i els móduls que he descrit, aviam com us en sortiu ;) </strike>
 
 **UPDATE:** Que tal aquests scripts ? Podeu pastejar codi a comments si voleu... aqui teniu la meva [solució][7].
 

@@ -18,7 +18,7 @@ As I exposed on a [previous post][1], I was planning to replicate my DNS server 
 
 I thought about creating a new DNS view to allow FreeDNS to transfer a subset of my subdomains (the twenty most "critical" by my criteria). But apparently, there's no need to do so if you just use the DNS backup feature
 
-Thanks FreeDNS ! <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Thanks FreeDNS ! :) 
 
 <!--more-->
 

@@ -34,7 +34,7 @@ Després de revisar els scripts que generen aquest error per tal d'aïllar el pr
 
 Permet executar comandes a nodes del grid... qualssevol invocació amb aquesta comanda fallava. 
 
-Tenint en compte que Globus Toolkit és un software que funciona amb certificats digitals per tal de gestionar totes les seves accions amb seguretat, vaig pensar que valia la pena revisar-los... al cap i a la fi, el component més complex és el que acostuma a fallar amb més freqüència, no ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Tenint en compte que Globus Toolkit és un software que funciona amb certificats digitals per tal de gestionar totes les seves accions amb seguretat, vaig pensar que valia la pena revisar-los... al cap i a la fi, el component més complex és el que acostuma a fallar amb més freqüència, no ? :) 
 
 Doncs després d'una bona estona fent probes amb un entés en Globus del [BSC][5] al costat (gràcies Jorge !), ens vem adonar que es tractava d'un problema de sincronització horària !!! Tant els nodes com la consola rebutjavem l'execució de jobs perque els arribaven amb dates incorrectes (futures, per exemple).
 

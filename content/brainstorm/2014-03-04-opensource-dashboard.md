@@ -108,7 +108,7 @@ Last but not least, some remaining issues leading to total world domination incl
 
 1.  Instrumenting all your organization's Python code with [Logbook sinking to a Redis exchange.][25]
 2.  **Easily add/include other types of panels in Kibana**, perhaps allowing better or more explicit integration possibilities for D3, [mpld3][26] or [BokehJS][27] with Kibana.
-3.  [Getting UNIQ count for records in ElasticSearch][28] (i.e, count unique number of IPs, users, etc...) which are on the roadmap under [aggregations][29], so they are coming soon <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+3.  [Getting UNIQ count for records in ElasticSearch][28] (i.e, count unique number of IPs, users, etc...) which are on the roadmap under [aggregations][29], so they are coming soon :)
 
  [1]: http://blogs.nopcode.org/brainstorm/wp-content/uploads/2014/03/dataspace_blurred.png
  [2]: https://blog.trifork.com/2014/01/28/using-logstash-elasticsearch-and-kibana-to-monitor-your-video-card-a-tutorial/

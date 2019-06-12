@@ -10,7 +10,7 @@ tags:
 title: Faxos amb Hylafax
 ---
 
-Sembla que a [diariolinux][1] se m'han avançat mentre tenia aquest post a mitjes, tot i així tinc ganes d'explicar la meva experiència, així que posem-nos mans a la obra <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Sembla que a [diariolinux][1] se m'han avançat mentre tenia aquest post a mitjes, tot i així tinc ganes d'explicar la meva experiència, així que posem-nos mans a la obra :) 
 
 #### Primers passos
 
@@ -43,11 +43,11 @@ Un cop comprovat que funciona **faxgetty**, llençem l'hylafax (i el col·loquem
 
 <pre>/etc/init.d/hylafax start && rc-update add hylafax default</pre>
 
-Llestos per a enviar i rebre faxos <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Llestos per a enviar i rebre faxos :) 
 
 #### Com rebre/enviar fax-emails ?
 
-Amb **hylafax** és possible enviar un email a una direcció de l'estil "NomCognoms@93666345213.fax" i el nostre sistema de correu combinat amb **hylafax** l'enviarà directament al numero de destí, maco i simple, no ? <img src="http://blogs.nopcode.org/brainstorm/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> 
+Amb **hylafax** és possible enviar un email a una direcció de l'estil "NomCognoms@93666345213.fax" i el nostre sistema de correu combinat amb **hylafax** l'enviarà directament al numero de destí, maco i simple, no ? :) 
 
 I què pot ser més pràctic que rebre faxos a la nostra bústia de correu en format PDF ? Vegem com ho muntem tot això:
 
