@@ -146,14 +146,14 @@ The default configuration/routing will redirect all your requests towards the tu
 
 Good luck !
 
- [1]: http://www.techbabu.com/wp-content/uploads/2009/10/ipsec.png
- [2]: http://openvpn.net/
- [3]: http://www.androidzoom.com/android_applications/communication/openvpn-installer_epia.html
- [4]: http://en.wikipedia.org/wiki/Ipsec
- [5]: http://en.wikipedia.org/wiki/L2tp
- [6]: http://www.soekris.com/net4511.htm
- [7]: http://linux.voyage.hk/
- [8]: http://www.jacco2.dds.nl/networking/openswan-l2tp.html
- [9]: http://blog.brightpointuk.co.uk/adding-vpn-connections-android-16-donut
- [10]: http://www.openswan.org/
- [11]: http://http://www.jacco2.dds.nl/networking/linux-l2tp.html#Split_tunnelling
+ [1]: https://www.techbabu.com/wp-content/uploads/2009/10/ipsec.png
+ [2]: https://openvpn.net/
+ [3]: https://www.androidzoom.com/android_applications/communication/openvpn-installer_epia.html
+ [4]: https://en.wikipedia.org/wiki/Ipsec
+ [5]: https://en.wikipedia.org/wiki/L2tp
+ [6]: https://www.soekris.com/net4511.htm
+ [7]: https://linux.voyage.hk/
+ [8]: https://www.jacco2.dds.nl/networking/openswan-l2tp.html
+ [9]: https://blog.brightpointuk.co.uk/adding-vpn-connections-android-16-donut
+ [10]: https://www.openswan.org/
+ [11]: https://http://www.jacco2.dds.nl/networking/linux-l2tp.html#Split_tunnelling

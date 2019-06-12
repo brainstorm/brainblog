@@ -16,7 +16,7 @@ Tot just acabant de dinar conec a Tamara, una madrilena que es troba a poc mes d
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/3033882875/" title="Tamara" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3174/3033882875_ff82bf03bd_m.jpg" alt="Tamara" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/3033882875/" title="Tamara" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3174/3033882875_ff82bf03bd_m.jpg" alt="Tamara" class="" /></a>
   </center>
 </div>
 

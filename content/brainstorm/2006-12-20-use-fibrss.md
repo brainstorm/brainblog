@@ -20,7 +20,7 @@ També en el post anterior vaig deixar en suspens les raons que em van portar a 
 <!--more-->
 
   
-Nomes cal que apunteu el vostre lector de feeds preferits cap a <http://nopcode.org/fib/rss20.xml> i sabreu quan, on i qui presenta PFC's periòdicament a la [FIB][6].
+Nomes cal que apunteu el vostre lector de feeds preferits cap a <https://nopcode.org/fib/rss20.xml> i sabreu quan, on i qui presenta PFC's periòdicament a la [FIB][6].
 
 <strike>El codi el publicaré d'aqui uns dies, pero abans, podeu probar a generar un feed amb les notícies de la FIB usant el següent template i els móduls que he descrit, aviam com us en sortiu ;) </strike>
 
@@ -47,13 +47,13 @@ Ja posats a demanar... si domineu algun altre llenguatge, m'agradaria que coment
 
 Happy web spidering !
 
- [1]: http://livehttpheaders.mozdev.org/
- [2]: http://esteve.tizos.net/archives/mozilla-live-http-headers/
- [3]: http://www.blunck.se/iehttpheaders/iehttpheaders.html
- [4]: http://www.fiddlertool.com/fiddler/
- [5]: http://reloadcity.freehostia.com/
- [6]: http://www.fib.upc.edu/
- [7]: http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/12/propers_pfc.pl
- [8]: http://search.cpan.org/~abh/XML-RSS-1.22/lib/XML/RSS.pm
- [9]: http://www.oreilly.com/catalog/spiderhks/
- [10]: http://www.telepizza.es/
+ [1]: https://livehttpheaders.mozdev.org/
+ [2]: https://esteve.tizos.net/archives/mozilla-live-http-headers/
+ [3]: https://www.blunck.se/iehttpheaders/iehttpheaders.html
+ [4]: https://www.fiddlertool.com/fiddler/
+ [5]: https://reloadcity.freehostia.com/
+ [6]: https://www.fib.upc.edu/
+ [7]: https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/12/propers_pfc.pl
+ [8]: https://search.cpan.org/~abh/XML-RSS-1.22/lib/XML/RSS.pm
+ [9]: https://www.oreilly.com/catalog/spiderhks/
+ [10]: https://www.telepizza.es/

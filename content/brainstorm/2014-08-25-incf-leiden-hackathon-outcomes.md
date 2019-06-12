@@ -114,36 +114,36 @@ in line with INCF's core mission.
 
 More neuro-task proposals can be found over [NeuroStars][27]. Pick your's for the next hackathon ;)
 
- [1]: http://incf.org
- [2]: http://neuroinformatics2014.org
- [3]: http://wiki.incf.org/mediawiki/index.php/Hackathons/Leiden-2014
+ [1]: https://incf.org
+ [2]: https://neuroinformatics2014.org
+ [3]: https://wiki.incf.org/mediawiki/index.php/Hackathons/Leiden-2014
  [4]: https://etherpad.mozilla.org/hackathon-leiden2014
  [5]: https://www.linkedin.com/pub/barry-wark/3/941/68b
  [6]: https://ovation.io/
  [7]: https://twitter.com/barryjwark
  [8]: https://github.com/G-Node
  [9]: https://github.com/G-Node/nix
- [10]: http://www.swig.org/
- [11]: http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00054/abstract
- [12]: http://nidm.nidash.org/
+ [10]: https://www.swig.org/
+ [11]: https://journal.frontiersin.org/Journal/10.3389/fninf.2014.00054/abstract
+ [12]: https://nidm.nidash.org/
  [13]: https://github.com/incf-nidash
  [14]: https://github.com/incf-nidash/nidm/issues/162
  [15]: https://github.com/openworm/PyOpenWorm/tree/alpha0.5
- [16]: http://www.openworm.org/
- [17]: http://www.incf.org/gsoc/2014/proposals/
+ [16]: https://www.openworm.org/
+ [17]: https://www.incf.org/gsoc/2014/proposals/
  [18]: https://github.com/nipy/nipype/pull/898
  [19]: https://pypi.python.org/pypi/pymvpa2/2.3.1
  [20]: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=685575
  [21]: https://www.biostars.org/p/106585/
  [22]: https://github.com/ialbert/biostar-central/
- [23]: http://www.neuroelectro.org/api/docs/
- [24]: http://www.neuroelectro.org/neuron/85/
- [25]: http://brainhack.org/
- [26]: http://mozillascience.org/the-mozsprint-heard-round-the-world/
- [27]: http://neurostars.org/p/1/
- [28]: http://incf.org/activities/hackathons
+ [23]: https://www.neuroelectro.org/api/docs/
+ [24]: https://www.neuroelectro.org/neuron/85/
+ [25]: https://brainhack.org/
+ [26]: https://mozillascience.org/the-mozsprint-heard-round-the-world/
+ [27]: https://neurostars.org/p/1/
+ [28]: https://incf.org/activities/hackathons
  [29]: https://crcns.org/NWB
- [30]: http://www.frontiersin.org/Community/EventDetails.aspx?eid=2528
- [31]: http://www.neuroinformatics.be/
- [32]: http://python-notes.curiousefficiency.org/en/latest/pep_ideas/core_packaging_api.html
- [33]: http://www.liacs.nl/~jslob/
+ [30]: https://www.frontiersin.org/Community/EventDetails.aspx?eid=2528
+ [31]: https://www.neuroinformatics.be/
+ [32]: https://python-notes.curiousefficiency.org/en/latest/pep_ideas/core_packaging_api.html
+ [33]: https://www.liacs.nl/~jslob/

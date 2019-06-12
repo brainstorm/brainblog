@@ -14,7 +14,7 @@ Els últims dies transcorren tranquils, la feina ja està feta i només queda re
 
 <div class='flickr_photo'>
   <center>
-    <br /> <a href="http://www.flickr.com/photos/rvalls/2911905303/" title="p5200139" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3137/2911905303_f3019ca2fe_m.jpg" alt="p5200139" class="" /></a><br />
+    <br /> <a href="https://www.flickr.com/photos/rvalls/2911905303/" title="p5200139" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3137/2911905303_f3019ca2fe_m.jpg" alt="p5200139" class="" /></a><br />
   </center>
 </div>
 
@@ -25,7 +25,7 @@ Grups de nens criden a coro: "Tubaroo" al veure'ns passar (equivalent a "le blan
 
 <div class='flickr_photo'>
   <center>
-    <br /> <a href="http://www.flickr.com/photos/rvalls/2912779832/" title="Nens Burkina Faso Bobo" target="_blank" class="flickr-image aligncenter"><img src="http://farm3.static.flickr.com/2419/2912779832_8e2fe36095_m.jpg" alt="Nens Burkina Faso Bobo" class="" /></a><br />
+    <br /> <a href="https://www.flickr.com/photos/rvalls/2912779832/" title="Nens Burkina Faso Bobo" target="_blank" class="flickr-image aligncenter"><img src="http://farm3.static.flickr.com/2419/2912779832_8e2fe36095_m.jpg" alt="Nens Burkina Faso Bobo" class="" /></a><br />
   </center>
   
   <center>

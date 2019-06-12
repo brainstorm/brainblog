@@ -23,6 +23,6 @@ I've [already posted][3] about them, but here is a quick reference if you're int
 *   Toward an Automated Vulnerability Comparison of Open Source IMAP Servers
 *   Fast User-Mode rootkit scanner for the enterprise
 
- [1]: http://www.sagecertification.org/publications/login/2006-04/openpdfs/lisa05summaries.pdf
- [2]: http://www.usenix.org/publications/login/2006-04/
- [3]: http://blogs.nopcode.org/brainstorm/2005/12/07/lisa-05-quart-dia/
+ [1]: https://www.sagecertification.org/publications/login/2006-04/openpdfs/lisa05summaries.pdf
+ [2]: https://www.usenix.org/publications/login/2006-04/
+ [3]: https://blogs.nopcode.org/brainstorm/2005/12/07/lisa-05-quart-dia/

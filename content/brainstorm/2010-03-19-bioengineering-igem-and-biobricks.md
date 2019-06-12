@@ -16,7 +16,7 @@ tags:
 title: 'BioEngineering: iGEM and BioBricks'
 ---
 
-[<img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2010/03/iGEM\_basic\_Logo-150x150.png" alt="igem\_logo" title="iGEM\_basic_Logo" width="150" height="150" class="alignright size-thumbnail wp-image-307" align=right />][1]
+[<img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2010/03/iGEM\_basic\_Logo-150x150.png" alt="igem\_logo" title="iGEM\_basic_Logo" width="150" height="150" class="alignright size-thumbnail wp-image-307" align=right />][1]
 
 Summarizing from their [official page][2], <acronym title='international Genetic Engineered Machines'>iGEM</acronym> is about:
 
@@ -34,17 +34,17 @@ Today I would even like to try (dare?) and join one of those groups, just for th
 
 And you ? What are you [doing this summer][14] ?
 
- [1]: http://igem.org/
- [2]: http://2010.igem.org/About
- [3]: http://partsregistry.org/Main_Page
- [4]: http://www.csc.kth.se/utbildning/program/compsysbio/program
- [5]: http://ung.igem.org/Team_Wikis?year=2008
- [6]: http://ung.igem.org/Team_Wikis?year=2009
- [7]: http://www.kth.se/student/kurser/kurs/DD2435?l=en_UK
- [8]: http://blogs.nopcode.org/brainstorm/wp-content/uploads/2010/03/slides.pdf
- [9]: http://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system
- [10]: http://www.rommealpin.se/
- [11]: http://2009.igem.org/Team:Uppsala-Sweden/Team
- [12]: http://2009.igem.org/files/poster/Uppsala-Sweden.pdf
- [13]: http://en.wikipedia.org/wiki/BioBrick
- [14]: http://2010.igem.org/Requirements
+ [1]: https://igem.org/
+ [2]: https://2010.igem.org/About
+ [3]: https://partsregistry.org/Main_Page
+ [4]: https://www.csc.kth.se/utbildning/program/compsysbio/program
+ [5]: https://ung.igem.org/Team_Wikis?year=2008
+ [6]: https://ung.igem.org/Team_Wikis?year=2009
+ [7]: https://www.kth.se/student/kurser/kurs/DD2435?l=en_UK
+ [8]: https://blogs.nopcode.org/brainstorm/wp-content/uploads/2010/03/slides.pdf
+ [9]: https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system
+ [10]: https://www.rommealpin.se/
+ [11]: https://2009.igem.org/Team:Uppsala-Sweden/Team
+ [12]: https://2009.igem.org/files/poster/Uppsala-Sweden.pdf
+ [13]: https://en.wikipedia.org/wiki/BioBrick
+ [14]: https://2010.igem.org/Requirements

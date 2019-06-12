@@ -21,7 +21,7 @@ D'aquesta forma tènen a primera vista què esta passant al servidor. A mesura q
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2912661400/" title="Shorewall logs screen on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3019/2912661400_b3b41a75f5_m.jpg" alt="Shorewall logs screen on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912661400/" title="Shorewall logs screen on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3019/2912661400_b3b41a75f5_m.jpg" alt="Shorewall logs screen on Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -42,7 +42,7 @@ Tot just acabo d'explicar-li a l'Abdul com fer anar webmin per controlar tots el
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2911823525/" title="Webmin powered admin in Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3262/2911823525_d6d7f4ae06_m.jpg" alt="Webmin powered admin in Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911823525/" title="Webmin powered admin in Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3262/2911823525_d6d7f4ae06_m.jpg" alt="Webmin powered admin in Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -50,7 +50,7 @@ Es mostren satisfets per la feina feta i em comenten que s'ha notat un speedup a
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2912674322/" title="Xavier Messeguer showing connectivity on ESI campus" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3198/2912674322_05f90b4bd1_m.jpg" alt="Xavier Messeguer showing connectivity on ESI campus" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912674322/" title="Xavier Messeguer showing connectivity on ESI campus" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3198/2912674322_05f90b4bd1_m.jpg" alt="Xavier Messeguer showing connectivity on ESI campus" class="" /></a>
   </center>
 </div>
 
@@ -64,7 +64,7 @@ En el viatge d'anada al LCBOB, en Xavi comenta que mentre feia classe ha intenta
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2911843905/" title="ESI alumni Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3093/2911843905_3d0529be36_m.jpg" alt="ESI alumni Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911843905/" title="ESI alumni Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3093/2911843905_3d0529be36_m.jpg" alt="ESI alumni Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -72,7 +72,7 @@ Un cop hem acabat al LCBOB, passem per una gasolinera a repostar i ens estranya 
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2912700950/" title="Animals on bus rooftop" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3111/2912700950_60f1b6372e_m.jpg" alt="Animals on bus rooftop" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912700950/" title="Animals on bus rooftop" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3111/2912700950_60f1b6372e_m.jpg" alt="Animals on bus rooftop" class="" /></a>
   </center>
 </div>
 
@@ -80,6 +80,6 @@ Després de fer la foto, se'ns acosten reclamant que els paguem algo (drets d'im
 
 Per acabar el dia, mentre sopem, descobreixo que en Xavi va fer la seva tesi doctoral usant la Thinking Machine que tantes vegades he vist pel departament i que ara forma part del museu: us imagineu com deu ser treballar amb una màquina que té **1024 processadors d'un sol bit** ? Doncs es veu que en la seva època era molt potent però l'empresa que fabricava aquestes màquines tant curioses va entrar en bancarrota... quines voltes dóna la indústria.
 
- [1]: http://www.webmin.com/
- [2]: http://www.remote-exploit.org/backtrack_download.html
- [3]: http://wiki.openwrt.org/
+ [1]: https://www.webmin.com/
+ [2]: https://www.remote-exploit.org/backtrack_download.html
+ [3]: https://wiki.openwrt.org/

@@ -53,11 +53,11 @@ As an addition to the git tags workflow proposed by Douglas, the &#8216;\_\_vers
 
 Thanks [Guillermo][7] and [Brad][8] for the feedback and suggestions on this strategy.
 
- [1]: http://www.python.org/dev/peps/pep-0386/
- [2]: http://www.python.org/dev/peps/pep-0413/
- [3]: http://www.python.org/dev/peps/pep-0440/
- [4]: http://semver.org/
- [5]: http://learn.github.com/p/tagging.html
- [6]: http://dcreager.net/2010/02/10/setuptools-git-version-numbers/
- [7]: http://mussolblog.wordpress.com/
- [8]: http://bcbio.wordpress.com/
+ [1]: https://www.python.org/dev/peps/pep-0386/
+ [2]: https://www.python.org/dev/peps/pep-0413/
+ [3]: https://www.python.org/dev/peps/pep-0440/
+ [4]: https://semver.org/
+ [5]: https://learn.github.com/p/tagging.html
+ [6]: https://dcreager.net/2010/02/10/setuptools-git-version-numbers/
+ [7]: https://mussolblog.wordpress.com/
+ [8]: https://bcbio.wordpress.com/

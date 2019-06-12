@@ -27,13 +27,13 @@ Searching a bit deeper on forums, people were complaining about the same problem
 First, locate and remove the [smd][3] chip (excuse me for the poor quality of the picture :-/):
 
 <center>
-  <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200372.jpg" title="Omnibook motherboard"><img id="image43" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200372.thumbnail.jpg" alt="Omnibook motherboard" /></a>
+  <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200372.jpg" title="Omnibook motherboard"><img id="image43" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200372.thumbnail.jpg" alt="Omnibook motherboard" /></a>
 </center>
 
 Second, solder wires with metal legs (taken from spare resistors, for instance) to the chip to adapt it to a TE20 programmer:
 
 <center>
-  <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200371.jpg" title="TE20 programmer with 24C16 attached"><img id="image44" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200371.thumbnail.jpg" alt="TE20 programmer with 24C16 attached" /></a>
+  <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200371.jpg" title="TE20 programmer with 24C16 attached"><img id="image44" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/p9200371.thumbnail.jpg" alt="TE20 programmer with 24C16 attached" /></a>
 </center>
 
 Third, download [icprog][4] and [configure it properly][5] (I use TE20 which is recognized as a JDM programmer, but YMMV). Now, it comes the most interesting part... figuring out where is the password from the eeprom hexdump... will it be human readable ? cyphered ? Let's see:
@@ -42,11 +42,11 @@ Third, download [icprog][4] and [configure it properly][5] (I use TE20 which is 
   </p> <table>
     <tr>
       <td>
-        <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt2.PNG" title="ICprog screenshot 2"><img id="image46" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt2.thumbnail.PNG" alt="ICprog screenshot 2" /></a>
+        <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt2.PNG" title="ICprog screenshot 2"><img id="image46" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt2.thumbnail.PNG" alt="ICprog screenshot 2" /></a>
       </td>
       
       <td>
-        <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt1.PNG" title="ICprog screenshot one"><img id="image45" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt1.thumbnail.PNG" alt="ICprog screenshot one" /></a>
+        <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt1.PNG" title="ICprog screenshot one"><img id="image45" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/08/icprog_capt1.thumbnail.PNG" alt="ICprog screenshot one" /></a>
       </td>
     </tr>
   </table>
@@ -93,8 +93,8 @@ Third, download [icprog][4] and [configure it properly][5] (I use TE20 which is 
     Nevermind, the laptop is now 100% functional with Ubuntu installed and flying to Helsinki ;)
   </p>
 
- [1]: http://www.futurlec.com/Memory/24C16SMD.shtml
- [2]: http://en.wikipedia.org/wiki/EEPROM
- [3]: http://en.wikipedia.org/wiki/Surface-mount_technology
- [4]: http://www.mercaelectronica.com/descargas/index.htm
- [5]: http://www.iearobotics.com/proyectos/skypic/docs/conf_icprog.html
+ [1]: https://www.futurlec.com/Memory/24C16SMD.shtml
+ [2]: https://en.wikipedia.org/wiki/EEPROM
+ [3]: https://en.wikipedia.org/wiki/Surface-mount_technology
+ [4]: https://www.mercaelectronica.com/descargas/index.htm
+ [5]: https://www.iearobotics.com/proyectos/skypic/docs/conf_icprog.html

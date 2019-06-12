@@ -13,7 +13,7 @@ tags:
 title: 'Ben tip d''SPAM: Greylisting i SPF'
 ---
 
-<img id="image92" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/07/spam_1.thumbnail.jpg" alt="SPAM" align='right' />
+<img id="image92" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/07/spam_1.thumbnail.jpg" alt="SPAM" align='right' />
 
 La batalla continua indefinidament: es milloren els motors antispam ([spamassassin][1], [dspam][2]...) i els spammers s'adapten, s'usen llistes negres remotes ([RBL][3]&#8216;s) i ells s'adapten... que un gif com attachment pot tenir pinta d'spam ? Doncs ells usen [PDF's][4]... el compte de mai acabar :/
 
@@ -61,14 +61,14 @@ Ah ! He mostrat la banda "interna" d'SPF, aqui teniu l'externa (la que publico v
 "v=spf1 a mx a:lists.nopcode.org mx:mail.nopcode.org -all"
 </pre>
 
- [1]: http://spamassassin.apache.org/
- [2]: http://www.nuclearelephant.com/
- [3]: http://en.wikipedia.org/wiki/Real-time_Blackhole_List
- [4]: http://efectomariposa.wordpress.com/2007/07/31/pdf-spam/
- [5]: http://en.wikipedia.org/wiki/Greylisting
- [6]: http://postgrey.schweikert.ch/
- [7]: http://en.wikipedia.org/wiki/Borg_%28Star_Trek%29
- [8]: http://en.wikipedia.org/wiki/Sender_Policy_Framework
- [9]: http://www.policyd-weight.org/
- [10]: http://en.wikipedia.org/wiki/SMTP
- [11]: http://david.woodhou.se/why-not-spf.html
+ [1]: https://spamassassin.apache.org/
+ [2]: https://www.nuclearelephant.com/
+ [3]: https://en.wikipedia.org/wiki/Real-time_Blackhole_List
+ [4]: https://efectomariposa.wordpress.com/2007/07/31/pdf-spam/
+ [5]: https://en.wikipedia.org/wiki/Greylisting
+ [6]: https://postgrey.schweikert.ch/
+ [7]: https://en.wikipedia.org/wiki/Borg_%28Star_Trek%29
+ [8]: https://en.wikipedia.org/wiki/Sender_Policy_Framework
+ [9]: https://www.policyd-weight.org/
+ [10]: https://en.wikipedia.org/wiki/SMTP
+ [11]: https://david.woodhou.se/why-not-spf.html

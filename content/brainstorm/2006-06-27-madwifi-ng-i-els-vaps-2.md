@@ -65,5 +65,5 @@ També es poden crear interfícies en mode client (sta) i d'altres. Per a més i
 
 I què passa si creem aquests access points posant com a ESSID un AP legítim ? Un possible usuari despistat (o una radio nostra més potent) podria associar-se a nosaltres al veure tants AP's repetits a la llista d'scaneig. Cal anar doncs cada cop més amb compte amb els APs repetits abans de connectar-se a una xarxa sense fils ;)
 
- [1]: http://madwifi.org/
- [2]: http://madwifi.org/wiki/UserDocs
+ [1]: https://madwifi.org/
+ [2]: https://madwifi.org/wiki/UserDocs

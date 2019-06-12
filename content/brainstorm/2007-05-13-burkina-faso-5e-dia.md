@@ -20,7 +20,7 @@ Les dues hores de classe d'avui les dedico a mostrar la part més pràctica dels
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2912221614/" title="Students reviewing notes Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3172/2912221614_8e0cd606e4_m.jpg" alt="Students reviewing notes Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912221614/" title="Students reviewing notes Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3172/2912221614_8e0cd606e4_m.jpg" alt="Students reviewing notes Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -35,7 +35,7 @@ Junt amb Mesmin, dediquem part del matí i tota la tarda a muntar el punt d'acc�
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2911461279/" title="Installing wifi antenna on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3122/2911461279_719a5472d4_m.jpg" alt="Installing wifi antenna on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911461279/" title="Installing wifi antenna on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3122/2911461279_719a5472d4_m.jpg" alt="Installing wifi antenna on Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -43,7 +43,7 @@ Com es pot veure a les fotos, la forma d'accedir a l'antena no és la més segur
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2912288960/" title="Burkina Faso risk prevention" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3047/2912288960_94f28758f2_m.jpg" alt="Burkina Faso risk prevention" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912288960/" title="Burkina Faso risk prevention" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3047/2912288960_94f28758f2_m.jpg" alt="Burkina Faso risk prevention" class="" /></a>
   </center>
 </div>
 

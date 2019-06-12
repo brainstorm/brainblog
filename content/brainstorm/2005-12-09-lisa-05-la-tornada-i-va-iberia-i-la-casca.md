@@ -20,11 +20,11 @@ Doncs bé, un cop a Madrid, i al veure que les maletes no sortien vem anar pregu
   </p> <table>
     <tr>
       <td>
-        <a href='http://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada.jpg' alt='Maleta petada' /></a>
+        <a href='https://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada.jpg' alt='Maleta petada' /></a>
       </td>
       
       <td>
-        <a href='http://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada2.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada2.jpg' alt='Maleta Petada 2' /></a>
+        <a href='https://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada2.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada2.jpg' alt='Maleta Petada 2' /></a>
       </td>
     </tr>
   </table>
@@ -37,4 +37,4 @@ Doncs bé, un cop a Madrid, i al veure que les maletes no sortien vem anar pregu
     I això és tot sobre l'aventura LISA'05 :)
   </p>
 
- [1]: http://www.zip-films.com
+ [1]: https://www.zip-films.com

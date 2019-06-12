@@ -79,30 +79,30 @@ Here's some brainstorming that might help in the long run:
 6.  Try to get those packages accepted upstream (**best!**) and/or create your own rpm/deb [repo][26].
 7.  Learn [puppet][27] and/or [chef][9].
 
- [1]: http://ianmurdock.com/solaris/how-package-management-changed-everything/
- [2]: http://peters.gormand.com.au/Home/tools/graft/graft-html
- [3]: http://www.gentoo.org/proj/en/devrel/handbook/handbook.xml?part=2&chap=1
- [4]: http://www.netbsd.org/docs/software/packages.html
- [5]: http://code.google.com/p/xbps/
- [6]: http://modules.sf.net/
- [7]: http://blog.jcuff.net/2011/04/velocity-in-research-computing-really.html
- [8]: http://en.wikipedia.org/wiki/Technical_debt
- [9]: http://www.opscode.com/chef/
+ [1]: https://ianmurdock.com/solaris/how-package-management-changed-everything/
+ [2]: https://peters.gormand.com.au/Home/tools/graft/graft-html
+ [3]: https://www.gentoo.org/proj/en/devrel/handbook/handbook.xml?part=2&chap=1
+ [4]: https://www.netbsd.org/docs/software/packages.html
+ [5]: https://code.google.com/p/xbps/
+ [6]: https://modules.sf.net/
+ [7]: https://blog.jcuff.net/2011/04/velocity-in-research-computing-really.html
+ [8]: https://en.wikipedia.org/wiki/Technical_debt
+ [9]: https://www.opscode.com/chef/
  [10]: https://github.com/scilifelab/modules.sf.net
- [11]: http://stakeventures.com/articles/2008/12/04/rubygem-is-from-mars-aptget-is-from-venus
- [12]: http://www.b-list.org/weblog/2008/dec/14/packaging/
- [13]: http://modules.sf.net
- [14]: http://pypi.python.org/pypi
- [15]: http://rubygems.org/
- [16]: http://clojars.org/
- [17]: http://blogs.nopcode.org/brainstorm/2011/06/23/how-to-install-python-modules-with-virtualenv-on-uppmax/
- [18]: http://duckduckgo.com/?q=experience+packaging+software+rpm+deb+job
- [19]: http://en.wikipedia.org/wiki/Setuid
- [20]: http://isp.surfnet.fi/aktuelltbilder/schukken.jpg
- [21]: http://stanford.edu/~pgbovine/cde.html
- [22]: http://rbenv.org/
- [23]: http://pypi.python.org/pypi/virtualenv
- [24]: http://cloudbiolinux.org/
- [25]: http://www.semicomplete.com/blog/tags/deb
- [26]: http://www.howtoforge.com/creating_a_local_yum_repository_centos
- [27]: http://puppetlabs.com/
+ [11]: https://stakeventures.com/articles/2008/12/04/rubygem-is-from-mars-aptget-is-from-venus
+ [12]: https://www.b-list.org/weblog/2008/dec/14/packaging/
+ [13]: https://modules.sf.net
+ [14]: https://pypi.python.org/pypi
+ [15]: https://rubygems.org/
+ [16]: https://clojars.org/
+ [17]: https://blogs.nopcode.org/brainstorm/2011/06/23/how-to-install-python-modules-with-virtualenv-on-uppmax/
+ [18]: https://duckduckgo.com/?q=experience+packaging+software+rpm+deb+job
+ [19]: https://en.wikipedia.org/wiki/Setuid
+ [20]: https://isp.surfnet.fi/aktuelltbilder/schukken.jpg
+ [21]: https://stanford.edu/~pgbovine/cde.html
+ [22]: https://rbenv.org/
+ [23]: https://pypi.python.org/pypi/virtualenv
+ [24]: https://cloudbiolinux.org/
+ [25]: https://www.semicomplete.com/blog/tags/deb
+ [26]: https://www.howtoforge.com/creating_a_local_yum_repository_centos
+ [27]: https://puppetlabs.com/

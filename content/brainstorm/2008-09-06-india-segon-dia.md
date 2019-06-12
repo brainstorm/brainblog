@@ -16,13 +16,13 @@ Primer contacte amb l'estil de "dutxa" indi pel mati: dos cubells, un de gros i 
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2903618535/" title="India bathroom... toilet+shower all in one" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3246/2903618535_e08f1baa60_m.jpg" alt="India bathroom... toilet+shower all in one" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2903618535/" title="India bathroom... toilet+shower all in one" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3246/2903618535_e08f1baa60_m.jpg" alt="India bathroom... toilet+shower all in one" class="" /></a>
   </center>
 </div>
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2904401254/" title="India bathroom" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3201/2904401254_5ec33b46f7_m.jpg" alt="India bathroom" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2904401254/" title="India bathroom" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3201/2904401254_5ec33b46f7_m.jpg" alt="India bathroom" class="" /></a>
   </center>
 </div>
 
@@ -50,4 +50,4 @@ Tot i que la guia desaconsella fortament el acceptar menjar de desconeguts, em s
 
 Gracies per llegir fins aqui, em prenc un bon Chai per 18Rs mentre escric aquestes linies a la vostra salut ! :)
 
- [1]: http://www.indiamike.com/india/indian-railways-f10/understanding-reservation-forms-t7485/
+ [1]: https://www.indiamike.com/india/indian-railways-f10/understanding-reservation-forms-t7485/

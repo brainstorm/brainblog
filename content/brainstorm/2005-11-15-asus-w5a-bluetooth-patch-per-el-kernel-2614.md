@@ -56,5 +56,5 @@ Si tot ha anat bé l'últim echo encendrà la llum del bluetooth. Podeu fer els 
 
 He escrit un mail als developers, aviam si en la próxima release del kernel no ens hem de barallar amb els canvis :-/
 
- [1]: http://www.sk-tech.net/support/asus_w5a.html
- [2]: http://blogs.nopcode.org/brainstorm/wp-content/data/asus_acpi_w5a.patch
+ [1]: https://www.sk-tech.net/support/asus_w5a.html
+ [2]: https://blogs.nopcode.org/brainstorm/wp-content/data/asus_acpi_w5a.patch

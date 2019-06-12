@@ -18,10 +18,10 @@ title: 'LISA ''05: Tercer dia'
 Al sortir de les xerrades ens hem trobat amb els famosos <acronym title="Solve My Problem">SMP</acronym> boards que comentaven per la pàgina web de LISA. Es tracta d'uns foros de discussió en el món real on la gent llegeix/pregunta/respon quan hi passa pel costat, molt bona idea per part dels organitzadors ;) 
 
 <center>
-  <img src="http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-smp_board.jpg" />
+  <img src="https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-smp_board.jpg" />
 </center>
 
 Com que avui no hi havien BoF's gaire interessants i estavem força cansats, hem decidit tirar dret cap a l'hostel, xerrar una estona amb la bona gent d'allà i fins demà que serà un altre dia :)
 
- [1]: http://www.usenix.org/events/lisa05/training/tutonefile.html#t6
- [2]: http://www.plainjoe.org/
+ [1]: https://www.usenix.org/events/lisa05/training/tutonefile.html#t6
+ [2]: https://www.plainjoe.org/

@@ -60,26 +60,26 @@ From [provenance standardization][21] to [workflow systems][22] and a prototype 
 
 Definitely looking forward to some more action tomorrow morning :)
 
- [1]: http://www.open-bio.org/wiki/BOSC_2013 "Bioinformatics Open Source Conference 2013"
- [2]: http://www.bioruby.org/
- [3]: http://github.com/joejimbo/basespace-ruby-sdk
- [4]: http://www.biodalliance.org
+ [1]: https://www.open-bio.org/wiki/BOSC_2013 "Bioinformatics Open Source Conference 2013"
+ [2]: https://www.bioruby.org/
+ [3]: https://github.com/joejimbo/basespace-ruby-sdk
+ [4]: https://www.biodalliance.org
  [5]: https://docs.google.com/document/d/19VpzwxZdlz1K4P1q1a-WYZUtiSXwUp2nafM716dzW8I
- [6]: http://nxn.se
- [7]: http://mussolblog.wordpress.com/
+ [6]: https://nxn.se
+ [7]: https://mussolblog.wordpress.com/
  [8]: https://github.com/roryk
  [9]: https://github.com/chapmanb
  [10]: https://github.com/chapmanb/bcbb/tree/master/nextgen
  [11]: https://github.com/chapmanb/bcbio-nextgen
- [12]: http://bcbio.wordpress.com/2013/05/22/scaling-variant-detection-pipelines-for-whole-genome-sequencing-analysis/
+ [12]: https://bcbio.wordpress.com/2013/05/22/scaling-variant-detection-pipelines-for-whole-genome-sequencing-analysis/
  [13]: https://github.com/chapmanb/bcbb/blob/master/talks/scipy2013_bcbio_nextgen/scipy2013_bcbio_nextgen.pdf?raw=true
  [14]: https://github.com/vals/ipython-cluster-helper/commit/02a5d9f9695ed441bb2a25ef0a17ceae193092ad
- [15]: http://mussolblog.wordpress.com/2013/07/17/setting-up-a-testing-slurm-cluster/
+ [15]: https://mussolblog.wordpress.com/2013/07/17/setting-up-a-testing-slurm-cluster/
  [16]: https://github.com/claresloggett/variant_calling_pipeline
  [17]: https://code.google.com/p/ruffus/
- [18]: http://www.vlsci.org.au/
+ [18]: https://www.vlsci.org.au/
  [19]: https://github.com/afgane/gvl_flavor
  [20]: https://genome.edu.au/wiki/GVL
  [21]: www.w3.org/TR/prov-overview/
- [22]: http://mobyle.pasteur.fr/workflow
+ [22]: https://mobyle.pasteur.fr/workflow
  [23]: https://twitter.com/unnebe

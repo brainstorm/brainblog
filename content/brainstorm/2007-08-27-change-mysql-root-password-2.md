@@ -47,4 +47,4 @@ Query OK, 0 rows affected (0.01 sec)
 
 Thanks to [netadmintools][1] for this quick recipe :)
 
- [1]: http://www.netadmintools.com/art90.html
+ [1]: https://www.netadmintools.com/art90.html

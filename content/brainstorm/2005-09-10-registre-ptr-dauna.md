@@ -36,5 +36,5 @@ A veure això :
 
 Si finalment retiren la meva ip de la llista negra, escriuré un altre post explicant com fer-ho pas a pas ;)
 
- [1]: http://en.wikipedia.org/wiki/PTR_record
- [2]: http://www.dnsstuff.com/tools/ip4r.ch?ip=62.57.0.38
+ [1]: https://en.wikipedia.org/wiki/PTR_record
+ [2]: https://www.dnsstuff.com/tools/ip4r.ch?ip=62.57.0.38

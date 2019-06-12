@@ -41,7 +41,7 @@ $ ct-ng armv6-rpi-linux-gnueabi
 ***********************************************************
 
 Initially reported by: Yann E. MORIN
-URL: http://ymorin.is-a-geek.org/
+URL: https://ymorin.is-a-geek.org/
 
 Comment:
 Toolchain for the Raspberry Pi, with hard-float.
@@ -118,8 +118,8 @@ X Error of failed request:  BadValue (integer parameter out of range for operati
  [mxe]: https://github.com/mxe/mxe
  [linaro_xcompile]: https://wiki.linaro.org/Platform/DevPlatform/CrossCompile/CrossBuilding
  [hyperkit_gpu]: https://github.com/docker/hyperkit/issues/20
- [crosstool-ng]: http://crosstool-ng.org/
- [repair_drone]: http://blogs.nopcode.org/brainstorm/2016/06/10/the-right-to-repair-my-drone
+ [crosstool-ng]: https://crosstool-ng.org/
+ [repair_drone]: https://blogs.nopcode.org/brainstorm/2016/06/10/the-right-to-repair-my-drone
  [debian_architectures]: https://wiki.debian.org/SupportedArchitectures
  [hard-float]: https://wiki.debian.org/ArmHardFloatPort
  [arm7]: https://en.wikipedia.org/wiki/ARM7#ARM7EJ

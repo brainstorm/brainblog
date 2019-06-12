@@ -28,7 +28,7 @@ Dedico el temps que em queda a configurar el servidor dns (bind), proxy-cache (s
 
 Un cop allà obro la màquina, desconnecto & re-connecto els cables S-ATA, la tanco i creuo els dits. Demà serà un altre dia, pero em quedo força intranquil :-S El sopar transcurreix com altres dies, comentem amb en Xavi impressions de com ha anat el dia, coses que queden per fer o millorar, etc. Coincideixo amb la opinió de la [guia turística][4] que vaig comprar (gracies Ell per el consell!): els caps d'animals tallats a les parets fan una mica de grima... procurarem buscar altres llocs on sopar per variar una mica.
 
- [1]: http://www.kismetwireless.net/
- [2]: http://www.wireshark.org/
- [3]: http://en.wikipedia.org/wiki/MD5
- [4]: http://www.amazon.co.uk/Burkina-Faso-Bradt-Travel-Guide/dp/1841621544/ref=pd_bbs_sr_1/026-3581625-5822847?ie=UTF8&s=books&qid=1179423706&sr=8-1
+ [1]: https://www.kismetwireless.net/
+ [2]: https://www.wireshark.org/
+ [3]: https://en.wikipedia.org/wiki/MD5
+ [4]: https://www.amazon.co.uk/Burkina-Faso-Bradt-Travel-Guide/dp/1841621544/ref=pd_bbs_sr_1/026-3581625-5822847?ie=UTF8&s=books&qid=1179423706&sr=8-1

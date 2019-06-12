@@ -18,7 +18,7 @@ In addition, I decided that posts will be indifferently written in English, Cata
 
 Last but not least I want to thank the people who helped/advised me and I learnt from while deciding to start my blog: [pof][1], [jmmv][2], [pancake][3] & [3des][4].
 
- [1]: http://pof.eslack.org/
- [2]: http://www.livejournal.com/users/jmmv/
- [3]: http://blogs.nopcode.org/pancake/
- [4]: http://www.livejournal.com/users/tripledes/
+ [1]: https://pof.eslack.org/
+ [2]: https://www.livejournal.com/users/jmmv/
+ [3]: https://blogs.nopcode.org/pancake/
+ [4]: https://www.livejournal.com/users/tripledes/

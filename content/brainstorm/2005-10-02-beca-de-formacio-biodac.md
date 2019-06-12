@@ -17,15 +17,15 @@ Pel que fa a la beca, tracta sobre [<acronym title="cerca de patrons"><em>patter
 
 La motivació final del projecte és optimitzar aquestes técniques de *pattern matching* usant instruccions [SIMD][6] presents en els microprocessadors d'avui en dia. Potser en una fase a llarg plaç es podria extendre el projecte per construïr hardware optimitzat exclusivament per aquests propòsits.
 
-Ara mateix estem en la fase inicial que consisteix en buscar algoritmes i fer implementacions preliminars per tal de tenir una idea clara de com funcionen exactament aquests algoritmes. El professor que porta aquesta beca ens ha recomanat un <acronym title="Flexible pattern matching in strings"><a href="http://www.dcc.uchile.cl/~gnavarro/FPMbook/">llibre</a></acronym> que explica amb detall com funcionen aquests algoritmes i les diferents variants/optimitzacions possibles. A part, també hem creat un compte a [del.icio.us][7] on anem postejant totes les url's interessants que s'envien periòdicament a una llista de correu privada gràcies a [rss2email][8].
+Ara mateix estem en la fase inicial que consisteix en buscar algoritmes i fer implementacions preliminars per tal de tenir una idea clara de com funcionen exactament aquests algoritmes. El professor que porta aquesta beca ens ha recomanat un <acronym title="Flexible pattern matching in strings"><a href="https://www.dcc.uchile.cl/~gnavarro/FPMbook/">llibre</a></acronym> que explica amb detall com funcionen aquests algoritmes i les diferents variants/optimitzacions possibles. A part, també hem creat un compte a [del.icio.us][7] on anem postejant totes les url's interessants que s'envien periòdicament a una llista de correu privada gràcies a [rss2email][8].
 
 Bé doncs intentaré postejar de forma regular els meus progressos per tal que no acabi sent una pràctica amb entrega final per ahir :)
 
- [1]: http://www.ac.upc.edu
- [2]: http://www.ac.upc.edu/personal/rvalls,en.html
- [3]: http://www.upc.edu/estudiants/programa_formacio/propostes.htm
- [4]: http://www.upc.edu/estudiants/programa_formacio/prog_form.htm
- [5]: http://en.wikipedia.org/wiki/Pattern_matching
- [6]: http://en.wikipedia.org/wiki/SIMD
- [7]: http://del.icio.us/biobook/
- [8]: http://www.aaronsw.com/2002/rss2email/
+ [1]: https://www.ac.upc.edu
+ [2]: https://www.ac.upc.edu/personal/rvalls,en.html
+ [3]: https://www.upc.edu/estudiants/programa_formacio/propostes.htm
+ [4]: https://www.upc.edu/estudiants/programa_formacio/prog_form.htm
+ [5]: https://en.wikipedia.org/wiki/Pattern_matching
+ [6]: https://en.wikipedia.org/wiki/SIMD
+ [7]: https://del.icio.us/biobook/
+ [8]: https://www.aaronsw.com/2002/rss2email/

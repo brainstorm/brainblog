@@ -36,7 +36,7 @@ The idea would be to have a commandline tool that:
 
 Building on top of the CNVkit experience that Anton has, this would be very valuable to **automate the wrapping process further** and potentially explore the conversion of python packages in bulk.
 
-A desired outcome for this sub-project would be to have an output similar to that of http://pythonwheels.com, where the overall coverage and bugs can be spotted quickly.
+A desired outcome for this sub-project would be to have an output similar to that of https://pythonwheels.com, where the overall coverage and bugs can be spotted quickly.
 
 ## cwl2argparse
 
@@ -91,7 +91,7 @@ Could be tackled in a future GSoC project maybe?
 [gitter_cwl]: https://gitter.im/common-workflow-language/common-workflow-language
 [cwl_mailing_list]: https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/common-workflow-language
 [cwl2script]: https://github.com/common-workflow-language/cwl2script
-[click]: http://click.pocoo.org/5/
+[click]: https://click.pocoo.org/5/
 [sys_argv]: https://docs.python.org/3/library/sys.html?highlight=sys.arg#sys.argv
 [optparse]: https://docs.python.org/3/library/optparse.html?highlight=optparse#module-optparse
 [biopsy]: https://github.com/Blahah/biopsy

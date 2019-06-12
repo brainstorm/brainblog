@@ -16,7 +16,7 @@ title: Accepted on Usenix LISA 2k5 !
 ---
 
 <center>
-  <a href="http://www.usenix.org/events/lisa05/"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/lisa05_750_96.jpg' alt='lisa banner' /></a>
+  <a href="https://www.usenix.org/events/lisa05/"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/lisa05_750_96.jpg' alt='lisa banner' /></a>
 </center>
 
 Yesss ! After writing a pretty long email explaining my interests, projects, work, etc... Me and my colleague Xavier, have received an email from Tara Mulligan, Scholastic Programs Manager:
@@ -32,8 +32,8 @@ Some of my friends told me to go to an annual [22C3][3] meeting, from Chaos Comp
 
 Now seriously, enjoy you all too and have a nice Christmas from Berlin ;) I'll be preparing my final exams that time :_/
 
- [1]: http://www.usenix.org/events/lisa05/
- [2]: http://www.usenix.org/events/lisa05/training/
- [3]: http://www.ccc.de/calendar/2005/22c3?language=en
- [4]: http://www.ccc.es/
- [5]: http://www.cursosccc.com/
+ [1]: https://www.usenix.org/events/lisa05/
+ [2]: https://www.usenix.org/events/lisa05/training/
+ [3]: https://www.ccc.de/calendar/2005/22c3?language=en
+ [4]: https://www.ccc.es/
+ [5]: https://www.cursosccc.com/

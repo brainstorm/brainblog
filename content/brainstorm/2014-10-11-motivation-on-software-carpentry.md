@@ -77,12 +77,12 @@ learning environment.
 
 I loved it.
 
- [1]: http://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101
- [2]: http://software-carpentry.org/lessons.html
- [3]: http://www.cepal.es/blog/cual-es-el-salario-de-un-graduado-superior-de-fp/
- [4]: http://software-carpentry.org/v5/bib.html
- [5]: http://www.economist.com/news/europe/21571930-more-southern-europeans-are-going-where-jobs-are-not-enough-sprechen-sie-job
- [6]: http://www.csc.kth.se/utbildning/program/compsysbio/program
- [7]: http://teaching.software-carpentry.org/category/round-113/
- [8]: http://software-carpentry.org/
- [9]: http://third-bit.com/about.html
+ [1]: https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101
+ [2]: https://software-carpentry.org/lessons.html
+ [3]: https://www.cepal.es/blog/cual-es-el-salario-de-un-graduado-superior-de-fp/
+ [4]: https://software-carpentry.org/v5/bib.html
+ [5]: https://www.economist.com/news/europe/21571930-more-southern-europeans-are-going-where-jobs-are-not-enough-sprechen-sie-job
+ [6]: https://www.csc.kth.se/utbildning/program/compsysbio/program
+ [7]: https://teaching.software-carpentry.org/category/round-113/
+ [8]: https://software-carpentry.org/
+ [9]: https://third-bit.com/about.html

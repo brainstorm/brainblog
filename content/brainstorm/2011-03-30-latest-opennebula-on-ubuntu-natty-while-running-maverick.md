@@ -21,9 +21,9 @@ So you cannot wait for a few days when the new ubuntu release comes out with upd
 
 Now, the <font color="green">#BIGWIN</font> would have been giving back to the community by building my own package and contributing it via [PPA][6] or whatever packaging system you use, but that good practice will come eventually :)
 
- [1]: http://opennebula.org/
- [2]: http://twitter.com/alexmuntada
- [3]: http://peters.gormand.com.au/Home/tools/graft/graft-html
- [4]: http://modules.sourceforge.net/
+ [1]: https://opennebula.org/
+ [2]: https://twitter.com/alexmuntada
+ [3]: https://peters.gormand.com.au/Home/tools/graft/graft-html
+ [4]: https://modules.sourceforge.net/
  [5]: https://help.ubuntu.com/community/PinningHowto#Recommended alternative to pinning
  [6]: https://help.launchpad.net/Packaging/PPA

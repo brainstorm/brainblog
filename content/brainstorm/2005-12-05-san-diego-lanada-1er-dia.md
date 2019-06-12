@@ -28,12 +28,12 @@ Pel que fa al primer dia a LISA'05, [la xerrada d'avui][4] tot i que interessant
 
 Ah ! I que no se'm oblidi... gràcies als [savis consells d'en pof][6], puc trucar o bé gratis desde el portatil via [voipbuster][7] (la qualitat del so és gairebé perfecta en alguns casos) o bé per 50 céntims desde una cabina al meu [DID][8] d'[IpKALL][9] :) Thx pof !
 
- [1]: http://www.hostels.com/en/availability.php/HostelNumber.823
- [2]: http://en.wikipedia.org/wiki/Jetlag
- [3]: http://www.ratscoasters.co.uk/Stills/Spain%20Trip%202003/Tibidabo/imagepages/image25.htm
- [4]: http://www.usenix.org/events/lisa05/training/tutonefile.html#s6
- [5]: http://shmoo.com/members.html
- [6]: http://pof.eslack.org/blog/2005/09/14/asterisk-dialplan-pas-a-pas/
- [7]: http://www.voipbuster.com
- [8]: http://www.voip-info.org/wiki-DID
- [9]: http://www.ipkall.com
+ [1]: https://www.hostels.com/en/availability.php/HostelNumber.823
+ [2]: https://en.wikipedia.org/wiki/Jetlag
+ [3]: https://www.ratscoasters.co.uk/Stills/Spain%20Trip%202003/Tibidabo/imagepages/image25.htm
+ [4]: https://www.usenix.org/events/lisa05/training/tutonefile.html#s6
+ [5]: https://shmoo.com/members.html
+ [6]: https://pof.eslack.org/blog/2005/09/14/asterisk-dialplan-pas-a-pas/
+ [7]: https://www.voipbuster.com
+ [8]: https://www.voip-info.org/wiki-DID
+ [9]: https://www.ipkall.com

@@ -15,7 +15,7 @@ tags:
 title: Sun Microsystems Campus Ambassador
 ---
 
-<a id="p97" rel="attachment" class="imagelink" href="http://blogs.nopcode.org/brainstorm/2007/12/04/sun-microsystems-campus-ambassador/sun-microsystems-logo/" title="Sun microsystems logo" align=right><img id="image97" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/12/sun.thumbnail.png" alt="Sun microsystems logo"  align='right' /></a>
+<a id="p97" rel="attachment" class="imagelink" href="https://blogs.nopcode.org/brainstorm/2007/12/04/sun-microsystems-campus-ambassador/sun-microsystems-logo/" title="Sun microsystems logo" align=right><img id="image97" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/12/sun.thumbnail.png" alt="Sun microsystems logo"  align='right' /></a>
 
 As the title states, I've been recently elected as a campus ambassador for my university. When I talk about my newly acquired job, people keep asking: Woah, nice... hummm, but what does it mean after all ? Here are my main responsabilities on this cool project:
 
@@ -30,9 +30,9 @@ In fact, [jmmv][1] has already greeted my on his blog in advance about a topic r
 
 Thanks also to my [favourite sysadmins][3] for my new DTrace [privileges][4] needed to conduct my first tech talk :) 
 
-<font color='#f63526'>*UPDATE*</font>: Here's my new Sun blog: <http://blogs.sun.com/rvalls>
+<font color='#f63526'>*UPDATE*</font>: Here's my new Sun blog: <https://blogs.sun.com/rvalls>
 
- [1]: http://julipedia.blogspot.com/2007/12/thanks-systemtap.html
- [2]: http://www.sun.com/bigadmin/content/dtrace/
- [3]: http://www.ac.upc.edu/lcac/LCACTeam,en.html
- [4]: http://blogs.sun.com/fintanr/date/20040629
+ [1]: https://julipedia.blogspot.com/2007/12/thanks-systemtap.html
+ [2]: https://www.sun.com/bigadmin/content/dtrace/
+ [3]: https://www.ac.upc.edu/lcac/LCACTeam,en.html
+ [4]: https://blogs.sun.com/fintanr/date/20040629

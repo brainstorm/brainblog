@@ -15,7 +15,7 @@ tags:
 title: Grid (Globus Toolkit) fallant per temps
 ---
 
-[<img id="image100" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/12/globusalliance-nourl.gif" alt="Globus Toolkit" align='right' />][1]
+[<img id="image100" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/12/globusalliance-nourl.gif" alt="Globus Toolkit" align='right' />][1]
 
 A la [feina][2] disposem d'un grid d'unes 10 màquines per a fer [web crawling][3] muntades amb [Globus Toolkit][4] per a temes de recerca i estadístiques.
 
@@ -42,10 +42,10 @@ Tant els nodes com la consola central, no estaven sincronitzats a l'hora correct
 
 La consola central tenia greus problemes per a mantenir el sincronisme amb servidors NTP externs: el rellotge propi de la màquina [divergia][6] massa ràpid per tal de mantenir l'hora local amb precisió. Finalment, després de fer una mica de [recerca][7], el flag "notsc" aplicat al grub (menu.lst) ha salvat el dia.
 
- [1]: http://globus.org
- [2]: http://escert.upc.edu/
- [3]: http://en.wikipedia.org/wiki/Web_crawler
- [4]: http://globus.org/
- [5]: http://www.bsc.es/
- [6]: http://en.wikipedia.org/wiki/Clock_drift
- [7]: http://linux.derkeiler.com/Mailing-Lists/Fedora/2005-02/2793.html
+ [1]: https://globus.org
+ [2]: https://escert.upc.edu/
+ [3]: https://en.wikipedia.org/wiki/Web_crawler
+ [4]: https://globus.org/
+ [5]: https://www.bsc.es/
+ [6]: https://en.wikipedia.org/wiki/Clock_drift
+ [7]: https://linux.derkeiler.com/Mailing-Lists/Fedora/2005-02/2793.html

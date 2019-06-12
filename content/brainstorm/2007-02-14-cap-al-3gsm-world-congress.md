@@ -29,8 +29,8 @@ M'ha agradat veure que en la resta de fira es veu GNU/Linux en força stands. Es
 
 Altres stands interessants vistos de passada són [Freescale][4] i [ARM][5] i nvidia (amb unes plaques de desenvolupament impressionants)... disculpeu la brevetat del post però la feina és la feina ;_) Si voleu preguntar alguna cosa i me'n recordo, endavant !
 
- [1]: http://en.wikipedia.org/wiki/OLPC
- [2]: http://es.wikipedia.org/wiki/PlayStation_3
- [3]: http://en.wikipedia.org/wiki/Cell_microprocessor
- [4]: http://www.freescale.com/
- [5]: http://www.arm.com/
+ [1]: https://en.wikipedia.org/wiki/OLPC
+ [2]: https://es.wikipedia.org/wiki/PlayStation_3
+ [3]: https://en.wikipedia.org/wiki/Cell_microprocessor
+ [4]: https://www.freescale.com/
+ [5]: https://www.arm.com/

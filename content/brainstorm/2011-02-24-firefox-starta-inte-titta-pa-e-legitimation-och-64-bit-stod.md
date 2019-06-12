@@ -63,13 +63,13 @@ sh /usr/lib/firefox-3.6.10/run-mozilla.sh /usr/bin/gdb<br />
 /tmp/mozargs.bnrfme<br />
 GNU gdb (GDB) 7.1-ubuntu<br />
 Copyright (C) 2010 Free Software Foundation, Inc.<br />
-License GPLv3+: GNU GPL version 3 or later <http: //gnu.org/licenses/gpl.html><br />
+License GPLv3+: GNU GPL version 3 or later <https: //gnu.org/licenses/gpl.html><br />
 This is free software: you are free to change and redistribute it.<br />
 There is NO WARRANTY, to the extent permitted by law.  Type "show copying"<br />
 and "show warranty" for details.<br />
 This GDB was configured as "i486-linux-gnu".<br />
 For bug reporting instructions, please see:<br />
-<http: //www.gnu.org/software/gdb/bugs/>...<br />
+<https: //www.gnu.org/software/gdb/bugs/>...<br />
 Reading symbols from /usr/lib/firefox-3.6.10/firefox-bin...(no<br />
 debugging symbols found)...done.</p>
 <p>(gdb) run<br />
@@ -123,8 +123,8 @@ in __kernel_vsyscall ()</p>
 /usr/local/lib/libtokenapi.so<br />
 #7  0xb7fb496e in start_thread () from /lib/tls/i686/cmov/libpthread.so.0<br />
 #8  0xb638ca4e in clone () from /lib/tls/i686/cmov/libc.so.6<br />
-</http:>`
+</https:>`
 
 Visst, **/usr/local/lib/libtokenapi.so** är den skyldige. Följa [en andra post här][1] om du vill fixa det, lycka till ! :)
 
- [1]: http://blogs.nopcode.org/brainstorm/2010/06/21/swedish-vs-spanish-digital-certificate-hacks/
+ [1]: https://blogs.nopcode.org/brainstorm/2010/06/21/swedish-vs-spanish-digital-certificate-hacks/

@@ -19,7 +19,7 @@ tags:
 title: 'supervisord: one process to rule them all'
 ---
 
-[<img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/04/supervisord-150x60.gif" alt="supervisord logo" title="supervisord" width="150" height="60" class="alignleft size-thumbnail wp-image-470" />][1]
+[<img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/04/supervisord-150x60.gif" alt="supervisord logo" title="supervisord" width="150" height="60" class="alignleft size-thumbnail wp-image-470" />][1]
 
 When one is developing a daemonized service, it's rather usual to encounter minor errors that require no further attention than just restarting the daemon. That could be like not being able to connect to a remote machine for some time:
 
@@ -78,5 +78,5 @@ After this check, one would want to get rid of the "nodaemon" directive so that 
 
 Det var lätt som en plett, eller ? :)
 
- [1]: http://supervisord.org/
- [2]: http://supervisord.org/index.html
+ [1]: https://supervisord.org/
+ [2]: https://supervisord.org/index.html

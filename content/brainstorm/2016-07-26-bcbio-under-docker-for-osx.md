@@ -68,11 +68,11 @@ So please go ahead and:
  [1]: https://blog.docker.com/2016/03/docker-for-mac-windows-beta/
  [2]: https://github.com/docker/hyperkit/issues/20
  [3]: https://github.com/docker/hyperkit
- [4]: http://alpinelinux.org/about/
+ [4]: https://alpinelinux.org/about/
  [5]: https://forums.docker.com/t/docker-volumes-flapping-between-start-and-stop-states-while-the-container-is-running/10641
- [6]: http://commonwl.org
- [7]: http://usegalaxy.org
- [8]: http://bcb.io
+ [6]: https://commonwl.org
+ [7]: https://usegalaxy.org
+ [8]: https://bcb.io
  [9]: https://github.com/BD2KGenomics/toil
  [10]: https://github.com/chapmanb/bcbio-nextgen-vm
  [11]: https://blog.docker.com/2015/08/docker-toolbox/
@@ -80,5 +80,5 @@ So please go ahead and:
  [13]: https://github.com/docker/docker/issues/7198
  [14]: https://curoverse.com/
  [dockermac]: https://docs.docker.com/docker-for-mac/
- [miniconda]: http://conda.pydata.org/miniconda.html
+ [miniconda]: https://conda.pydata.org/miniconda.html
  [bcbio_docker_image]: https://hub.docker.com/r/bcbio/bcbio/

@@ -21,7 +21,7 @@ title: 'OwnCloud + iRODS: a small step towards popularizing scientific data shar
 ---
 
 <center>
-  <a href="https://www.irods.org/"><img src="http://zeeshanali.com/wp-content/uploads/2013/11/iRODS-logo.jpg" width="300" height="120" alt="iRODS logo" class="aligncenter" /></a>
+  <a href="https://www.irods.org/"><img src="https://zeeshanali.com/wp-content/uploads/2013/11/iRODS-logo.jpg" width="300" height="120" alt="iRODS logo" class="aligncenter" /></a>
 </center>
 
   
@@ -31,7 +31,7 @@ title: 'OwnCloud + iRODS: a small step towards popularizing scientific data shar
 
   
 <center>
-  <img src="http://owncloud.org/wp-content/uploads/2012/09/owncloud-square-logo.png" width="120" height="120" alt="OwnCloud logo" class="aligncenter" />
+  <img src="https://owncloud.org/wp-content/uploads/2012/09/owncloud-square-logo.png" width="120" height="120" alt="OwnCloud logo" class="aligncenter" />
 </center>
 
 # Context and iDROP
@@ -42,7 +42,7 @@ When I started at <acronym title="International Neuroinformatics Coordination Fa
 
 Still, from the operational and usability sides, **there is still plenty of room for improvement**.
 
-**One of the most commonly mentioned drawbacks** with the system has to do with how the data is presented to the researchers on the web. At the moment of writing this, an [iDROP][4] web interface is the canonical interface to access DataSpace for end users. The web client integrates well with the underlying iRODS infrastructure. One can perform <a href=http://www.youtube.com/watch?v=YhciVQCZuBY>common data operations plus manage its metadata attributes</a>, as any commandline user would do with the underlying [iRODS i-commands][5].
+**One of the most commonly mentioned drawbacks** with the system has to do with how the data is presented to the researchers on the web. At the moment of writing this, an [iDROP][4] web interface is the canonical interface to access DataSpace for end users. The web client integrates well with the underlying iRODS infrastructure. One can perform <a href=https://www.youtube.com/watch?v=YhciVQCZuBY>common data operations plus manage its metadata attributes</a>, as any commandline user would do with the underlying [iRODS i-commands][5].
 
 And even share (publish) a file as a (non-shortened, ugly) public link to share data with researchers:
 
@@ -77,14 +77,14 @@ A possible performance improvement would be to skip disk altogether or just keep
 While fixing this issue would give us some iRODS speedup, it would not take advantage of iRODS's underlying [Reliable Blast UDP protocol][14] since **all transfers are channeled towards HTTP instead of plain UDP**.
 
 <center>
-  <a href='http://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html'><img src="http://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP_files/rbudpf2.jpg" width="475" height="280" class /></a>
+  <a href='https://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html'><img src="http://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP_files/rbudpf2.jpg" width="475" height="280" class /></a>
 </center>
 
 An improvement that would definitely boost the performance would be to just **wrap the shell i-commands into well scaffolded PHP functions**. If i-commands binaries were installed in the system, **OwnCloud would detect it and use them** instead of a **PRODS-based "compatibility mode"**. From a user perspective, the "compat mode" should be announced as a warning in the web interface to hint the user about i-commands and how the sysadmins could install the corresponding [RPM][15] or [DEB][16] packages for them.
 
 Since **metadata is a big upside of iRODS**, it should definitely be exposed in OwnCloud as well. A possible way to meet ends, would be to **extend an existing OwnCloud [metadata plugin][17]**.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/3/38/Screenshot_of_browser_based_file_manager_in_ownCloud2.png" width="500" height="301" class />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Screenshot_of_browser_based_file_manager_in_ownCloud2.png" width="500" height="301" class />
 
 Last but not least, no software engineering project seems to be **100% safe from UTF-8 issues**, and PRODS does not seem to be clear from it either:
 
@@ -105,8 +105,8 @@ OwnCloud seems to be a good candidate to engulf a **heavily used data management
 
 In the next few days, [INCF will be applying for EUDAT funding][20]. We are looking for talented OwnCloud/PHP developers, please feel free to leave a comment below if you are interested in this initiative or reach me on twitter: [@braincode][21] or just followup on the [aforementioned pullrequest][13]!.
 
- [1]: http://incf.org/dataspace "DataSpace"
- [2]: http://dev.incf.org/trac/infrastructure/raw-attachment/wiki/SystemArchitecture/INCF%20Dataspace%20Architecture%20v1.2.pdf
+ [1]: https://incf.org/dataspace "DataSpace"
+ [2]: https://dev.incf.org/trac/infrastructure/raw-attachment/wiki/SystemArchitecture/INCF%20Dataspace%20Architecture%20v1.2.pdf
  [3]: https://github.com/INCF/ids-tools
  [4]: https://code.renci.org/gf/project/irodsidrop/
  [5]: https://www.irods.org/index.php/icommands
@@ -118,11 +118,11 @@ In the next few days, [INCF will be applying for EUDAT funding][20]. We are look
  [11]: https://www.irods.org/prods_doc/
  [12]: https://github.com/owncloud/core/pull/6004
  [13]: https://github.com/owncloud/core/pull/6004#discussion-diff-7856938
- [14]: http://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html
+ [14]: https://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html
  [15]: https://build.opensuse.org/package/show/home:braincode/irods
  [16]: https://launchpad.net/~cansmith/+archive/irods/
- [17]: http://apps.owncloud.com/content/show.php?content=151520
- [18]: http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3
- [19]: http://blog.adityapatawari.com/2014/01/using-openstack-swift-as-owncloud.html
- [20]: http://www.eudat.eu/news/eudat-calls-collaboration-projects
+ [17]: https://apps.owncloud.com/content/show.php?content=151520
+ [18]: https://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3
+ [19]: https://blog.adityapatawari.com/2014/01/using-openstack-swift-as-owncloud.html
+ [20]: https://www.eudat.eu/news/eudat-calls-collaboration-projects
  [21]: https://twitter.com/braincode

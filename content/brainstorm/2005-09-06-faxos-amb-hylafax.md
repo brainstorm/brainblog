@@ -82,11 +82,11 @@ També és possible fer-ho via samba, clients específics, etc... A la web de [h
 
 Per últim em queda comentar que tard o d'hora VoIP predominarà i s'ha d'estar preparat per migrar també els faxos a aquest sistema, per això deixo un [link][7] per si algú s'anima a configurar un sistema de faxos amb [asterisk][8].
 
- [1]: http://www.diariolinux.com/tiki-read_article.php?articleId=21&page=1
+ [1]: https://www.diariolinux.com/tiki-read_article.php?articleId=21&page=1
  [2]: ftp://ftp.hylafax.org/source/CVS/faxmail/
- [3]: http://www.cups.org/
- [4]: http://vigna.dsi.unimi.it/fax4CUPS/
- [5]: http://www.hylafax.org/archive/2002-09/msg00167.html
- [6]: http://www.hylafax.org/links.html#clients
- [7]: http://www.voip-info.org/wiki-Asterisk+fax
- [8]: http://www.asterisk.org/
+ [3]: https://www.cups.org/
+ [4]: https://vigna.dsi.unimi.it/fax4CUPS/
+ [5]: https://www.hylafax.org/archive/2002-09/msg00167.html
+ [6]: https://www.hylafax.org/links.html#clients
+ [7]: https://www.voip-info.org/wiki-Asterisk+fax
+ [8]: https://www.asterisk.org/

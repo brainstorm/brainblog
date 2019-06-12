@@ -100,22 +100,22 @@ If all of the above fails, just bring it to [St Kilda Repair cafe][stkilda_repai
 
 Enjoy!
 
- [openscad]: http://www.openscad.org/
- [openscad_cheatsheet]: http://www.openscad.org/cheatsheet/
+ [openscad]: https://www.openscad.org/
+ [openscad_cheatsheet]: https://www.openscad.org/cheatsheet/
  [dxf_file_format]: https://en.wikipedia.org/wiki/AutoCAD_DXF
  [stl_file_format]: https://en.wikipedia.org/wiki/STL_%28file_format%29
- [3d_hubs]: http://3dhubs.refr.cc/87PLN6L
+ [3d_hubs]: https://3dhubs.refr.cc/87PLN6L
  [petg]: https://all3dp.com/1/petg-filament-3d-printing/
- [cchs]: http://www.hackmelbourne.org/
+ [cchs]: https://www.hackmelbourne.org/
  [freecycle_melbourne]: https://twitter.com/FreecycleMelb
  [RSS]: https://en.wikipedia.org/wiki/RSS
- [feed43]: http://feed43.com/
- [feed43_rss_freecycle]: http://feed43.com/6514822453153008.xml
+ [feed43]: https://feed43.com/
+ [feed43_rss_freecycle]: https://feed43.com/6514822453153008.xml
  [freecycle_melbourne]: https://twitter.com/freecyclemelb
  [freecycle]: https://www.freecycle.org/
  [ifttt_rss_twitter]: https://ifttt.com/connect/feed/twitter
- [stkilda_repair_cafe]: http://stkildarepaircafe.org.au/
+ [stkilda_repair_cafe]: https://stkildarepaircafe.org.au/
  [aaron_swartz]: https://sv.wikipedia.org/wiki/Aaron_Swartz
- [onshape]: http://onshape.com
+ [onshape]: https://onshape.com
  [fusion360]: https://www.autodesk.com/products/fusion-360/overview
  [tinkercad]: https://www.tinkercad.com/

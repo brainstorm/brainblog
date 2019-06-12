@@ -25,8 +25,8 @@ A que espereu ? Encara no heu feu submit del vostre [TermCast][4] ?! Correu aban
 
 Descobriu als altres visitants la força del vostre terminal ! ;)
 
- [1]: http://barcelona.pm.org/
- [2]: http://meneame.net/story/youterm-youtube-videos-consola
- [3]: http://blogs.nopcode.org/pancake
- [4]: http://www.youterm.com/?view=Submit
- [5]: http://nopcode.org
+ [1]: https://barcelona.pm.org/
+ [2]: https://meneame.net/story/youterm-youtube-videos-consola
+ [3]: https://blogs.nopcode.org/pancake
+ [4]: https://www.youterm.com/?view=Submit
+ [5]: https://nopcode.org

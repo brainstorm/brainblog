@@ -16,7 +16,7 @@ tags:
 title: SquirrelSQL Client and Informix
 ---
 
-I'm doing a [database][1] course in my [faculty][2]. First of all, I must say that I and some of my friends disagree on the <acronym title="DataBase Management System"><a href="http://en.wikipedia.org/wiki/DBMS">DBMS</a></acronym> software our teachers use to introduce SQL and common database features. They use [Informix][3], IMHO, a somewhat deprecated, creepy and [privative][4] DBMS. But the purpose of this post is not about complaining, instead, I'll show the features of an impressive opensource cross-platform interactive SQL client I've discovered recently ([squirrel-sql client][5]) and a quick "for dummies" guide to connect to a remote Informix database server (in this particular case, my university DBMS):
+I'm doing a [database][1] course in my [faculty][2]. First of all, I must say that I and some of my friends disagree on the <acronym title="DataBase Management System"><a href="https://en.wikipedia.org/wiki/DBMS">DBMS</a></acronym> software our teachers use to introduce SQL and common database features. They use [Informix][3], IMHO, a somewhat deprecated, creepy and [privative][4] DBMS. But the purpose of this post is not about complaining, instead, I'll show the features of an impressive opensource cross-platform interactive SQL client I've discovered recently ([squirrel-sql client][5]) and a quick "for dummies" guide to connect to a remote Informix database server (in this particular case, my university DBMS):
 
 As the project main page states: <cite>SQuirreL SQL Client is a graphical Java program that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.</cite>
 
@@ -34,11 +34,11 @@ But it's far better than that, with the included plugins you can have a full-fle
 <table align="center" cellpadding="8">
   <tr>
     <td>
-      <a href="http://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient_splash.png"><br /> <img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient_splash.png' alt='squirrel-sql splash screen' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient_splash.png"><br /> <img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient_splash.png' alt='squirrel-sql splash screen' /></a>
     </td>
     
     <td>
-      <a href="http://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient1.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient1.png' alt='jdbc driver blueprint' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient1.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient1.png' alt='jdbc driver blueprint' /></a>
     </td>
   </tr>
   
@@ -54,11 +54,11 @@ But it's far better than that, with the included plugins you can have a full-fle
   
   <tr>
     <td>
-      <a href="http://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient2.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient2.png' alt='driver alias blueprint' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient2.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient2.png' alt='driver alias blueprint' /></a>
     </td>
     
     <td>
-      <a href="http://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient4.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient4.png' alt='connection settings' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient4.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient4.png' alt='connection settings' /></a>
     </td>
   </tr>
   
@@ -74,11 +74,11 @@ But it's far better than that, with the included plugins you can have a full-fle
   
   <tr>
     <td>
-      <a href="http://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient5.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient5.png' alt='catalog view' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient5.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient5.png' alt='catalog view' /></a>
     </td>
     
     <td>
-      <a href="http://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient6.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient6.png' alt='sql interactive editor view' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient6.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient6.png' alt='sql interactive editor view' /></a>
     </td>
   </tr>
   
@@ -97,14 +97,14 @@ I've been trying this program for a while and I should say that it works nicely 
 
 I wrote a quick [tutorial][9] a few months ago (in catalan) to connect to Informix via socks5 faculty's gateway using [unixODBC][10] and [tsocks][11], it's now deprecated (there was no VPN then).
 
- [1]: http://www.fib.upc.es/ca/Estudis/Assignatures/BD.html
- [2]: http://www.fib.upc.es
- [3]: http://www-306.ibm.com/software/data/informix/
- [4]: http://es.wikipedia.org/wiki/Software_privativo
- [5]: http://squirrel-sql.sourceforge.net/
- [6]: http://www14.software.ibm.com/webapp/download/search.jsp?go=y&rs=ifxjdbc
- [7]: http://www.bugmenot.com/
+ [1]: https://www.fib.upc.es/ca/Estudis/Assignatures/BD.html
+ [2]: https://www.fib.upc.es
+ [3]: https://www-306.ibm.com/software/data/informix/
+ [4]: https://es.wikipedia.org/wiki/Software_privativo
+ [5]: https://squirrel-sql.sourceforge.net/
+ [6]: https://www14.software.ibm.com/webapp/download/search.jsp?go=y&rs=ifxjdbc
+ [7]: https://www.bugmenot.com/
  [8]: https://raco.fib.upc.es/vpn
- [9]: http://www-pagines.fib.upc.es/%7Ebd/casaLinux.html
- [10]: http://www.unixodbc.org/
- [11]: http://tsocks.sourceforge.net/
+ [9]: https://www-pagines.fib.upc.es/%7Ebd/casaLinux.html
+ [10]: https://www.unixodbc.org/
+ [11]: https://tsocks.sourceforge.net/

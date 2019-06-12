@@ -18,5 +18,5 @@ Last but not least, I want to thank the people who wrote [Gallery2][1] and the a
 
 EDIT: WPG2 updates were such as mess that I migrated my entire photo collection to Flickr, sorry for the mass update on your feeds, ppl !
 
- [1]: http://gallery.menalto.com/
- [2]: http://wpg2.galleryembedded.com/index.php?title=Main_Page
+ [1]: https://gallery.menalto.com/
+ [2]: https://wpg2.galleryembedded.com/index.php?title=Main_Page

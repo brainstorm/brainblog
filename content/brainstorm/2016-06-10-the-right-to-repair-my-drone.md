@@ -15,13 +15,13 @@ title: The right to repair my drone
 
 ## Should electronics be repairable?
 
-The question seems to ask for a resounding "of course" in my mind, but today I woke up to the following video by [Louis Rossman](https://www.youtube.com/user/rossmanngroup) about the [right to repair](http://ifixit.org/right) bill and how legislators [are trying to counter trade secret lobbyists](https://www.techdirt.com/articles/20150322/15203730402/new-york-legislators-seeking-right-to-repair-law-electronic-devices.shtml). If you care about your right to repair your electronics, either by you or a professional, take some time to hear what Louis has to say as a talented independent electronics repairman:
+The question seems to ask for a resounding "of course" in my mind, but today I woke up to the following video by [Louis Rossman](https://www.youtube.com/user/rossmanngroup) about the [right to repair](https://ifixit.org/right) bill and how legislators [are trying to counter trade secret lobbyists](https://www.techdirt.com/articles/20150322/15203730402/new-york-legislators-seeking-right-to-repair-law-electronic-devices.shtml). If you care about your right to repair your electronics, either by you or a professional, take some time to hear what Louis has to say as a talented independent electronics repairman:
 
 {{<youtube 4eyidi2HaMY>}}
 
 Rossmann mentions **how stupid it would be to not be able to repair your own electronics** and share how you did so with the rest of the world as he does with Apple products. That thought resonated with me, specially when I decided to look into my faulty drone as a hobby repair recently.
 
-So if you don't care much about that bill and you are a tech geek like me, take a look at **how I fixed my ~$300 drone** by fixing a **software glitch** in one of its motor's microcontrollers. Then please, **rethink again how that bill would affect us all** and [raise your voice](http://newyork.repair.org/).
+So if you don't care much about that bill and you are a tech geek like me, take a look at **how I fixed my ~$300 drone** by fixing a **software glitch** in one of its motor's microcontrollers. Then please, **rethink again how that bill would affect us all** and [raise your voice](https://newyork.repair.org/).
 
 ## One motor not responding 
 
@@ -60,7 +60,7 @@ At this point, **all the manufacturer tells you is to buy a completely new motor
 
 ![Drone motor cost](https://blogs.nopcode.org/brainstorm/images/2016/06/motor_pricing.png)
 
-But I insist, nothing seems wrong with the motor itself, neither the few [DMC3021LSD MOSFETs that are around the motor](http://www.datasheetarchive.com/dl/Datasheets-SW8/DSASW00156661.pdf) board, so it clearly seems like a software issue... with the [**Atmega8A microcontroller**](http://www.atmel.com/Images/Atmel-8159-8-bit-AVR-microcontroller-ATmega8A_summary.pdf) present in **each of the 4 motor boards**... the microcontroller datasheet states that they **should work for 20 years and withstand 100.000 programming cycles**. I definitely did not use it neither for that long nor that many times, so it got me curious: what if [I could just fix it myself](https://repair.org/) **while I still have the right to?**
+But I insist, nothing seems wrong with the motor itself, neither the few [DMC3021LSD MOSFETs that are around the motor](https://www.datasheetarchive.com/dl/Datasheets-SW8/DSASW00156661.pdf) board, so it clearly seems like a software issue... with the [**Atmega8A microcontroller**](http://www.atmel.com/Images/Atmel-8159-8-bit-AVR-microcontroller-ATmega8A_summary.pdf) present in **each of the 4 motor boards**... the microcontroller datasheet states that they **should work for 20 years and withstand 100.000 programming cycles**. I definitely did not use it neither for that long nor that many times, so it got me curious: what if [I could just fix it myself](https://repair.org/) **while I still have the right to?**
 
 ## Not bothering opening my drone
 
@@ -76,7 +76,7 @@ Also external [and internal photos](https://fccid.io/document.php?id=1301518) on
 
 At this point, the BLC board is the one I took a look at... also, for [higher quality photos there's ifixit](https://d3nevzfk7ii3be.cloudfront.net/igi/RRu1GyTsW26ItbHc.huge) which regularly [tears down gadgets](https://www.ifixit.com/Teardown/Parrot+AR.Drone+Teardown/3984) so you don't have to.
 
-With a multimeter, the [Atmega8A datasheet](http://www.atmel.com/Images/Atmel-8159-8-bit-AVR-microcontroller-ATmega8A_summary.pdf) and [GIMP](https://www.gimp.org/) it is straightforward to map out the pins from the microcontroller to the board test points:
+With a multimeter, the [Atmega8A datasheet](https://www.atmel.com/Images/Atmel-8159-8-bit-AVR-microcontroller-ATmega8A_summary.pdf) and [GIMP](https://www.gimp.org/) it is straightforward to map out the pins from the microcontroller to the board test points:
 
 ![Drone motor pinout](https://blogs.nopcode.org/brainstorm/images/2016/06/drone_motor_pinout.jpg)
 
@@ -86,11 +86,11 @@ See those [MISO/MOSI/SCK](https://en.wikipedia.org/wiki/Serial_Peripheral_Interf
 
 ## Time for some wiring up a couple of motors with a Raspberry PI
 
-Using a Raspberry Pi one's [GPIO pins](https://en.wikipedia.org/wiki/General-purpose_input/output) acting as a microcontroller's programmer and [AVRdude](http://www.nongnu.org/avrdude/) running on it (just a plain `apt-get install avrdude` away on a recent raspbian), we can read and write the contents of the faulty motor board:
+Using a Raspberry Pi one's [GPIO pins](https://en.wikipedia.org/wiki/General-purpose_input/output) acting as a microcontroller's programmer and [AVRdude](https://www.nongnu.org/avrdude/) running on it (just a plain `apt-get install avrdude` away on a recent raspbian), we can read and write the contents of the faulty motor board:
 
 ![ARDrone motor pinout](https://blogs.nopcode.org/brainstorm/images/2016/06/raspberry_pi_motor_gpio.jpg)
 
-The pinouts in AVRdude must be defined in their **physical mapping**. There are tons of [diagrams available online](http://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/) on how those are distributed in the different raspberry pi versions, so pick and choose your favorite rpi GPIO pins and tell AVRdude accordingly via `/etc/avrdude.conf`:
+The pinouts in AVRdude must be defined in their **physical mapping**. There are tons of [diagrams available online](https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/) on how those are distributed in the different raspberry pi versions, so pick and choose your favorite rpi GPIO pins and tell AVRdude accordingly via `/etc/avrdude.conf`:
 
 ```
 programmer
@@ -166,7 +166,7 @@ diff -u motor1/lock.hex motor2/lock.hex
 
 So the EEPROM holds information that I have no time to reverse engineer now (motor coil timing calibration? total flight hours?... no clue).
 
-On the other hand, **the lock bits** got me interested. As Alexander and Boris say [in their AVR workshops](http://www.radare.org/get/avrworkshops2016.pdf): **"when in doubt, look at the datasheet!"**.
+On the other hand, **the lock bits** got me interested. As Alexander and Boris say [in their AVR workshops](https://www.radare.org/get/avrworkshops2016.pdf): **"when in doubt, look at the datasheet!"**.
 
 So the datasheet states the following about **lock bits** near table 86 on page 215:
 
@@ -188,8 +188,8 @@ But since **there are no further specs nor documentation from the manufacturer**
 
 In any case, that's it, **I just saved the environment and $50 by unlocking an incorrectly software-locked hardware!**
 
-There are a few bits missing on how I debugged this issue and saved some followup reverse engineering work [Hugo Perquin did on his blog](http://blog.perquin.com/blog/ardrone-motor-controller/). About reverse engineering, I might present some work at the first [Radare2 conference](http://rada.re/con/).
+There are a few bits missing on how I debugged this issue and saved some followup reverse engineering work [Hugo Perquin did on his blog](https://blog.perquin.com/blog/ardrone-motor-controller/). About reverse engineering, I might present some work at the first [Radare2 conference](http://rada.re/con/).
 
-[![Radare2 Con](https://blogs.nopcode.org/brainstorm/images/2016/06/radarecon.png)](http://rada.re/con)
+[![Radare2 Con](https://blogs.nopcode.org/brainstorm/images/2016/06/radarecon.png)](https://rada.re/con)
 
-But anyways, I hope to have raised some awareness about [the right to repair](http://newyork.repair.org/) while entertaining some nerds like me ;)
+But anyways, I hope to have raised some awareness about [the right to repair](https://newyork.repair.org/) while entertaining some nerds like me ;)

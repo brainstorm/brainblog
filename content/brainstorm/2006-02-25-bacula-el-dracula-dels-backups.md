@@ -181,12 +181,12 @@ FileDaemon {                          # this is me
 
 S'accepten crítiques/preguntes/idees ! ;)
 
- [1]: http://blogs.nopcode.org/brainstorm/wp-content/images/bacu_logored.jpg
- [2]: http://www.bacula.org/
- [3]: http://bacula.org/?page=documentation
- [4]: http://bacula.org/dev-manual/Supported_Tape_Drives.html
- [5]: http://bacula.org/dev-manual/Customizin_Configurat_Files.html
- [6]: http://bacula.org/dev-manual/Brief_Tutorial.html
- [7]: http://www.bacula.org/rel-manual/Bacula_TLS.html
- [8]: http://www.bacula.org/rel-manual/Using_Bacula_Improv_Comput.html
- [9]: http://bacula.org/rel-manual/Backup_Strategies.html
+ [1]: https://blogs.nopcode.org/brainstorm/wp-content/images/bacu_logored.jpg
+ [2]: https://www.bacula.org/
+ [3]: https://bacula.org/?page=documentation
+ [4]: https://bacula.org/dev-manual/Supported_Tape_Drives.html
+ [5]: https://bacula.org/dev-manual/Customizin_Configurat_Files.html
+ [6]: https://bacula.org/dev-manual/Brief_Tutorial.html
+ [7]: https://www.bacula.org/rel-manual/Bacula_TLS.html
+ [8]: https://www.bacula.org/rel-manual/Using_Bacula_Improv_Comput.html
+ [9]: https://bacula.org/rel-manual/Backup_Strategies.html

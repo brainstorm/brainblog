@@ -22,6 +22,6 @@ El cas és que salta una consola del ramdisk inicial i no arrenca res de l'array
 
 Bé, només volia estalviar aquest trencaclosques que lliga initramfs+mdadm per al que vol que el seu RAID funcioni com hauria, *enjoy it* :)
 
- [1]: http://en.wikipedia.org/wiki/Fakeraid#Software_RAID
- [2]: http://en.wikipedia.org/wiki/Master_boot_record
+ [1]: https://en.wikipedia.org/wiki/Fakeraid#Software_RAID
+ [2]: https://en.wikipedia.org/wiki/Master_boot_record
  [3]: https://bugs.launchpad.net/bugs/108971

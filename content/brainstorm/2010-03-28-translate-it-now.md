@@ -20,8 +20,8 @@ Firefox with [greasemonkey][4] together with [Google Translator Tooltip][5], sav
 
 **Hint:** configure it as "detect language" and you have an anti-babel device in just one double click.
 
- [1]: http://www.advogato.org/person/fxn/diary/501.html
- [2]: http://www.dn.se/
- [3]: http://www.svd.se/
+ [1]: https://www.advogato.org/person/fxn/diary/501.html
+ [2]: https://www.dn.se/
+ [3]: https://www.svd.se/
  [4]: https://addons.mozilla.org/sv-SE/firefox/addon/748
- [5]: http://userscripts.org/scripts/show/36898
+ [5]: https://userscripts.org/scripts/show/36898

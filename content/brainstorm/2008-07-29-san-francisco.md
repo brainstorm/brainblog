@@ -30,4 +30,4 @@ Després d'11 hores de vol, trobar-se algú que t'espera a la sortida per portar
 *   Finalment creuem el golden gate: molt soroll
 *   1000 suïcidis l'any
 
- [1]: http://www.hospitalityclub.org/
+ [1]: https://www.hospitalityclub.org/

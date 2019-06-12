@@ -68,34 +68,34 @@ If your batch system supports DRMAA, there's a better chance to get it rolling. 
 
 There's [a ticket][27] for that.
 
-## Next stop: [BOSC2011][23] and <a href=http://www.iscb.org/ismbeccb2011"">ISMB</a>
+## Next stop: [BOSC2011][23] and <a href=https://www.iscb.org/ismbeccb2011"">ISMB</a>
 
 I have just covered a few topics shown in the conference, but you can take the time to [explore it further][1], both by videos and slides. Obviously the galaxy evolution does not end up here, there's still more to come in a few days in Vienna.
 
- [1]: http://wiki.g2.bx.psu.edu/GCC2011
- [2]: http://en.wikipedia.org/wiki/Lunteren
- [3]: http://www.metasploit.com/
- [4]: http://en.wikipedia.org/wiki/Computational_biology
- [5]: http://wiki.g2.bx.psu.edu/Galaxy%20Team
- [6]: http://dir.gmane.org/gmane.science.biology.galaxy.devel
- [7]: http://galaxy.psu.edu/
- [8]: http://wiki.g2.bx.psu.edu/Events/GCC2011?action=AttachFile&do=get&target=SixKeyInsights.pdf
- [9]: http://main.g2.bx.psu.edu/
- [10]: http://www.biomedcentral.com/1471-2105/11/S12/S4
+ [1]: https://wiki.g2.bx.psu.edu/GCC2011
+ [2]: https://en.wikipedia.org/wiki/Lunteren
+ [3]: https://www.metasploit.com/
+ [4]: https://en.wikipedia.org/wiki/Computational_biology
+ [5]: https://wiki.g2.bx.psu.edu/Galaxy%20Team
+ [6]: https://dir.gmane.org/gmane.science.biology.galaxy.devel
+ [7]: https://galaxy.psu.edu/
+ [8]: https://wiki.g2.bx.psu.edu/Events/GCC2011?action=AttachFile&do=get&target=SixKeyInsights.pdf
+ [9]: https://main.g2.bx.psu.edu/
+ [10]: https://www.biomedcentral.com/1471-2105/11/S12/S4
  [11]: https://bitbucket.org/steder/galaxy-globus
- [12]: http://wiki.g2.bx.psu.edu/Future/Distributed%20Galaxy
- [13]: http://wiki.g2.bx.psu.edu/Events/GCC2011?action=AttachFile&do=get&target=RunningGalaxyDRMAAJobsAsDifferentUsers.pdf
- [14]: http://wiki.g2.bx.psu.edu/Learn/FAQ#Central_Galaxy_server_or_Galaxy_source_distribution
- [15]: http://wiki.g2.bx.psu.edu/Support
- [16]: http://mdahlo.blogspot.com/2011/06/galaxy-on-uppmax.html
- [17]: http://wiki.g2.bx.psu.edu/Admin/Config/Performance/Production%20Server
- [18]: http://wiki.g2.bx.psu.edu/Big%20Picture/Choices
+ [12]: https://wiki.g2.bx.psu.edu/Future/Distributed%20Galaxy
+ [13]: https://wiki.g2.bx.psu.edu/Events/GCC2011?action=AttachFile&do=get&target=RunningGalaxyDRMAAJobsAsDifferentUsers.pdf
+ [14]: https://wiki.g2.bx.psu.edu/Learn/FAQ#Central_Galaxy_server_or_Galaxy_source_distribution
+ [15]: https://wiki.g2.bx.psu.edu/Support
+ [16]: https://mdahlo.blogspot.com/2011/06/galaxy-on-uppmax.html
+ [17]: https://wiki.g2.bx.psu.edu/Admin/Config/Performance/Production%20Server
+ [18]: https://wiki.g2.bx.psu.edu/Big%20Picture/Choices
  [19]: https://bitbucket.org/kanwei
- [20]: http://lists.bx.psu.edu/listinfo/galaxy-dev
- [21]: http://wiki.g2.bx.psu.edu/Admin/Sample%20Tracking/Demo
- [22]: http://wiki.g2.bx.psu.edu/Admin/Sample%20Tracking/Next%20Gen
- [23]: http://www.open-bio.org/wiki/BOSC_2011
- [24]: http://www.open-bio.org/wiki/Codefest_2011
+ [20]: https://lists.bx.psu.edu/listinfo/galaxy-dev
+ [21]: https://wiki.g2.bx.psu.edu/Admin/Sample%20Tracking/Demo
+ [22]: https://wiki.g2.bx.psu.edu/Admin/Sample%20Tracking/Next%20Gen
+ [23]: https://www.open-bio.org/wiki/BOSC_2011
+ [24]: https://www.open-bio.org/wiki/Codefest_2011
  [25]: https://bitbucket.org/galaxy/galaxy-central/src/8b97f197b759/lib/galaxy/web/api/
- [26]: http://wiki.g2.bx.psu.edu/Events/GCC2011?action=AttachFile&do=get&target=GalaxyDeploymentandAPI.pdf
+ [26]: https://wiki.g2.bx.psu.edu/Events/GCC2011?action=AttachFile&do=get&target=GalaxyDeploymentandAPI.pdf
  [27]: https://bitbucket.org/galaxy/galaxy-central/issue/79/split-large-jobs-over-multiple-nodes-for

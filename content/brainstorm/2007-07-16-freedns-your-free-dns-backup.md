@@ -36,5 +36,5 @@ Quoting the instructions for this awesome **free** service:
 > 
 > DNS "notifies" are accepted. Make sure when you update your zone to also update your serial on your own DNS server, (if notifies are enabled on your DNS server) it will send ns2.afraid.org a notify (be sure to list it in the parent SOA records) which will cause ns2.afraid.org to immediately download your latest zone file.
 
- [1]: http://blogs.nopcode.org/brainstorm/2007/07/02/transferring-nopcodeorg-to-a-better-cheaper-place/
- [2]: http://freedns.afraid.org/
+ [1]: https://blogs.nopcode.org/brainstorm/2007/07/02/transferring-nopcodeorg-to-a-better-cheaper-place/
+ [2]: https://freedns.afraid.org/

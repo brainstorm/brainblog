@@ -183,8 +183,8 @@ To close the loop of productionalising a scientific tool like PCGR that is under
 It is my hope that as time goes by, some of the practices described here become so obvious to anybody involved that it becomes standard practice.
 
 [umccr_arteria]: https://blogs.nopcode.org/brainstorm/2018/03/12/umccr-arteria
-[pcgr]: http://github.com/sigven/pcgr
-[pcgr_breast_tumor_sample]: http://folk.uio.no/sigven/tumor_sample.BRCA.0.5.3.pcgr.html
+[pcgr]: https://github.com/sigven/pcgr
+[pcgr_breast_tumor_sample]: https://folk.uio.no/sigven/tumor_sample.BRCA.0.5.3.pcgr.html
 [pcgr_deploy]: https://github.com/umccr/pcgr-deploy
 [pcgr_deploy_aws]: https://github.com/umccr/pcgr-deploy/blob/master/ansible/aws.yml
 [pcgr_deploy_openstack]: https://github.com/umccr/pcgr-deploy/blob/master/ansible/openstack.yml
@@ -194,14 +194,14 @@ It is my hope that as time goes by, some of the practices described here become 
 [aws_lambda_encrypted]: https://docs.aws.amazon.com/lambda/latest/dg/env_variables.html#env_encrypt
 [aws_object_created]: https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html#notification-how-to-event-types-and-destinations
 [aws_spot_duration_script]: https://github.com/umccr/pcgr-deploy/blob/master/ansible/scripts/get_spot_duration.py
-[aws_netflix_spot_instances]: http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html
+[aws_netflix_spot_instances]: https://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html
 [pcgr_releases]: https://github.com/sigven/pcgr/releases
 [serverless]: https://serverless.com/
 [pcgr_stackstorm]: https://github.com/brainstorm/stackstorm-pcgr
-[vms_containers_or_serverless]: http://rishidot.com/krishnan/app-development/vms-containers-or-serverless/
+[vms_containers_or_serverless]: https://rishidot.com/krishnan/app-development/vms-containers-or-serverless/
 [pcgr_consumer_script]: https://github.com/umccr/pcgr-deploy/blob/master/ansible/files/pcgr_consumer.py
 [pcgr_systemd_service]: https://github.com/umccr/pcgr-deploy/blob/master/ansible/files/pcgr.service.j2
-[image_forensic_analysis]: http://www.forensicswiki.org/wiki/Main_Page
+[image_forensic_analysis]: https://www.forensicswiki.org/wiki/Main_Page
 [aws_cloudformation]: https://aws.amazon.com/cloudformation/
 [aws_launch_configuration]: https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html
 [stackstorm]: https://stackstorm.com/

@@ -36,7 +36,7 @@ That was my idealized view. It turns to be this way:
 9.  **Rebuild guest ramdisk** image in order to load VirtIO drivers in the boot process.
 
 <center>
-  <br /> <a href="http://dilbert.com/strips/comic/2008-02-12/" title="Dilbert.com"><img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/800/1869/1869.strip.gif" border="0" alt="Dilbert.com" /></a><br />
+  <br /> <a href="https://dilbert.com/strips/comic/2008-02-12/" title="Dilbert.com"><img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/800/1869/1869.strip.gif" border="0" alt="Dilbert.com" /></a><br />
 </center>
 
 Want more details ? Keep reading...  
@@ -173,7 +173,7 @@ Now, using virt-manager, you expect to see your virtual machine booting... but i
 
 As usual I only wish others to avoid wasting their time on those bugs, good luck :)
 
- [1]: http://en.wikipedia.org/wiki/Open_Virtualization_Format
+ [1]: https://en.wikipedia.org/wiki/Open_Virtualization_Format
  [2]: https://bugs.launchpad.net/ubuntu/+source/libvirt/+bug/517478
- [3]: http://blog.bodhizazen.net/linux/convert-vmware-vmdk-to-kvm-qcow2-or-virtualbox-vdi/
- [4]: http://wiki.libvirt.org/page/Virtio
+ [3]: https://blog.bodhizazen.net/linux/convert-vmware-vmdk-to-kvm-qcow2-or-virtualbox-vdi/
+ [4]: https://wiki.libvirt.org/page/Virtio

@@ -16,7 +16,7 @@ Explico doncs per sobre conceptes bàsics i aplicacions concretes: iptables i sh
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2911370237/" title="Burkina Faso class ESI" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3132/2911370237_d93e9bdc07_m.jpg" alt="Burkina Faso class ESI" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911370237/" title="Burkina Faso class ESI" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3132/2911370237_d93e9bdc07_m.jpg" alt="Burkina Faso class ESI" class="" /></a>
   </center>
 </div>
 
@@ -39,7 +39,7 @@ Són pensaments que ens persegueixen durant la resta del dia. També discutim em
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2911387551/" title="Burkina Faso Bus" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3088/2911387551_8a7d6a30bc_m.jpg" alt="Burkina Faso Bus" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911387551/" title="Burkina Faso Bus" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3088/2911387551_8a7d6a30bc_m.jpg" alt="Burkina Faso Bus" class="" /></a>
   </center>
 </div>
 
@@ -51,7 +51,7 @@ Un cop arribats a l'entrada del mercat, ens endisem entre colors apagats i olors
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2912246308/" title="Burkina Faso mercat" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3064/2912246308_d75beb00f2_m.jpg" alt="Burkina Faso mercat" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912246308/" title="Burkina Faso mercat" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3064/2912246308_d75beb00f2_m.jpg" alt="Burkina Faso mercat" class="" /></a>
   </center>
 </div>
 
@@ -63,4 +63,4 @@ Sortim del mercat sense comprar res a recomanació d'en Mesmin: una primera visi
 
 Després de la jornada intensa, una estona per descansar, escriure i pensar no està de menys i això és el que faig :)
 
- [1]: http://blogs.nopcode.org/brainstorm/2006/07/19/my-lisa05-summaries-online/
+ [1]: https://blogs.nopcode.org/brainstorm/2006/07/19/my-lisa05-summaries-online/

@@ -20,8 +20,8 @@ Bàsicament he tocat per primer cop la AGI via perl (que ve a ser com els CGI's 
 <pre>inherit perl-module
 
 DESCRIPTION="Perl AGI interfacing with the Asterisk open source pbx system"
-HOMEPAGE="http://asterisk.gnuinter.net/"
-SRC_URI="http://asterisk.gnuinter.net/files/${P}.tar.gz"
+HOMEPAGE="https://asterisk.gnuinter.net/"
+SRC_URI="https://asterisk.gnuinter.net/files/${P}.tar.gz"
 LICENSE="Artistic GPL-2"
 SLOT="0"
 
@@ -56,9 +56,9 @@ Altrament, quan llegiu la variable $isyhorari al extensions.conf del vostre aste
 
 Coneixeu altres casos on heu escapat l'espai en blanc d'aquesta forma ? És relativament comú trobar-s'ho o és un cas raro ?
 
- [1]: http://www.fib.upc.es/ca/Estudis/Assignatures/PXCSO.html
- [2]: http://search.cpan.org/~petdance/WWW-Mechanize-1.18/lib/WWW/Mechanize.pm
- [3]: http://search.cpan.org/~gaas/HTML-Parser-3.54/lib/HTML/TokeParser.pm
- [4]: http://www.cstr.ed.ac.uk/projects/festival/download.html
- [5]: http://forums.gentoo.org/viewtopic.php?t=79383&highlight=festival
- [6]: http://en.wikipedia.org/wiki/Scheme_programming_language
+ [1]: https://www.fib.upc.es/ca/Estudis/Assignatures/PXCSO.html
+ [2]: https://search.cpan.org/~petdance/WWW-Mechanize-1.18/lib/WWW/Mechanize.pm
+ [3]: https://search.cpan.org/~gaas/HTML-Parser-3.54/lib/HTML/TokeParser.pm
+ [4]: https://www.cstr.ed.ac.uk/projects/festival/download.html
+ [5]: https://forums.gentoo.org/viewtopic.php?t=79383&highlight=festival
+ [6]: https://en.wikipedia.org/wiki/Scheme_programming_language

@@ -16,7 +16,7 @@ D'Ajmer, ciutat pont per enllacar un bon munt de busos a diferents destinacions,
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2904454924/" title="Pushkar gat view" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3226/2904454924_421b69f573_m.jpg" alt="Pushkar gat view" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2904454924/" title="Pushkar gat view" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3226/2904454924_421b69f573_m.jpg" alt="Pushkar gat view" class="" /></a>
   </center>
 </div>
 
@@ -26,7 +26,7 @@ Amb la panxa plena visitem els diferents "Ghats" o escales properes al llac cent
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2903608539/" title="Pushkar India Ghat" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3091/2903608539_4d85d9cabb_m.jpg" alt="Pushkar India Ghat" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2903608539/" title="Pushkar India Ghat" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3091/2903608539_4d85d9cabb_m.jpg" alt="Pushkar India Ghat" class="" /></a>
   </center>
 </div>
 
@@ -41,4 +41,4 @@ Es dificil descriure amb paraules l'encant del lloc, pero si voleu tenir un peti
 
 Podrieu resistir la temptacio d'estar-hi un dia mes ? Jo no :)
 
- [1]: http://en.wikipedia.org/wiki/Pushkar
+ [1]: https://en.wikipedia.org/wiki/Pushkar

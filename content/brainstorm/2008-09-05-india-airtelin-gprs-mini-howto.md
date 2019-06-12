@@ -15,7 +15,7 @@ tags:
 title: 'India: Airtel.in GPRS mini-howto'
 ---
 
-[<img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/09/logo_airtel_in.jpg" alt="" title="logo_airtel_in" width="103" height="61" class="alignright size-medium wp-image-156" />][1]  
+[<img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/09/logo_airtel_in.jpg" alt="" title="logo_airtel_in" width="103" height="61" class="alignright size-medium wp-image-156" />][1]  
 If you ever happen to need GPRS "MoBoffice" data connection in India with [Airtel.in][2], keep in mind that after activating your pre-paid SIM-card you should:
 
 1.  Send an SMS message to **170** with text **PLIVE**
@@ -28,5 +28,5 @@ Airtel.in website is hugely undocumented on this aspect, I discovered this detai
 
 And btw, the tariff at the moment is **30 paisa** for each **50KB** you use... 100 paisa is 1 rupee, so to check your email and post a text entry on your blog costs you about 1 to 2 rupees... really cheap indeed !
 
- [1]: http://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/09/logo_airtel_in.jpg
- [2]: http://www.airtel.in/
+ [1]: https://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/09/logo_airtel_in.jpg
+ [2]: https://www.airtel.in/

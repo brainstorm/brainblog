@@ -130,15 +130,15 @@ For the [rubyists][8] out there, there's a similar tool called [RVM][9] and for 
 
 Choose your weapon and enjoy your new [userland][12] freedom :)
 
- [1]: http://www.uppmax.uu.se/how-to-install-your-own-python-modules-or-specific-python-version
- [2]: http://pypi.python.org/pypi/virtualenv
- [3]: http://www.doughellmann.com/projects/virtualenvwrapper/
- [4]: http://modules.sourceforge.net/
- [5]: http://blogs.nopcode.org/brainstorm/2011/11/23/module-system-bad-and-ugly/
- [6]: http://www.uppmax.uu.se/
+ [1]: https://www.uppmax.uu.se/how-to-install-your-own-python-modules-or-specific-python-version
+ [2]: https://pypi.python.org/pypi/virtualenv
+ [3]: https://www.doughellmann.com/projects/virtualenvwrapper/
+ [4]: https://modules.sourceforge.net/
+ [5]: https://blogs.nopcode.org/brainstorm/2011/11/23/module-system-bad-and-ugly/
+ [6]: https://www.uppmax.uu.se/
  [7]: https://raw.github.com/brainstorm/scilifelab/master/scripts/reload_uppmax_modules.sh
- [8]: http://www.ruby-lang.org/en/
+ [8]: https://www.ruby-lang.org/en/
  [9]: https://rvm.beginrescueend.com/
- [10]: http://www.perl.org/
- [11]: http://terrarum.net/development/perl-virtual-environments.html#locallib
- [12]: http://en.wikipedia.org/wiki/User_space
+ [10]: https://www.perl.org/
+ [11]: https://terrarum.net/development/perl-virtual-environments.html#locallib
+ [12]: https://en.wikipedia.org/wiki/User_space

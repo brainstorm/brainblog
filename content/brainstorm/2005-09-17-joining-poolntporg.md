@@ -37,7 +37,7 @@ The joining process is completely painless, just an email @ (with confirmation m
 
 In exchange for the bandwidth, they provide a couple of interesting [stats][4] too evaluate my ntp server quality... I hope that I've convinced you to join, see you there ! ;)
 
- [1]: http://www.pool.ntp.org/
+ [1]: https://www.pool.ntp.org/
  [2]: ftp://ftp.nopcode.org/prj/mesure/mesure-0.5.tar.gz
- [3]: http://ntp.isc.org/bin/view/Servers/StratumTwoTimeServers
- [4]: http://www.pool.ntp.org/scores?ip=62.57.0.38
+ [3]: https://ntp.isc.org/bin/view/Servers/StratumTwoTimeServers
+ [4]: https://www.pool.ntp.org/scores?ip=62.57.0.38

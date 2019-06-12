@@ -18,7 +18,7 @@ I've recently changed my ssl certificates to fix some problems regarding subdoma
 
 My SSL certificates are not self-signed, I use a <acronym title="Certificate Authority">CA</acronym> known as [CAcert][1] instead. This is one of their a logos:
 
-<img src='http://blogs.nopcode.org/brainstorm/wp-content/images/cacert3.png' alt='cacert logo' align='middle' />
+<img src='https://blogs.nopcode.org/brainstorm/wp-content/images/cacert3.png' alt='cacert logo' align='middle' />
 
 I've joined that CA six months ago and I'm really happy with it. I've learnt lots of issues about SSL, certificate generation, CA's, security devices, trust policies, server configurations, code signing, etc...
 
@@ -60,8 +60,8 @@ If you just want to issue a certificate for one single <acronym title="Top Level
 
 **EDIT**: There is a **strong** [reason][5] against using self-signed certificates.
 
- [1]: http://cacert.org/
- [2]: http://wiki.cacert.org/
- [3]: http://wiki.cacert.org/wiki/VhostTaskForce#head-15f2cf5e27a280c7c16e4d82910a16871a4fb345
- [4]: http://wiki.cacert.org/wiki/CSR
- [5]: http://www.informationweek.com/story/showArticle.jhtml?articleID=171200010&cid=RSSfeed_All
+ [1]: https://cacert.org/
+ [2]: https://wiki.cacert.org/
+ [3]: https://wiki.cacert.org/wiki/VhostTaskForce#head-15f2cf5e27a280c7c16e4d82910a16871a4fb345
+ [4]: https://wiki.cacert.org/wiki/CSR
+ [5]: https://www.informationweek.com/story/showArticle.jhtml?articleID=171200010&cid=RSSfeed_All

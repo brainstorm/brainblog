@@ -26,4 +26,4 @@ Tot i aixi, al arribar a Jaal Mahal, ens treiem la sorra del damunt amb una mere
 
 Despres d'acordar un preu raonable (unes 1000Rs per persona) visitem el fort de Jaisalmer, pero no sera fins dema que entenguem perque es diu la ciutat daurada, de nit veiem l'altre cara, tambe interessant i maca d'aquesta ciutat.
 
- [1]: http://www.indiamike.com
+ [1]: https://www.indiamike.com

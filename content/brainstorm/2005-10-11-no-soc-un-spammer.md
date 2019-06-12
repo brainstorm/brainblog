@@ -73,7 +73,7 @@ Aviam si hi ha sort amb [NJABLDYNA][3] i amb [FIVETENSRC][4] :-).
 
 **EDIT:** Doncs he tingut sort ! He estat esborrat de les dues llistes que em faltaven al cap de 2 dies d'enviar el mateix mail que vaig enviar a SORBS :)
 
- [1]: http://blogs.nopcode.org/brainstorm/2005/09/10/registre-ptr-dauna/
- [2]: http://www.nl.sorbs.net/
- [3]: http://dnsbl.njabl.org/dynablock.html
- [4]: http://www.five-ten-sg.com/blackhole.php
+ [1]: https://blogs.nopcode.org/brainstorm/2005/09/10/registre-ptr-dauna/
+ [2]: https://www.nl.sorbs.net/
+ [3]: https://dnsbl.njabl.org/dynablock.html
+ [4]: https://www.five-ten-sg.com/blackhole.php

@@ -17,7 +17,7 @@ Part de la feina que havia de fer al 3GSM consistia en escanejar les xarxes inal
 Com que els portàtils dels que disposàvem corrien windows, em van venir al cap unes tools que vaig descobrir a [LISA'05][1]: [Wireless Weapons of Mass Destruction for Windows][2], concretament la utilitat [ssidscan.vbs][3] que suposadament retorna un llistat d'SSID's per command line per tal de poder parsejar els resultats a posteriori... he dit suposadament, aquest és el resultat:
 
 <center>
-  <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.png" title="crippled WMI ssid listing"><img id="image64" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.thumbnail.png" alt="crippled WMI ssid listing" /></a>
+  <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.png" title="crippled WMI ssid listing"><img id="image64" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.thumbnail.png" alt="crippled WMI ssid listing" /></a>
 </center>
 
 Com veieu, per un bug documentat (i pel que sembla, [no arreglat encara][4] (!!!) no mostra correctament el nom dels SSIDs real: lletres addicionals, altres que falten, caràcters estranys en alguns casos...
@@ -47,10 +47,10 @@ foreach my $ssid (@ssids) {
 
 Pipejant l'script amb sort & uniq ja tenim lo que buscava, sense complicacions. Per una versió més elaborada, podeu preguntar a en [MiKi][7] ;)
 
- [1]: http://blogs.nopcode.org/brainstorm/2005/12/05/san-diego-lanada-1er-dia/
- [2]: http://neg9.org/toorcon/toorcon2004_cd/Schmoo%20Group
- [3]: http://neg9.org/toorcon/toorcon2004_cd/Schmoo%20Group/scripts/SsidScan.vbs
- [4]: http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=291514&SiteID=1
- [5]: http://www.microsoft.com/whdc/system/pnppwr/wmi/default.mspx
- [6]: http://en.wikipedia.org/wiki/KISS_principle
- [7]: http://mikihq.com/
+ [1]: https://blogs.nopcode.org/brainstorm/2005/12/05/san-diego-lanada-1er-dia/
+ [2]: https://neg9.org/toorcon/toorcon2004_cd/Schmoo%20Group
+ [3]: https://neg9.org/toorcon/toorcon2004_cd/Schmoo%20Group/scripts/SsidScan.vbs
+ [4]: https://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=291514&SiteID=1
+ [5]: https://www.microsoft.com/whdc/system/pnppwr/wmi/default.mspx
+ [6]: https://en.wikipedia.org/wiki/KISS_principle
+ [7]: https://mikihq.com/

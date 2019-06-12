@@ -23,7 +23,7 @@ I've recently acquired a nokia 6230i cellphone but it's locked for my provider: 
 
 Just wanted to document that issue that kept me trying and reading recipes for a while.
 
- [1]: http://unlock.nokiafree.org/
- [2]: http://midgard.bounceme.net/
- [3]: http://midgard.bounceme.net/wp/?p=220
- [4]: http://nokiafree.org/forums/showpost.php?p=373248&postcount=38
+ [1]: https://unlock.nokiafree.org/
+ [2]: https://midgard.bounceme.net/
+ [3]: https://midgard.bounceme.net/wp/?p=220
+ [4]: https://nokiafree.org/forums/showpost.php?p=373248&postcount=38

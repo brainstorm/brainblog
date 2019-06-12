@@ -47,19 +47,19 @@ Meanwhile the guys over Cloudbiolinux come up with nice automation and deploymen
 
 Those are just a few of the many initiatives going on in this hackathon that is over today, tomorrow <acronym title="Bioinformatics Open Source Conference">BOSC</acronym> starts. If you want to know more, don't miss the [CodeFest 2013 official wiki][16], there's a nice wrap up of the many parallell projects there.
 
- [1]: http://blogs.nopcode.org/brainstorm/2013/07/18/berlin-bosc-codefest-2013-day-1/
+ [1]: https://blogs.nopcode.org/brainstorm/2013/07/18/berlin-bosc-codefest-2013-day-1/
  [2]: https://github.com/roryk/ipython-cluster-helper/pull/6
  [3]: https://computing.llnl.gov/linux/slurm/
- [4]: http://slurm.schedmd.com/rosetta.pdf
+ [4]: https://slurm.schedmd.com/rosetta.pdf
  [5]: https://github.com/ipython/ipython/tree/master/IPython/parallel
- [6]: http://saltstack.com/community.html
- [7]: http://www.google.com/url?q=http%3A%2F%2Fwww.bioplanet.com%2Fforum%2Fdiscussion%2F7916%2Fruntimeswallclock-time-alongside-the-accuracy-metrics%23Item_1&sa=D&sntz=1&usg=AFQjCNHtnDZchEAWD71tqXpZCTGNKg3OOw
- [8]: http://www.bioplanet.com/gcat
+ [6]: https://saltstack.com/community.html
+ [7]: https://www.google.com/url?q=http%3A%2F%2Fwww.bioplanet.com%2Fforum%2Fdiscussion%2F7916%2Fruntimeswallclock-time-alongside-the-accuracy-metrics%23Item_1&sa=D&sntz=1&usg=AFQjCNHtnDZchEAWD71tqXpZCTGNKg3OOw
+ [8]: https://www.bioplanet.com/gcat
  [9]: https://www.usenix.org/conference/tapp12/biolite-lightweight-bioinformatics-framework-automated-tracking-diagnostics-and
- [10]: http://en.wikipedia.org/wiki/Provenance#Data_provenance
+ [10]: https://en.wikipedia.org/wiki/Provenance#Data_provenance
  [11]: https://github.com/chapmanb/bcbio-nextgen
- [12]: http://mussolblog.wordpress.com/2013/07/19/pushing-forward-pytravis-during-berlin-codefest-2013/
+ [12]: https://mussolblog.wordpress.com/2013/07/19/pushing-forward-pytravis-during-berlin-codefest-2013/
  [13]: https://en.wikipedia.org/wiki/Continuous_integration
- [14]: http://www.scilifelab.se
+ [14]: https://www.scilifelab.se
  [15]: https://github.com/chapmanb/cloudbiolinux/commit/c634f6424a90efd1236d67a98a07d9ea726fdcb5
- [16]: http://www.open-bio.org/wiki/Codefest_2013
+ [16]: https://www.open-bio.org/wiki/Codefest_2013

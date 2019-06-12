@@ -22,7 +22,7 @@ So there's a day, that day when an organization realizes that there's a real nee
 
 <blockquote class="twitter-tweet">
   <p>
-    Why the Rest of Us Need Virtualization Even If Facebook Doesn’t <a href="http://t.co/E3KdHCMLAu" title="http://feedproxy.google.com/~r/PuppetLabs/~3/tUgrKy9tTRk/">feedproxy.google.com/~r/PuppetLabs/…</a>
+    Why the Rest of Us Need Virtualization Even If Facebook Doesn’t <a href="https://t.co/E3KdHCMLAu" title="http://feedproxy.google.com/~r/PuppetLabs/~3/tUgrKy9tTRk/">feedproxy.google.com/~r/PuppetLabs/…</a>
   </p>
   
   <p>
@@ -92,7 +92,7 @@ Those impatient early birds can try locally with something like [Cloudify][10]..
 
 <blockquote class="twitter-tweet">
   <p>
-    Giving a try to @<a href="https://twitter.com/cloudifysource">cloudifysource</a>… <a href="https://twitter.com/search/%23fail">#fail</a> when installing <a href="https://twitter.com/search/%23Chef">#Chef</a> in os.getVendor()==Apple… <a href="http://t.co/iCTSkienR9" title="http://jtimberman.housepub.org/blog/2012/07/29/os-x-workstation-management-with-chef/">jtimberman.housepub.org/blog/2012/07/2…</a>
+    Giving a try to @<a href="https://twitter.com/cloudifysource">cloudifysource</a>… <a href="https://twitter.com/search/%23fail">#fail</a> when installing <a href="https://twitter.com/search/%23Chef">#Chef</a> in os.getVendor()==Apple… <a href="https://t.co/iCTSkienR9" title="http://jtimberman.housepub.org/blog/2012/07/29/os-x-workstation-management-with-chef/">jtimberman.housepub.org/blog/2012/07/2…</a>
   </p>
   
   <p>
@@ -106,7 +106,7 @@ There are some hiccups that could be circumvented with Virtualbox though:
 
 <blockquote class="twitter-tweet">
   <p>
-    @<a href="https://twitter.com/braincode">braincode</a> check this project from @<a href="https://twitter.com/fastconnect">fastconnect</a> <a href="http://t.co/mk72kraH21" title="http://ow.ly/1TRJsg">ow.ly/1TRJsg</a>. We plan to have this as a native capability in Cloudify as well
+    @<a href="https://twitter.com/braincode">braincode</a> check this project from @<a href="https://twitter.com/fastconnect">fastconnect</a> <a href="https://t.co/mk72kraH21" title="http://ow.ly/1TRJsg">ow.ly/1TRJsg</a>. We plan to have this as a native capability in Cloudify as well
   </p>
   
   <p>
@@ -118,7 +118,7 @@ There are some hiccups that could be circumvented with Virtualbox though:
 
 But wait, there are other alternatives that don't depend on your workstation/laptop whacky configurations, they might not be as powerful (HPCCloud users, move along), but enough for starters. Heroku is a classic, with an excellent CLI tool and **mandatory version control** that can get you started very quickly in the cloud <acronym title="Platform as a Service">PaaS</acronym> arena:
 
-[<img src="http://3.bp.blogspot.com/-bxj9LtU6bJE/UGl0Idls8_I/AAAAAAAAAFo/ld8Pk5OWGGE/s1600/heroku-logo-white.jpg" alt="heroku logo" width="186" height="43" class="alignnone" />][12]
+[<img src="https://3.bp.blogspot.com/-bxj9LtU6bJE/UGl0Idls8_I/AAAAAAAAAFo/ld8Pk5OWGGE/s1600/heroku-logo-white.jpg" alt="heroku logo" width="186" height="43" class="alignnone" />][12]
 
 Then, another interesting platform is dotcloud, with its recently published cloud stack/backend, following the same steps as heroku:
 
@@ -137,21 +137,21 @@ Being a <acronym title="Infrastructure as a Service">IaaS</acronym> cloud provid
 5.  Enforce security **from outside the instances**, **don't get in the way of the users** unless bad things are happening or about to happen. Make sure you have implemented [some non-intrusive security measures][18] before announcing the cloud service.
 6.  Provide a consistent **API/CLI toolbox/toolbelt** to control various aspects of the instances, like the industry-quality providers have.
 
- [1]: http://en.wikipedia.org/wiki/Application_binary_interface "ABI"
- [2]: http://cloudbiolinux.org/
- [3]: http://en.wikipedia.org/wiki/Password_strength
+ [1]: https://en.wikipedia.org/wiki/Application_binary_interface "ABI"
+ [2]: https://cloudbiolinux.org/
+ [3]: https://en.wikipedia.org/wiki/Password_strength
  [4]: https://code.google.com/p/google-authenticator/
  [5]: https://github.com/puppetlabs/puppetlabs-opennebula
- [6]: http://ivory.idyll.org/blog/automated-testing-and-research-software.html
+ [6]: https://ivory.idyll.org/blog/automated-testing-and-research-software.html
  [7]: https://github.com/guillermo-carrasco/hadoop
- [8]: http://www.openstack.org/
- [9]: http://www.opscode.com/press-releases/opscode-announces-chef-for-openstack/
- [10]: http://www.cloudifysource.org/
+ [8]: https://www.openstack.org/
+ [9]: https://www.opscode.com/press-releases/opscode-announces-chef-for-openstack/
+ [10]: https://www.cloudifysource.org/
  [11]: https://github.com/opscode
  [12]: https://get.heroku.com/
  [13]: https://www.dotcloud.com/
- [14]: http://blog.dotcloud.com/new-sandbox
- [15]: http://en.wikipedia.org/wiki/Platform_as_a_service
+ [14]: https://blog.dotcloud.com/new-sandbox
+ [15]: https://en.wikipedia.org/wiki/Platform_as_a_service
  [16]: https://github.com/opscode/cookbooks
- [17]: http://ivory.idyll.org/blog/research-software-reuse.html
- [18]: http://aws.amazon.com/security
+ [17]: https://ivory.idyll.org/blog/research-software-reuse.html
+ [18]: https://aws.amazon.com/security

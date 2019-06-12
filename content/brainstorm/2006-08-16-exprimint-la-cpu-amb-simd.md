@@ -96,12 +96,12 @@ Les instruccions vectorials estan pensades per a multimèdia, per a processar mo
 
 S'accepten millores/optimitzacions d'aquest últim ;)
 
- [1]: http://blogs.nopcode.org/brainstorm/2005/10/02/beca-de-formacio-biodac/
- [2]: http://en.wikipedia.org/wiki/SIMD
- [3]: http://www.nersc.gov/vendor_docs/intel/c_ug/whgdata/whlstt43.htm
- [4]: http://www.intel.com/design/pentium4/manuals/248966.htm
- [5]: http://gcc.gnu.org/viewcvs/trunk/gcc/config/i386/xmmintrin.h?view=markup
- [6]: http://gcc.gnu.org/viewcvs/trunk/gcc/config/i386/emmintrin.h?view=markup
- [7]: http://gcc.gnu.org/viewcvs/trunk/gcc/config/i386/pmmintrin.h?view=markup
- [8]: http://www.fib.upc.edu/ca/Estudis/Assignatures/PCA.html
- [9]: http://www.nersc.gov/vendor_docs/intel/c_ug/comm1046.htm
+ [1]: https://blogs.nopcode.org/brainstorm/2005/10/02/beca-de-formacio-biodac/
+ [2]: https://en.wikipedia.org/wiki/SIMD
+ [3]: https://www.nersc.gov/vendor_docs/intel/c_ug/whgdata/whlstt43.htm
+ [4]: https://www.intel.com/design/pentium4/manuals/248966.htm
+ [5]: https://gcc.gnu.org/viewcvs/trunk/gcc/config/i386/xmmintrin.h?view=markup
+ [6]: https://gcc.gnu.org/viewcvs/trunk/gcc/config/i386/emmintrin.h?view=markup
+ [7]: https://gcc.gnu.org/viewcvs/trunk/gcc/config/i386/pmmintrin.h?view=markup
+ [8]: https://www.fib.upc.edu/ca/Estudis/Assignatures/PCA.html
+ [9]: https://www.nersc.gov/vendor_docs/intel/c_ug/comm1046.htm

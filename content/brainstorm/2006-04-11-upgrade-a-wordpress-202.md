@@ -29,4 +29,4 @@ Esperem que no s'hagi trencat res (aviseu si és el cas!), tot ha anat extremada
 
 Ah ! No us penseu pas que això s'ha mort... tonaré ! Quan no estigui en mode [oriol][1] ;-).
 
- [1]: http://oriol.joor.net/blog/?item=resumint
+ [1]: https://oriol.joor.net/blog/?item=resumint

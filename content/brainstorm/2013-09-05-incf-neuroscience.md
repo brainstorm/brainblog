@@ -17,13 +17,13 @@ tags:
 title: INCF and the quest for global data sharing in neuroscience
 ---
 
-<img alt="" src="http://www.can-acn.org/meeting2012/images/incf-logo.png" width="277" height="155" />
+<img alt="" src="https://www.can-acn.org/meeting2012/images/incf-logo.png" width="277" height="155" />
 
 <font color="red">Disclaimer: Those are my opinions only and not from my employer, etc, etc...</font>
 
 Today it has been two months since I joined the *International Neuroinformatics Coordinating Facility*, [INCF][1] located inside the [Karolinska Institutet][2] campus in Stockholm. Coincidentally I happened to land the job in the mist of a Neuroinformatics conference:
 
-[<img class="aligncenter" alt="INCF Neuroinformatics congress 2013" src="http://neuroinformatics2013.org/INCF_NI2013.png" width="400" height="86" />][3]
+[<img class="aligncenter" alt="INCF Neuroinformatics congress 2013" src="https://neuroinformatics2013.org/INCF_NI2013.png" width="400" height="86" />][3]
 
 Before that, I spent almost [3 years in another field][4] of (data) science, genomics. I think I'm extremely lucky to be involved on those two different cutting-edge computational life sciences disciplines, so rich and diverse at the science level and yet pretty similar in infrastructure needs: [more storage][5], more processing and **more standards needed**.
 
@@ -44,7 +44,7 @@ So INCF's purpose is to be the [*glia*][7] between several neuroscience research
 
 <blockquote class="twitter-tweet" width="550" lang="en">
   <p>
-    Neuroscience thinks big (and collaboratively) | Nature Neuroscience reviews | <a href="http://t.co/td1iiaKpl8">http://t.co/td1iiaKpl8</a>
+    Neuroscience thinks big (and collaboratively) | Nature Neuroscience reviews | <a href="https://t.co/td1iiaKpl8">http://t.co/td1iiaKpl8</a>
   </p>
   
   <p>
@@ -57,7 +57,7 @@ So INCF's purpose is to be the [*glia*][7] between several neuroscience research
 [Dataspace][9], [<acronym title="Digital Atlasing Infrastructure">DAI</acronym><acronym></acronym>][10] and [NeuroLex][11] are outcomes of the [INCF][12] initiatives, supporting the community over the years [since 2005][13].
 
 <center>
-  <img class="aligncenter size-medium wp-image-771" alt="INCF mug" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2013/09/DSC_6316-230x300.jpg" width="230" height="300" />
+  <img class="aligncenter size-medium wp-image-771" alt="INCF mug" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2013/09/DSC_6316-230x300.jpg" width="230" height="300" />
 </center>
 
 Other interesting community projects that assist scientists in running and keeping track of experiments in the neuroinformatics community are: [Sumatra][14], [BrainImagingPipelines][15] and a [W3C-PROV][16] framework for [data provenance][17], make sure you open browser tabs on those links, they are definitely worth checking!
@@ -117,37 +117,37 @@ Jokes aside, [this happens all the time][34] in genomics data formats with major
 
 Let's hope neuroscience learns from it gets a better grip on community consensus over the years.
 
- [1]: http://www.incf.org/
- [2]: http://www.ki.se
- [3]: http://neuroinformatics2013.org/
- [4]: http://www.scilifelab.se
- [5]: http://www.biostars.org/p/80575/
- [6]: http://www.eudat.eu/
- [7]: http://en.wikipedia.org/wiki/Neuroglia
- [8]: http://www.humanbrainproject.eu/
- [9]: http://www.incf.org/resolveuid/854cfc1a-ed0c-4ac3-9409-673a3895d156
- [10]: http://atlasing.incf.org/wiki/Main_Page
- [11]: http://neurolex.org/wiki/Main_Page
- [12]: http://www.incf.org/resources/incf-products-and-services
- [13]: http://en.wikipedia.org/wiki/International_Neuroinformatics_Coordinating_Facility
- [14]: http://neuralensemble.org/sumatra/
+ [1]: https://www.incf.org/
+ [2]: https://www.ki.se
+ [3]: https://neuroinformatics2013.org/
+ [4]: https://www.scilifelab.se
+ [5]: https://www.biostars.org/p/80575/
+ [6]: https://www.eudat.eu/
+ [7]: https://en.wikipedia.org/wiki/Neuroglia
+ [8]: https://www.humanbrainproject.eu/
+ [9]: https://www.incf.org/resolveuid/854cfc1a-ed0c-4ac3-9409-673a3895d156
+ [10]: https://atlasing.incf.org/wiki/Main_Page
+ [11]: https://neurolex.org/wiki/Main_Page
+ [12]: https://www.incf.org/resources/incf-products-and-services
+ [13]: https://en.wikipedia.org/wiki/International_Neuroinformatics_Coordinating_Facility
+ [14]: https://neuralensemble.org/sumatra/
  [15]: https://github.com/INCF/BrainImagingPipelines
- [16]: http://www.w3.org/TR/prov-overview/
+ [16]: https://www.w3.org/TR/prov-overview/
  [17]: ttps://github.com/INCF/ProvenanceLibrary
- [18]: http://blogs.nopcode.org/brainstorm/2011/11/23/module-system-bad-and-ugly/
- [19]: http://ivory.idyll.org/blog/software-architecture-for-heterogeneous-data-integration.html
- [20]: http://ivory.idyll.org/blog/research-software-reuse.html
+ [18]: https://blogs.nopcode.org/brainstorm/2011/11/23/module-system-bad-and-ugly/
+ [19]: https://ivory.idyll.org/blog/software-architecture-for-heterogeneous-data-integration.html
+ [20]: https://ivory.idyll.org/blog/research-software-reuse.html
  [21]: https://twitter.com/vezzi84
- [22]: http://samtools.sourceforge.net/SAMv1.pdf
+ [22]: https://samtools.sourceforge.net/SAMv1.pdf
  [23]: https://wiki.debian.org/DebianMed/Meeting/Aberdeen2014
- [24]: http://simplystatistics.org/2012/08/17/interview-with-c-titus-brown-computational-biologist/
- [25]: http://ivory.idyll.org/blog/grants-posted.html
- [26]: http://www.timeshighereducation.co.uk/news/save-your-work-give-software-engineers-a-career-track/2006431.article
- [27]: http://www.backtrack-linux.org/
- [28]: http://www.kali.org/
- [29]: http://en.wikipedia.org/wiki/Penetration_test
- [30]: http://www.kali.org/news/kali-linux-whats-new/
- [31]: http://docs.kali.org/category/development
+ [24]: https://simplystatistics.org/2012/08/17/interview-with-c-titus-brown-computational-biologist/
+ [25]: https://ivory.idyll.org/blog/grants-posted.html
+ [26]: https://www.timeshighereducation.co.uk/news/save-your-work-give-software-engineers-a-career-track/2006431.article
+ [27]: https://www.backtrack-linux.org/
+ [28]: https://www.kali.org/
+ [29]: https://en.wikipedia.org/wiki/Penetration_test
+ [30]: https://www.kali.org/news/kali-linux-whats-new/
+ [31]: https://docs.kali.org/category/development
  [32]: https://review.openstack.org/#/c/32960/
- [33]: http://imgs.xkcd.com/comics/standards.png
- [34]: http://genome.ucsc.edu/FAQ/FAQformat.html
+ [33]: https://imgs.xkcd.com/comics/standards.png
+ [34]: https://genome.ucsc.edu/FAQ/FAQformat.html

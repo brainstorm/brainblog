@@ -19,10 +19,10 @@ La primera a la que vaig assistir al matí, la va donar en [Qi Lu][1], vice pres
 
 Mentre dinàvem, al [Xavi][2] va comentar d'anar a "Ethereal and the art of debugging networks" [W8][3], i va estar força bé :) 
 
-Canviant de sala de l'hotel (ostres! encara no havia parlat de l'hotel... una mica "pijo" (veure foto)), vaig assistir a una xerrada sobre <acronym title="Grand Unified Logging Project"><a href="http://www.columbia.edu/acis/networks/advanced/gulp">GULP</a></acronym>, molt útil per entorns amb gran quantitat d'usuaris i servidors, permet relacionar ràpid i fàcilment logs de varis serveis (correu, dhcp, webmail, etc...) per resoldre incidències.
+Canviant de sala de l'hotel (ostres! encara no havia parlat de l'hotel... una mica "pijo" (veure foto)), vaig assistir a una xerrada sobre <acronym title="Grand Unified Logging Project"><a href="https://www.columbia.edu/acis/networks/advanced/gulp">GULP</a></acronym>, molt útil per entorns amb gran quantitat d'usuaris i servidors, permet relacionar ràpid i fàcilment logs de varis serveis (correu, dhcp, webmail, etc...) per resoldre incidències.
 
 <center>
-  <img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sd_hotel_hall.jpg' alt='town and country resort' />
+  <img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sd_hotel_hall.jpg' alt='town and country resort' />
 </center>
 
   
@@ -41,17 +41,17 @@ El següent track va ser interessant però força aburridot... era sobre gestió
 
 Per cert, pels curiosos, a flickr teniu el tag [lisa05][12] per si voleu veure fotos de l'event... no us perdeu la d'en [Thomas Limoncelli][13], autor de ["The Practice of System and Network Administration"][14] ;)
 
- [1]: http://360.yahoo.com/profile-dHFl7togcqomOrUGtvI-
- [2]: http://oasi.upc.es/~freakhand/neverBlog/index.php
- [3]: http://www.usenix.org/events/lisa05/training/tutonefile.html#w8
- [4]: http://www.glassonion.org/
- [5]: http://www.glassonion.org/projects/imap-attack/slides.pdf
- [6]: http://www.courier-mta.org/imap/
- [7]: http://research.microsoft.com/rootkit/
- [8]: http://isg.ee.ethz.ch/tools/tetre2/
- [9]: http://www.sepp.ee.ethz.ch/
- [10]: http://coitweb.uncc.edu/~bbkang/isr/paper/RegColl_Kang_USENIX_LISA05.pdf
- [11]: http://rsug.itd.umich.edu/software/radmind/contrib/LISA05/
- [12]: http://www.flickr.com/photos/tags/lisa05/
- [13]: http://www.flickr.com/photos/betsys99/72560798/
- [14]: http://freshmeat.net/articles/view/338/
+ [1]: https://360.yahoo.com/profile-dHFl7togcqomOrUGtvI-
+ [2]: https://oasi.upc.es/~freakhand/neverBlog/index.php
+ [3]: https://www.usenix.org/events/lisa05/training/tutonefile.html#w8
+ [4]: https://www.glassonion.org/
+ [5]: https://www.glassonion.org/projects/imap-attack/slides.pdf
+ [6]: https://www.courier-mta.org/imap/
+ [7]: https://research.microsoft.com/rootkit/
+ [8]: https://isg.ee.ethz.ch/tools/tetre2/
+ [9]: https://www.sepp.ee.ethz.ch/
+ [10]: https://coitweb.uncc.edu/~bbkang/isr/paper/RegColl_Kang_USENIX_LISA05.pdf
+ [11]: https://rsug.itd.umich.edu/software/radmind/contrib/LISA05/
+ [12]: https://www.flickr.com/photos/tags/lisa05/
+ [13]: https://www.flickr.com/photos/betsys99/72560798/
+ [14]: https://freshmeat.net/articles/view/338/

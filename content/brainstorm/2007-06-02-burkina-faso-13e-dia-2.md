@@ -16,7 +16,7 @@ Mentre avanço amb els posts endarrerits, alguna cosa pica amb força a la fines
 
 <div class='flickr_photo'>
   <center>
-    <a href="http://www.flickr.com/photos/rvalls/2911857691/" title="Lizzard burkina" target="_blank" class="flickr-image alignnone"><img src="http://farm4.static.flickr.com/3014/2911857691_ec3185aa67_m.jpg" alt="Lizzard burkina" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911857691/" title="Lizzard burkina" target="_blank" class="flickr-image alignnone"><img src="http://farm4.static.flickr.com/3014/2911857691_ec3185aa67_m.jpg" alt="Lizzard burkina" class="" /></a>
   </center>
 </div>
 

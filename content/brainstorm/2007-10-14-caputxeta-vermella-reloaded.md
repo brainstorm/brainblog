@@ -24,5 +24,5 @@ Us invito doncs a visitar el blog d'aquesta [incansable viatgera][1] i com no: a
 
 ### English
 
- [1]: http://sempreviaggiando.blogspot.com/
- [2]: http://sempreviaggiando.blogspot.com/2007/10/para-comerte-mejor-all-better-to-eat.html
+ [1]: https://sempreviaggiando.blogspot.com/
+ [2]: https://sempreviaggiando.blogspot.com/2007/10/para-comerte-mejor-all-better-to-eat.html

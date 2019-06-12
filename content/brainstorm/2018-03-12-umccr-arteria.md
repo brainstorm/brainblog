@@ -102,18 +102,18 @@ Here's a brief summary of our Trello, as a TODO list you could help us with [if 
 1. Make sure (re-)deployments are safe with respect to data persistence: database migrations, environment variables and assets.
 1. Turn the arteria runfolder microservice into poll-less implementation by using [filesystem notifications with i.e fsmon][fsmon].
 
-[letsencrypt_docker]: http://charliedrage.com/letsencrypt-on-docker
+[letsencrypt_docker]: https://charliedrage.com/letsencrypt-on-docker
 [umccr_stackstorm_packs]: https://github.com/umccr/stackstorm-umccr
 [st2-docker]: https://github.com/umccr/st2-docker-umccr/
 [st2-docker-compose]: https://github.com/umccr/st2-docker-umccr/blob/master/docker-compose.yml
-[aws_glacier_cheapest]: http://richardburley.com/amazon-glacier-vs-google-nearline-vs-azure-storage/
+[aws_glacier_cheapest]: https://richardburley.com/amazon-glacier-vs-google-nearline-vs-azure-storage/
 [umccr_recruit]: https://umccr.github.io/
 [arteria_basic_context]: https://arteria-project.github.io/
 [rexray]: https://rexray.thecodeteam.com/
 [st2_docker_vault]: https://github.com/StackStorm/st2-docker/pull/65
 [st2_kubernetes_1ppc]: https://github.com/StackStorm/st2-docker/tree/master/runtime/kubernetes-1ppc
 [minio]: https://minio.io/
-[keycloak]: http://www.keycloak.org/
+[keycloak]: https://www.keycloak.org/
 [travisci_codedeploy]: https://github.com/umccr/st2-docker-umccr/blob/master/.travis.yml
 [aws_code_deploy]: https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
 [aws_codedeploy_appspec]: https://github.com/umccr/st2-docker-umccr/blob/master/appspec.yml
@@ -124,14 +124,14 @@ Here's a brief summary of our Trello, as a TODO list you could help us with [if 
 [gsoc2018_stackstorm_cwl_idea]: https://obf.github.io/GSoC/ideas/#integration-of-cwl-support-into-stackstorm-automation-framework
 [travisci]: https://travis-ci.org/
 [arteria_runfolder]: https://github.com/arteria-project/arteria-runfolder
-[bcl2fastq]: http://sapac.support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html
+[bcl2fastq]: https://sapac.support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html
 [bcl2fastq_docker]: https://github.com/umccr/bcl2fastq-docker
 [umccrise]: https://github.com/umccr/umccrise.git
-[bcbio]: http://bcb.io/
+[bcbio]: https://bcb.io/
 [fsmon]: https://github.com/nowsecure/fsmon
 [terraform_blue_green]: https://medium.com/@kemra102/blue-green-deployments-in-aws-with-terraform-2755942d4090
 [wikipedia_cloud_lockin]: https://en.wikipedia.org/wiki/Vendor_lock-in
-[johan_dahlberg]: http://uppsala-bioinformatics.se/
+[johan_dahlberg]: https://uppsala-bioinformatics.se/
 [occulus_cert_renewal]: https://techcrunch.com/2018/03/07/all-of-oculuss-rift-headsets-have-stopped-working-due-to-an-expired-certificate/
 [wes_service]: https://pypi.python.org/pypi/wes-service/2.1
 [umccr_pcgr_integration]: https://blogs.nopcode.org/brainstorm/2018-03-13-umccr-pcgr/

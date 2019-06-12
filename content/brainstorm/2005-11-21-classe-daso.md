@@ -21,7 +21,7 @@ Per fer la presentació he usat una classe de latex molt interessant que vaig de
 
 [Aqui][3] teniu el pdf i les [fonts][4].
 
- [1]: http://docencia.ac.upc.edu/FIB/ASO
- [2]: http://latex-beamer.sf.net
- [3]: http://blogs.nopcode.org/brainstorm/wp-content/data/aso.pdf
- [4]: http://blogs.nopcode.org/brainstorm/wp-content/data/classe_aso.tbz2
+ [1]: https://docencia.ac.upc.edu/FIB/ASO
+ [2]: https://latex-beamer.sf.net
+ [3]: https://blogs.nopcode.org/brainstorm/wp-content/data/aso.pdf
+ [4]: https://blogs.nopcode.org/brainstorm/wp-content/data/classe_aso.tbz2

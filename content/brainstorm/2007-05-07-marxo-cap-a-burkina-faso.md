@@ -25,6 +25,6 @@ La intenció d'aquest viatge és col·laborar amb la "Université Polytechnique 
 
 Ja veurem com surt aquesta experiència curiosa... Intentaré explicar com va el tema si el temps i la connexió a internet d'allà m'ho permeten :-S
 
- [1]: http://maps.google.com/maps?f=q&hl=en&q=Ouagadougou&ie=UTF8&ll=12.369515,-1.529846&spn=1.947641,2.548828&z=9&iwloc=addr&om=1
- [2]: http://maps.google.com/maps?f=q&hl=en&q=Burkina+Faso&ie=UTF8&cd=1&z=6&om=1
- [3]: http://maps.google.com/maps?f=q&hl=en&q=Bobo-Dioulasso,+Burkina+Faso&ie=UTF8&cd=1&ll=11.845847,-4.108887&spn=7.886271,10.557861&z=7&iwloc=addr&om=1
+ [1]: https://maps.google.com/maps?f=q&hl=en&q=Ouagadougou&ie=UTF8&ll=12.369515,-1.529846&spn=1.947641,2.548828&z=9&iwloc=addr&om=1
+ [2]: https://maps.google.com/maps?f=q&hl=en&q=Burkina+Faso&ie=UTF8&cd=1&z=6&om=1
+ [3]: https://maps.google.com/maps?f=q&hl=en&q=Bobo-Dioulasso,+Burkina+Faso&ie=UTF8&cd=1&ll=11.845847,-4.108887&spn=7.886271,10.557861&z=7&iwloc=addr&om=1

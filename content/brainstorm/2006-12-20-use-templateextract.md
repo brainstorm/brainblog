@@ -34,11 +34,11 @@ Per acabar d'enroscar tot això, el mateix autor d'extract ([Autrijus Tang][7]) 
 
 Alguns preguntareu a que ve exactament tot això... més en el pròxim post ! :)
 
- [1]: http://en.wikipedia.org/wiki/Screen_scraping
- [2]: http://search.cpan.org/dist/libwww-perl/lib/LWP.pm
- [3]: http://en.wikipedia.org/wiki/URL_Encoding
- [4]: http://search.cpan.org/dist/WWW-Mechanize/lib/WWW/Mechanize.pm
- [5]: http://search.cpan.org/dist/Template-Extract/lib/Template/Extract.pm
- [6]: http://search.cpan.org/dist/Template-Extract/lib/Template/Extract.pm#SYNOPSIS
- [7]: http://autrijus.org/
- [8]: http://search.cpan.org/~autrijus/Template-Generate-0.04/lib/Template/Generate.pm
+ [1]: https://en.wikipedia.org/wiki/Screen_scraping
+ [2]: https://search.cpan.org/dist/libwww-perl/lib/LWP.pm
+ [3]: https://en.wikipedia.org/wiki/URL_Encoding
+ [4]: https://search.cpan.org/dist/WWW-Mechanize/lib/WWW/Mechanize.pm
+ [5]: https://search.cpan.org/dist/Template-Extract/lib/Template/Extract.pm
+ [6]: https://search.cpan.org/dist/Template-Extract/lib/Template/Extract.pm#SYNOPSIS
+ [7]: https://autrijus.org/
+ [8]: https://search.cpan.org/~autrijus/Template-Generate-0.04/lib/Template/Generate.pm

@@ -75,7 +75,7 @@ The use case is quite simple to imagine:
 
 
   <p>
-    He argued that just a quick UNIX pipework (using <a href="http://cr.yp.to/qmail.html">qmail</a>) should be sufficient, but I rather preferred to keep the <acronym title='Mail Transport Agent'>MTA</acronym> out of the equation. The reason is that the MTA just "sinks" mail to the mailbox, while the MDA usually has both read and write access to emails, so to me it makes more sense to keep this "plugin" on the MDA side...
+    He argued that just a quick UNIX pipework (using <a href="https://cr.yp.to/qmail.html">qmail</a>) should be sufficient, but I rather preferred to keep the <acronym title='Mail Transport Agent'>MTA</acronym> out of the equation. The reason is that the MTA just "sinks" mail to the mailbox, while the MDA usually has both read and write access to emails, so to me it makes more sense to keep this "plugin" on the MDA side...
   </p>
 
 
@@ -84,6 +84,6 @@ The use case is quite simple to imagine:
     Is the idea clear at this point ? Is this already invented and passed under my radar ? Anyone has suggestions on top of that ?
   </p>
 
- [1]: http://kung-foo.dhs.org/killabyte/
- [2]: http://dovecot.org/
- [3]: http://wiki.dovecot.org/Plugins/Zlib
+ [1]: https://kung-foo.dhs.org/killabyte/
+ [2]: https://dovecot.org/
+ [3]: https://wiki.dovecot.org/Plugins/Zlib

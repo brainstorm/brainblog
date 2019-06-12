@@ -25,20 +25,20 @@ Yep, that's it's main theme and I'm not a furniture expert, so why not add a com
   <tr>
     <td>
       <center>
-        <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.jpg" title="The rattan computer"><img id="image54" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.thumbnail.jpg" alt="The rattan computer" /></a>
+        <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.jpg" title="The rattan computer"><img id="image54" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.thumbnail.jpg" alt="The rattan computer" /></a>
       </center>
     </td>
     
     <td>
-      <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.jpg" title="The rattan computer PSU detail"><img id="image55" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.thumbnail.jpg" alt="The rattan computer PSU detail" /></a>
+      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.jpg" title="The rattan computer PSU detail"><img id="image55" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.thumbnail.jpg" alt="The rattan computer PSU detail" /></a>
     </td>
     
     <td>
-      <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.jpg" title="Rattan computer or night table ? :-P"><img id="image56" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.thumbnail.jpg" alt="Rattan computer or night table ? :-P" /></a>
+      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.jpg" title="Rattan computer or night table ? :-P"><img id="image56" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.thumbnail.jpg" alt="Rattan computer or night table ? :-P" /></a>
     </td>
     
     <td>
-      <a class="imagelink" href="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.jpg" title="Rattan's computer mainboard detail"><img id="image57" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.thumbnail.jpg" alt="Rattan's computer mainboard detail" /></a>
+      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.jpg" title="Rattan's computer mainboard detail"><img id="image57" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.thumbnail.jpg" alt="Rattan's computer mainboard detail" /></a>
     </td>
   </tr>
 </table>
@@ -47,5 +47,5 @@ All the components are holding by transparent nylon fishing wire. That way the v
 
 The hardware specs are quite minimum: PII 233 with 256 MB RAM, 10GB HDD, a couple of wireless network adapters (one PCI Atheros-based wifi card and the other one is a Senao 200mW PCMCIA card on a PLX PCI adapter). Finally there is also an ethernet card connected to an <acronym title="Analog Telephone Adapter">ATA</acronym> which is in turn connected to a cheap DECT phone. Now I'm using this computer as a free hotspot+PBX, and it's working quite good ATM :)
 
- [1]: http://en.wikipedia.org/wiki/Rattan
- [2]: http://images.google.es/images?q=hamper&hl=es&btnG=B%C3%BAsqueda+de+im%C3%A1genes
+ [1]: https://en.wikipedia.org/wiki/Rattan
+ [2]: https://images.google.es/images?q=hamper&hl=es&btnG=B%C3%BAsqueda+de+im%C3%A1genes

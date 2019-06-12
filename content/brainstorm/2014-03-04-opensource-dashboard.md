@@ -19,7 +19,7 @@ A dashboard with pretty plots and numbers about your organization... **It should
 
 <blockquote class="twitter-tweet" width="550" lang="en">
   <p>
-    Reality: Things don’t always go according to the plan&#10;<a href="http://t.co/tD5W5Eqcbd">pic.twitter.com/tD5W5Eqcbd</a> via <a href="https://twitter.com/ToddWhitaker">@ToddWhitaker</a> & <a href="https://twitter.com/LarysaDiDio">@LarysaDiDio</a>
+    Reality: Things don’t always go according to the plan&#10;<a href="https://t.co/tD5W5Eqcbd">pic.twitter.com/tD5W5Eqcbd</a> via <a href="https://twitter.com/ToddWhitaker">@ToddWhitaker</a> & <a href="https://twitter.com/LarysaDiDio">@LarysaDiDio</a>
   </p>&mdash; Michael Carton (@michaeltcarton) 
   
   <a href="https://twitter.com/michaeltcarton/statuses/440090667872575488">March 2, 2014</a>
@@ -27,7 +27,7 @@ A dashboard with pretty plots and numbers about your organization... **It should
 
 Luckily, ElasticSearch+Logstash+Kibana did came up with a nice stack to solve this problem. Here's my result and **how I solved some integration hiccups**. The resulting beta dashboard, as it is now, looks like this:
 
-[<img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2014/03/dataspace_blurred-300x163.png" alt="DataSpace beta operations panel" width="300" height="163" class="aligncenter size-large wp-image-842" />][1]
+[<img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2014/03/dataspace_blurred-300x163.png" alt="DataSpace beta operations panel" width="300" height="163" class="aligncenter size-large wp-image-842" />][1]
 
 [Many][2] [many][3] [many][4] [other][5] [blog][6] [posts][7] have addressed this issue, but I would like to share a couple of tweaks I came up with while working on it.
 
@@ -79,7 +79,7 @@ Speaking of Amazon and their regions, while AWS has exposed a great amount of fu
 
 If one wants to keep track of AWS expenses on ES, some specific [index type mappings][18] changes on the ElasticSearch side are needed:
 
-<pre class="brush: bash; title: ; notranslate" title="">curl -XPUT 'http://ids-panel.incf.net:9200/aws-2014.02/credits/_mapping' -d '{
+<pre class="brush: bash; title: ; notranslate" title="">curl -XPUT 'https://ids-panel.incf.net:9200/aws-2014.02/credits/_mapping' -d '{
   "aws_credit_balance": {
     "properties": {
       "aws_credit_balance": {
@@ -110,32 +110,32 @@ Last but not least, some remaining issues leading to total world domination incl
 2.  **Easily add/include other types of panels in Kibana**, perhaps allowing better or more explicit integration possibilities for D3, [mpld3][26] or [BokehJS][27] with Kibana.
 3.  [Getting UNIQ count for records in ElasticSearch][28] (i.e, count unique number of IPs, users, etc...) which are on the roadmap under [aggregations][29], so they are coming soon :)
 
- [1]: http://blogs.nopcode.org/brainstorm/wp-content/uploads/2014/03/dataspace_blurred.png
+ [1]: https://blogs.nopcode.org/brainstorm/wp-content/uploads/2014/03/dataspace_blurred.png
  [2]: https://blog.trifork.com/2014/01/28/using-logstash-elasticsearch-and-kibana-to-monitor-your-video-card-a-tutorial/
- [3]: http://www.jaddog.org/2014/01/16/openstack-logstash-elasticsearch-kibana/
- [4]: http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/
- [5]: http://michael.bouvy.net/blog/en/2013/11/19/collect-visualize-your-logs-logstash-elasticsearch-redis-kibana/
- [6]: http://krisjordan.com/essays/log-warehousing-with-logstash-and-kibana
+ [3]: https://www.jaddog.org/2014/01/16/openstack-logstash-elasticsearch-kibana/
+ [4]: https://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/
+ [5]: https://michael.bouvy.net/blog/en/2013/11/19/collect-visualize-your-logs-logstash-elasticsearch-redis-kibana/
+ [6]: https://krisjordan.com/essays/log-warehousing-with-logstash-and-kibana
  [7]: https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards
- [8]: http://www.elasticsearch.org/blog/using-elasticsearch-and-logstash-to-serve-billions-of-searchable-events-for-customers/
+ [8]: https://www.elasticsearch.org/blog/using-elasticsearch-and-logstash-to-serve-billions-of-searchable-events-for-customers/
  [9]: https://twitter.com/braincode/status/432918960900964352
- [10]: http://bryanw.tk/2013/geoip-in-logstash-kibana/
- [11]: http://mobz.github.io/elasticsearch-head/
+ [10]: https://bryanw.tk/2013/geoip-in-logstash-kibana/
+ [11]: https://mobz.github.io/elasticsearch-head/
  [12]: https://twitter.com/ZacharyTong
  [13]: https://github.com/elasticsearch/kibana/issues/962
- [14]: http://www.elasticsearch.org/blog/curator-tending-your-time-series-indices/
+ [14]: https://www.elasticsearch.org/blog/curator-tending-your-time-series-indices/
  [15]: https://github.com/elasticsearch/kibana/issues/952
  [16]: https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk
- [17]: http://aws.amazon.com/education/aws-in-education-research-grants/
- [18]: http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/
+ [17]: https://aws.amazon.com/education/aws-in-education-research-grants/
+ [18]: https://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/
  [19]: https://github.com/Netflix/ice
  [20]: https://groups.google.com/forum/#!topic/irod-chat/XpezH-N2B4Y
- [21]: http://cheshire3.org/
- [22]: http://www.elasticsearch.org/blog/restricting-users-kibana-filtered-aliases/
+ [21]: https://cheshire3.org/
+ [22]: https://www.elasticsearch.org/blog/restricting-users-kibana-filtered-aliases/
  [23]: https://github.com/fangli/kibana-authentication-proxy
- [24]: http://lucene.apache.org/core/
- [25]: http://mussolblog.wordpress.com/2013/10/02/determining-buffer-size-for-redishandler-in-python-logbook/
+ [24]: https://lucene.apache.org/core/
+ [25]: https://mussolblog.wordpress.com/2013/10/02/determining-buffer-size-for-redishandler-in-python-logbook/
  [26]: https://github.com/jakevdp/mpld3
- [27]: http://continuumio.github.io/bokehjs/
+ [27]: https://continuumio.github.io/bokehjs/
  [28]: https://twitter.com/zacharytong/status/434368851988709376
- [29]: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html
+ [29]: https://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html

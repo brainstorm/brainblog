@@ -52,10 +52,10 @@ Does your destination filename contain invalid characters?
 
 So morale of the story: Keep your filenames short, lowercased and simple, the UNIX way or clutter your nifty code with error-handling :)
 
- [1]: http://www.ecko-labs.com/wp-content/themes/mystream/thumb.php?src=wp-content/uploads/2010/06/googlecl21.png&w=390&h=230&zc=1&q=90
- [2]: http://en.wikipedia.org/wiki/All_your_base_are_belong_to_us
- [3]: http://en.wikipedia.org/wiki/Backspace
- [4]: http://www.dataliberation.org/google/google-docs
- [5]: http://code.google.com/p/googlecl/
- [6]: http://code.google.com/p/googlecl/issues/detail?id=290&q=braincode&colspec=ID%20Type%20Stars%20Status%20Priority%20Milestone%20Owner%20Summary
- [7]: http://code.google.com/p/gdata-python-client/source/checkout
+ [1]: https://www.ecko-labs.com/wp-content/themes/mystream/thumb.php?src=wp-content/uploads/2010/06/googlecl21.png&w=390&h=230&zc=1&q=90
+ [2]: https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us
+ [3]: https://en.wikipedia.org/wiki/Backspace
+ [4]: https://www.dataliberation.org/google/google-docs
+ [5]: https://code.google.com/p/googlecl/
+ [6]: https://code.google.com/p/googlecl/issues/detail?id=290&q=braincode&colspec=ID%20Type%20Stars%20Status%20Priority%20Milestone%20Owner%20Summary
+ [7]: https://code.google.com/p/gdata-python-client/source/checkout

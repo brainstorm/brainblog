@@ -14,6 +14,6 @@ tags:
 title: 17th USENIX security symposium
 ---
 
-[ <img src="http://www.usenix.org/events/sec08/art/sec08_going.jpg" border="0" width="162" height="57" alt="I'm going to USENIX Security '08" /> ][1]
+[ <img src="https://www.usenix.org/events/sec08/art/sec08_going.jpg" border="0" width="162" height="57" alt="I'm going to USENIX Security '08" /> ][1]
 
- [1]: http://www.usenix.org/sec08/going
+ [1]: https://www.usenix.org/sec08/going

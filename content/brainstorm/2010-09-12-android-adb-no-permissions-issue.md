@@ -39,6 +39,6 @@ Hope that helps !
 
 UPDATE: Filed the [issue][3] on android bugtracker.
 
- [1]: http://androidboss.com/using-android-debug-bridge-adb-in-linux/
- [2]: http://developer.android.com/guide/developing/device.html
- [3]: http://code.google.com/p/android/issues/detail?id=11172
+ [1]: https://androidboss.com/using-android-debug-bridge-adb-in-linux/
+ [2]: https://developer.android.com/guide/developing/device.html
+ [3]: https://code.google.com/p/android/issues/detail?id=11172
