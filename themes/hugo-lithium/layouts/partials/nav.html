@@ -1,3 +1,4 @@
+
 <nav class="nav">
   <a href="{{ "/" | relURL }}" class="nav-logo">
     <img src="{{ print "images/" .Site.Params.logo.url | relURL }}"
@@ -8,7 +9,7 @@
 
   <ul class="nav-links">
     {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
     {{ end }}
   </ul>
 </nav>
