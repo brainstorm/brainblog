@@ -6,8 +6,8 @@ googleAnalytics = "UA-11158994-2"
 disqusShortname = "nopcode"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-#[permalinks]
-#    brainstorm = "/:year/:month/:day/:slug/"
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "About"
