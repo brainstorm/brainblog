@@ -1,4 +1,4 @@
 [build]
-	command = "hugo -d public/brainstorm"
+	command = "hugo -d public/brainstorm --buildFuture"
 [build.environment]
 	HUGO_VERSION = "0.55.6"
