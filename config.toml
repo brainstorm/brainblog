@@ -1,4 +1,4 @@
-baseurl = "https://blogs.nopcode.org/brainstorm"
+baseurl = "/brainstorm"
 languageCode = "en-us"
 title = "BrainBlog"
 theme = "hugo-lithium"
