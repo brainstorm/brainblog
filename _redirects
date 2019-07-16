@@ -1,5 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
-https://brainblog.netlify.com/* https://blogs.nopcode.org/:splat 301!
+https://brainblog.netlify.com/* https://blogs.nopcode.org/brainstorm/:splat 301!
 
 #
-https://blogs.nopcode.org/ https://blogs.nopcode.org/brainstorm 301!
+https://blogs.nopcode.org/ https://blogs.nopcode.org/brainstorm/:splat 301!
