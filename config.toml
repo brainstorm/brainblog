@@ -21,12 +21,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     description = "Braindumplings"
 
     # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.15.8"
-    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsVersion = "9.15.9"
+    highlightjsCDN = "//cdnjs.cloudflare.com"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
 
-    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxCDN = "//cdnjs.cloudflare.com"
     MathJaxVersion = "2.7.5"
 
     [params.logo]
