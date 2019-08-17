@@ -21,9 +21,9 @@ got an email from [Greg Wilson](https://www.third-bit.com/greg-wilson.html):
  > for Stockholm this summer?
 
 
-After getting the green light from [WWCRC](https://www.gla.ac.uk/researchinstitutes/cancersciences/ics/facilities/wwcrc/), my current employer, it did not took too long to include [Oxana Sachenkova](https://about.me/oxanas) to the team and start [planning the logistics](http://software-carpentry.org/workshops/operations.html), lessons, official PhD-level university credits and raise some money to support the event.
+After getting the green light from [WWCRC](https://www.gla.ac.uk/researchinstitutes/cancersciences/ics/facilities/wwcrc/), my current employer, it did not took too long to include [Oxana Sachenkova](https://about.me/oxanas) to the team and start [planning the logistics](https://software-carpentry.org/workshops/operations.html), lessons, official PhD-level university credits and raise some money to support the event.
 
-Since we recently received our [SWC training](https://teaching.software-carpentry.org/) and had some experience with a past <a href="https://github.com/pythonkurs">scientific python workshop</a> and a previous [edition of software carpentry](http://merenlin.com/2014/06/software-carpentry-scilifelab/), we decided to go for a two day workshop:
+Since we recently received our [SWC training](https://teaching.software-carpentry.org/) and had some experience with a past <a href="https://github.com/pythonkurs">scientific python workshop</a> and a previous [edition of software carpentry](https://merenlin.com/2014/06/software-carpentry-scilifelab/), we decided to go for a two day workshop:
 
  * One day with python fundamentals [with a best practices twist (TDD)](https://blogs.nopcode.org/brainstorm/2013/03/04/automated-python-education-via-unit-testing-and-travis-ci/).
  * The second day with a more biological data analysis focus.
@@ -46,9 +46,9 @@ Following up, Radovan prepared excellent [TDD lessons](https://github.com/bast/p
 
 3. A late addition from an upcoming [SWC TDD lesson](https://bids.github.io/2016-01-14-berkeley/testing/09-tdd.html), released just a few days before our workshop.
 
-The idea to teach [basic Git](https://swcarpentry.github.io/git-novice/), GitHub, TravisCI and [Coveralls](http://coveralls.io) in such a short time, was challenging for the instructors but had a very good general reception from the students side.
+The idea to teach [basic Git](https://swcarpentry.github.io/git-novice/), GitHub, TravisCI and [Coveralls](https://coveralls.io) in such a short time, was challenging for the instructors but had a very good general reception from the students side.
 
-While [the infamous installation problem](https://ivory.idyll.org/blog/2014-what-version-of-python-for-science.html) is still an issue, students managed to follow through the lessons, getting the typical python installation issues, majorly solved by a proper installation of [Miniconda](http://conda.pydata.org/miniconda.html).
+While [the infamous installation problem](https://ivory.idyll.org/blog/2014-what-version-of-python-for-science.html) is still an issue, students managed to follow through the lessons, getting the typical python installation issues, majorly solved by a proper installation of [Miniconda](https://conda.pydata.org/miniconda.html).
 
 [The SWC installation tests](https://pythonkurs.github.io/2015-11-30-swc_data/setup/index.html), mostly distracted students since packages not being used in the workshop where flagged as uninstalled/failed (i.e: EasyMercurial). In general I perceived that **students were getting overwhelmed by too much information from SWC default guides** and stopped following up and reading the instructions early.
 
@@ -71,7 +71,7 @@ In order to explain PCA graphically to students, Ahmed uses an excellent [web vi
 
 ![swc_data_students]({{ site.url }}/images/2015/12/swc_data_students.jpg)
 
-Right after that machine learning introduction, I show how one can enact reproducible [(and interactive!) notebooks via mybinder.org](https://github.com/brainstorm/scikit-allel-tests) service by [exploring a small scikit-allel dataset](https://app.mybinder.org/2222694185/notebooks/scikit-allel-small-data.ipynb). Furthermore, more visualization techniques are shown via my current explorations of [HivePlots](http://hiveplot.net) as an alternative way of [visualizing structural genomic variations in cancer samples](https://github.com/brainstorm/cancer-hiveplots).
+Right after that machine learning introduction, I show how one can enact reproducible [(and interactive!) notebooks via mybinder.org](https://github.com/brainstorm/scikit-allel-tests) service by [exploring a small scikit-allel dataset](https://app.mybinder.org/2222694185/notebooks/scikit-allel-small-data.ipynb). Furthermore, more visualization techniques are shown via my current explorations of [HivePlots](https://hiveplot.net) as an alternative way of [visualizing structural genomic variations in cancer samples](https://github.com/brainstorm/cancer-hiveplots).
 
 On top of that, I had a talk prepared about [structural variations processed with bcbio](https://bcbio-nextgen.readthedocs.org/en/latest/contents/teaching.html), but on the interest of time, I saved it for another event :)
 

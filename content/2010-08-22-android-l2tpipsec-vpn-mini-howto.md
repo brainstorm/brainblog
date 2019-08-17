@@ -156,4 +156,4 @@ Good luck !
  [8]: https://www.jacco2.dds.nl/networking/openswan-l2tp.html
  [9]: https://blog.brightpointuk.co.uk/adding-vpn-connections-android-16-donut
  [10]: https://www.openswan.org/
- [11]: https://http://www.jacco2.dds.nl/networking/linux-l2tp.html#Split_tunnelling
+ [11]: https://https://www.jacco2.dds.nl/networking/linux-l2tp.html#Split_tunnelling

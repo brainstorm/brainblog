@@ -17,7 +17,7 @@ Part de la feina que havia de fer al 3GSM consistia en escanejar les xarxes inal
 Com que els portàtils dels que disposàvem corrien windows, em van venir al cap unes tools que vaig descobrir a [LISA'05][1]: [Wireless Weapons of Mass Destruction for Windows][2], concretament la utilitat [ssidscan.vbs][3] que suposadament retorna un llistat d'SSID's per command line per tal de poder parsejar els resultats a posteriori... he dit suposadament, aquest és el resultat:
 
 <center>
-  <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.png" title="crippled WMI ssid listing"><img id="image64" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.thumbnail.png" alt="crippled WMI ssid listing" /></a>
+  <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.png" title="crippled WMI ssid listing"><img id="image64" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/02/ssidwin.thumbnail.png" alt="crippled WMI ssid listing" /></a>
 </center>
 
 Com veieu, per un bug documentat (i pel que sembla, [no arreglat encara][4] (!!!) no mostra correctament el nom dels SSIDs real: lletres addicionals, altres que falten, caràcters estranys en alguns casos...

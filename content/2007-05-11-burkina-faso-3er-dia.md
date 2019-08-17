@@ -19,7 +19,7 @@ gent, camins, vehicles, etc... the guiri way. <strike>Espero penjar-ne unes quan
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911790865/" title="Ouagadougou Burkina Faso street railway" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3289/2911790865_500732fbd8_m.jpg" alt="Ouagadougou Burkina Faso street railway" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911790865/" title="Ouagadougou Burkina Faso street railway" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3289/2911790865_500732fbd8_m.jpg" alt="Ouagadougou Burkina Faso street railway" class="" /></a>
   </center>
 </div>
 
@@ -27,7 +27,7 @@ Un cop som a l'ESI, anem cap a la classe on em tocarà donar el curs sobre admin
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911369333/" title="Burkina Faso Class" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3273/2911369333_413c340d0e_m.jpg" alt="Burkina Faso Class" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911369333/" title="Burkina Faso Class" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3273/2911369333_413c340d0e_m.jpg" alt="Burkina Faso Class" class="" /></a>
   </center>
 </div>
 
@@ -48,7 +48,7 @@ Anem a dinar a un menjador de la facultat. Menjem arrós amb peix i comprem unes
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911357231/" title="Burkina Faso ESI food" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3081/2911357231_bbdd374212_m.jpg" alt="Burkina Faso ESI food" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911357231/" title="Burkina Faso ESI food" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3081/2911357231_bbdd374212_m.jpg" alt="Burkina Faso ESI food" class="" /></a>
   </center>
 </div>
 
@@ -56,7 +56,7 @@ Un detall impactant és veure com les restes de menjar s'acostumen a donar a uns
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912232832/" title="Child getting food leftovers Burkina Faso ESI" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3045/2912232832_9d22ae6ffd_m.jpg" alt="Child getting food leftovers Burkina Faso ESI" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912232832/" title="Child getting food leftovers Burkina Faso ESI" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3045/2912232832_9d22ae6ffd_m.jpg" alt="Child getting food leftovers Burkina Faso ESI" class="" /></a>
   </center>
 </div>
 

@@ -38,7 +38,7 @@ Despres d'unes hores de descans merescut, l'endema a les 10, Ali em porta a visi
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2904440928/" title="Jaipur wind" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3022/2904440928_171fc3f4e7_m.jpg" alt="Jaipur wind" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2904440928/" title="Jaipur wind" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3022/2904440928_171fc3f4e7_m.jpg" alt="Jaipur wind" class="" /></a>
   </center>
 </div>
 
@@ -60,7 +60,7 @@ Finalment m'acaba convidant a compartir amb ell un "piscolavis" de chapati (pa i
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2903601307/" title="Meal invite" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3096/2903601307_6dd42915df_m.jpg" alt="Meal invite" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2903601307/" title="Meal invite" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3096/2903601307_6dd42915df_m.jpg" alt="Meal invite" class="" /></a>
   </center>
 </div>
 

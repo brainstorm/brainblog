@@ -39,7 +39,7 @@ Al arribar a l'hotel central a Ouaga em dónen les claus d'una habitació... có
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911039063/" title="Barrio sesamo cobrellit" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3213/2911039063_45d219e5c2_m.jpg" alt="Barrio sesamo cobrellit" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911039063/" title="Barrio sesamo cobrellit" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3213/2911039063_45d219e5c2_m.jpg" alt="Barrio sesamo cobrellit" class="" /></a>
   </center>
 </div>
 
@@ -47,7 +47,7 @@ Sopo un pollastre amb arrós a l'hotel, menjar típic d'aquest país segons s'in
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911026309/" title="First meal on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3164/2911026309_0b2e08cdc6_m.jpg" alt="First meal on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911026309/" title="First meal on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3164/2911026309_0b2e08cdc6_m.jpg" alt="First meal on Burkina Faso" class="" /></a>
   </center>
 </div>
 

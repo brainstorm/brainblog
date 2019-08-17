@@ -14,7 +14,7 @@ Avui és festa (religiosa) a Burkina. Tal com varem quedar amb Athanase, despré
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912622928/" title="Bikes on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3122/2912622928_1b919e2acc_m.jpg" alt="Bikes on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912622928/" title="Bikes on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3122/2912622928_1b919e2acc_m.jpg" alt="Bikes on Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -30,7 +30,7 @@ Seguint la nostra visita en bicicleta passem per els exteriors d'un mercat on to
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911789807/" title="Burkina market" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3070/2911789807_2917e51ba6_m.jpg" alt="Burkina market" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911789807/" title="Burkina market" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3070/2911789807_2917e51ba6_m.jpg" alt="Burkina market" class="" /></a>
   </center>
 </div>
 
@@ -38,7 +38,7 @@ Després d'una bona insolació (braços vermells gamba-guiri i una mica de mal d
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912149910/" title="Xavier Messeguer on LCBOB" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3060/2912149910_3d8defb43c_m.jpg" alt="Xavier Messeguer on LCBOB" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912149910/" title="Xavier Messeguer on LCBOB" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3060/2912149910_3d8defb43c_m.jpg" alt="Xavier Messeguer on LCBOB" class="" /></a>
   </center>
 </div>
 

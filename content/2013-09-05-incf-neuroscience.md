@@ -44,7 +44,7 @@ So INCF's purpose is to be the [*glia*][7] between several neuroscience research
 
 <blockquote class="twitter-tweet" width="550" lang="en">
   <p>
-    Neuroscience thinks big (and collaboratively) | Nature Neuroscience reviews | <a href="https://t.co/td1iiaKpl8">http://t.co/td1iiaKpl8</a>
+    Neuroscience thinks big (and collaboratively) | Nature Neuroscience reviews | <a href="https://t.co/td1iiaKpl8">https://t.co/td1iiaKpl8</a>
   </p>
   
   <p>

@@ -15,7 +15,7 @@ title: 'India: Here we go !'
 Ja arriben les vacances, falten escases hores i per fi estem preparats... bé, les motxilles, segur, tot lo altre ja es veurà :D:
 
 <center>
-  <a href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/08/p7010002.jpg"><img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/08/p7010002-225x300.jpg" alt="" title="motxilles" width="225" height="300" class="aligncenter size-medium wp-image-144" /></a>
+  <a href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/08/p7010002.jpg"><img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2008/08/p7010002-225x300.jpg" alt="" title="motxilles" width="225" height="300" class="aligncenter size-medium wp-image-144" /></a>
 </center>
 
 Aqui teniu un esboç/idea de l'itinerari que seguiré aquest mes per aquelles terres:

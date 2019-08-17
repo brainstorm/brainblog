@@ -13,8 +13,8 @@ title: Teclat USB de silicona
 ---
 
 <p>El meu pare m'ha portat un teclat curiós:</p>
-<p><a href='https://blogs.nopcode.org/brainstorm/wp-content/images/teclat_silicona1.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-teclat_silicona1.jpg' alt='teclat silicona desplegat' /></a></p>
-<p><a href='https://blogs.nopcode.org/brainstorm/wp-content/images/teclat_silicona2.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-teclat_silicona2.jpg' alt='teclat silicona plegat' /></a></p>
+<p><a href='https://blogs.nopcode.org/brainstorm/wp-content/images/teclat_silicona1.jpg'><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-teclat_silicona1.jpg' alt='teclat silicona desplegat' /></a></p>
+<p><a href='https://blogs.nopcode.org/brainstorm/wp-content/images/teclat_silicona2.jpg'><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-teclat_silicona2.jpg' alt='teclat silicona plegat' /></a></p>
 <p>Per a que funcioni amb linux, és necessari tenir suport HID al kernel (Device Drivers->USB Support->USB Human Interface Device (full HID) support & HID input layer support):</p>
 <pre>
 # grep HID .config

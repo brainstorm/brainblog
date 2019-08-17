@@ -34,11 +34,11 @@ But it's far better than that, with the included plugins you can have a full-fle
 <table align="center" cellpadding="8">
   <tr>
     <td>
-      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient_splash.png"><br /> <img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient_splash.png' alt='squirrel-sql splash screen' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient_splash.png"><br /> <img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient_splash.png' alt='squirrel-sql splash screen' /></a>
     </td>
     
     <td>
-      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient1.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient1.png' alt='jdbc driver blueprint' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient1.png"><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient1.png' alt='jdbc driver blueprint' /></a>
     </td>
   </tr>
   
@@ -54,11 +54,11 @@ But it's far better than that, with the included plugins you can have a full-fle
   
   <tr>
     <td>
-      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient2.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient2.png' alt='driver alias blueprint' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient2.png"><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient2.png' alt='driver alias blueprint' /></a>
     </td>
     
     <td>
-      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient4.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient4.png' alt='connection settings' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient4.png"><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient4.png' alt='connection settings' /></a>
     </td>
   </tr>
   
@@ -74,11 +74,11 @@ But it's far better than that, with the included plugins you can have a full-fle
   
   <tr>
     <td>
-      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient5.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient5.png' alt='catalog view' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient5.png"><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient5.png' alt='catalog view' /></a>
     </td>
     
     <td>
-      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient6.png"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient6.png' alt='sql interactive editor view' /></a>
+      <a href="https://blogs.nopcode.org/brainstorm/wp-content/images/sqlclient6.png"><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-sqlclient6.png' alt='sql interactive editor view' /></a>
     </td>
   </tr>
   

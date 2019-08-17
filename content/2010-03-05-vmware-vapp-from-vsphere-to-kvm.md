@@ -36,7 +36,7 @@ That was my idealized view. It turns to be this way:
 9.  **Rebuild guest ramdisk** image in order to load VirtIO drivers in the boot process.
 
 <center>
-  <br /> <a href="https://dilbert.com/strips/comic/2008-02-12/" title="Dilbert.com"><img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/800/1869/1869.strip.gif" border="0" alt="Dilbert.com" /></a><br />
+  <br /> <a href="https://dilbert.com/strips/comic/2008-02-12/" title="Dilbert.com"><img src="https://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/800/1869/1869.strip.gif" border="0" alt="Dilbert.com" /></a><br />
 </center>
 
 Want more details ? Keep reading...  

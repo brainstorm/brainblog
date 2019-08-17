@@ -25,20 +25,20 @@ Yep, that's it's main theme and I'm not a furniture expert, so why not add a com
   <tr>
     <td>
       <center>
-        <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.jpg" title="The rattan computer"><img id="image54" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.thumbnail.jpg" alt="The rattan computer" /></a>
+        <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.jpg" title="The rattan computer"><img id="image54" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image009.thumbnail.jpg" alt="The rattan computer" /></a>
       </center>
     </td>
     
     <td>
-      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.jpg" title="The rattan computer PSU detail"><img id="image55" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.thumbnail.jpg" alt="The rattan computer PSU detail" /></a>
+      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.jpg" title="The rattan computer PSU detail"><img id="image55" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image005.thumbnail.jpg" alt="The rattan computer PSU detail" /></a>
     </td>
     
     <td>
-      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.jpg" title="Rattan computer or night table ? :-P"><img id="image56" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.thumbnail.jpg" alt="Rattan computer or night table ? :-P" /></a>
+      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.jpg" title="Rattan computer or night table ? :-P"><img id="image56" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image007.thumbnail.jpg" alt="Rattan computer or night table ? :-P" /></a>
     </td>
     
     <td>
-      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.jpg" title="Rattan's computer mainboard detail"><img id="image57" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.thumbnail.jpg" alt="Rattan's computer mainboard detail" /></a>
+      <a class="imagelink" href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.jpg" title="Rattan's computer mainboard detail"><img id="image57" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2006/09/image004.thumbnail.jpg" alt="Rattan's computer mainboard detail" /></a>
     </td>
   </tr>
 </table>

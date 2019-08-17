@@ -22,7 +22,7 @@ Més endavant a Rishikesh, reparteixen aquests "panflets" publicitaris:
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/3244809034/" title="rishikesh" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3309/3244809034_c397955929_t.jpg" alt="rishikesh" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/3244809034/" title="rishikesh" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3309/3244809034_c397955929_t.jpg" alt="rishikesh" class="" /></a>
   </center>
 </div>
 

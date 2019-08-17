@@ -77,7 +77,7 @@ A possible performance improvement would be to skip disk altogether or just keep
 While fixing this issue would give us some iRODS speedup, it would not take advantage of iRODS's underlying [Reliable Blast UDP protocol][14] since **all transfers are channeled towards HTTP instead of plain UDP**.
 
 <center>
-  <a href='https://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html'><img src="http://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP_files/rbudpf2.jpg" width="475" height="280" class /></a>
+  <a href='https://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html'><img src="https://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP_files/rbudpf2.jpg" width="475" height="280" class /></a>
 </center>
 
 An improvement that would definitely boost the performance would be to just **wrap the shell i-commands into well scaffolded PHP functions**. If i-commands binaries were installed in the system, **OwnCloud would detect it and use them** instead of a **PRODS-based "compatibility mode"**. From a user perspective, the "compat mode" should be announced as a warning in the web interface to hint the user about i-commands and how the sysadmins could install the corresponding [RPM][15] or [DEB][16] packages for them.

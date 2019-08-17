@@ -14,7 +14,7 @@ Avui arribem força d'hora a l'ESI, pero de seguida veiem que algo passa: tots e
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911747165/" title="Servers on burkina" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3258/2911747165_84e22a01a6_m.jpg" alt="Servers on burkina" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911747165/" title="Servers on burkina" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3258/2911747165_84e22a01a6_m.jpg" alt="Servers on burkina" class="" /></a>
   </center>
 </div>
 
@@ -54,7 +54,7 @@ Per a celebrar la posada en marxa de la màquina, li pregunto a un dels estudian
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911761329/" title="Hanging out in Burkina" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3249/2911761329_5fe0c8d56d_m.jpg" alt="Hanging out in Burkina" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911761329/" title="Hanging out in Burkina" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3249/2911761329_5fe0c8d56d_m.jpg" alt="Hanging out in Burkina" class="" /></a>
   </center>
 </div>
 

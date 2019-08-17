@@ -15,7 +15,7 @@ tags:
 title: Sun Microsystems Campus Ambassador
 ---
 
-<a id="p97" rel="attachment" class="imagelink" href="https://blogs.nopcode.org/brainstorm/2007/12/04/sun-microsystems-campus-ambassador/sun-microsystems-logo/" title="Sun microsystems logo" align=right><img id="image97" src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/12/sun.thumbnail.png" alt="Sun microsystems logo"  align='right' /></a>
+<a id="p97" rel="attachment" class="imagelink" href="https://blogs.nopcode.org/brainstorm/2007/12/04/sun-microsystems-campus-ambassador/sun-microsystems-logo/" title="Sun microsystems logo" align=right><img id="image97" src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2007/12/sun.thumbnail.png" alt="Sun microsystems logo"  align='right' /></a>
 
 As the title states, I've been recently elected as a campus ambassador for my university. When I talk about my newly acquired job, people keep asking: Woah, nice... hummm, but what does it mean after all ? Here are my main responsabilities on this cool project:
 

@@ -16,7 +16,7 @@ Com a primera visita turística del dia, Athanase ens porta a veure una mesquita
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911488683/" title="Burkina Faso church" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3024/2911488683_fdd5e8c67f_m.jpg" alt="Burkina Faso church" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911488683/" title="Burkina Faso church" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3024/2911488683_fdd5e8c67f_m.jpg" alt="Burkina Faso church" class="" /></a>
   </center>
 </div>
 
@@ -35,7 +35,7 @@ Al ser la part més antiga de la vila, potser conserva també la forma més arca
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912354500/" title="Burkina Faso smells" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3272/2912354500_70f46b296b_m.jpg" alt="Burkina Faso smells" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912354500/" title="Burkina Faso smells" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3272/2912354500_70f46b296b_m.jpg" alt="Burkina Faso smells" class="" /></a>
   </center>
 </div>
 
@@ -45,7 +45,7 @@ Per si les imatges anteriors dels nens no havien estat prou impactants, el riu-c
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911937349/" title="Insalubrity in Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3088/2911937349_5ba875a2a7_m.jpg" alt="Insalubrity in Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911937349/" title="Insalubrity in Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3088/2911937349_5ba875a2a7_m.jpg" alt="Insalubrity in Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -56,7 +56,7 @@ Al llarg de la setmana passada, ens conviden a participar en la celebració de "
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912431598/" title="ESI football team Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3274/2912431598_581a84e36e_m.jpg" alt="ESI football team Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912431598/" title="ESI football team Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3274/2912431598_581a84e36e_m.jpg" alt="ESI football team Burkina Faso" class="" /></a>
   </center>
 </div>
 

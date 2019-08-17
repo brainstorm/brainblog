@@ -60,7 +60,7 @@ At this point, **all the manufacturer tells you is to buy a completely new motor
 
 ![Drone motor cost](https://blogs.nopcode.org/brainstorm/images/2016/06/motor_pricing.png)
 
-But I insist, nothing seems wrong with the motor itself, neither the few [DMC3021LSD MOSFETs that are around the motor](https://www.datasheetarchive.com/dl/Datasheets-SW8/DSASW00156661.pdf) board, so it clearly seems like a software issue... with the [**Atmega8A microcontroller**](http://www.atmel.com/Images/Atmel-8159-8-bit-AVR-microcontroller-ATmega8A_summary.pdf) present in **each of the 4 motor boards**... the microcontroller datasheet states that they **should work for 20 years and withstand 100.000 programming cycles**. I definitely did not use it neither for that long nor that many times, so it got me curious: what if [I could just fix it myself](https://repair.org/) **while I still have the right to?**
+But I insist, nothing seems wrong with the motor itself, neither the few [DMC3021LSD MOSFETs that are around the motor](https://www.datasheetarchive.com/dl/Datasheets-SW8/DSASW00156661.pdf) board, so it clearly seems like a software issue... with the [**Atmega8A microcontroller**](https://www.atmel.com/Images/Atmel-8159-8-bit-AVR-microcontroller-ATmega8A_summary.pdf) present in **each of the 4 motor boards**... the microcontroller datasheet states that they **should work for 20 years and withstand 100.000 programming cycles**. I definitely did not use it neither for that long nor that many times, so it got me curious: what if [I could just fix it myself](https://repair.org/) **while I still have the right to?**
 
 ## Not bothering opening my drone
 
@@ -188,7 +188,7 @@ But since **there are no further specs nor documentation from the manufacturer**
 
 In any case, that's it, **I just saved the environment and $50 by unlocking an incorrectly software-locked hardware!**
 
-There are a few bits missing on how I debugged this issue and saved some followup reverse engineering work [Hugo Perquin did on his blog](https://blog.perquin.com/blog/ardrone-motor-controller/). About reverse engineering, I might present some work at the first [Radare2 conference](http://rada.re/con/).
+There are a few bits missing on how I debugged this issue and saved some followup reverse engineering work [Hugo Perquin did on his blog](https://blog.perquin.com/blog/ardrone-motor-controller/). About reverse engineering, I might present some work at the first [Radare2 conference](https://rada.re/con/).
 
 [![Radare2 Con](https://blogs.nopcode.org/brainstorm/images/2016/06/radarecon.png)](https://rada.re/con)
 

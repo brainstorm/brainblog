@@ -22,7 +22,7 @@ Al tornar veig un instrument musical que sempre hem tingut a casa i no tenim ni 
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911092585/" title="Musical instrument Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3235/2911092585_7e47c22a45_m.jpg" alt="Musical instrument Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911092585/" title="Musical instrument Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3235/2911092585_7e47c22a45_m.jpg" alt="Musical instrument Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -30,7 +30,7 @@ Finalment arriba en William i em porta en cotxe cap a l'autobus... primera vista
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911232029/" title="Sellers outside bus Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3221/2911232029_c573e6329a_m.jpg" alt="Sellers outside bus Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911232029/" title="Sellers outside bus Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3221/2911232029_c573e6329a_m.jpg" alt="Sellers outside bus Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -45,7 +45,7 @@ No hi ha muntanya, la vegetació és molt més abundant del que m'esperava... ho
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911420283/" title="Mango seller Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3283/2911420283_b8327ce994_m.jpg" alt="Mango seller Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911420283/" title="Mango seller Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3283/2911420283_b8327ce994_m.jpg" alt="Mango seller Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -53,7 +53,7 @@ Petites agrupacions de cases de fang al llarg del viatge... molt disperses, és 
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912583504/" title="Repair shop Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3002/2912583504_17d8cb6786_m.jpg" alt="Repair shop Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912583504/" title="Repair shop Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3002/2912583504_17d8cb6786_m.jpg" alt="Repair shop Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -63,7 +63,7 @@ En una de les parades abans d'arribar a Bobo (Komoro) decideixo comprar alguna c
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912136644/" title="Burkina Faso people" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3255/2912136644_d3b451d3f4_m.jpg" alt="Burkina Faso people" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912136644/" title="Burkina Faso people" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3255/2912136644_d3b451d3f4_m.jpg" alt="Burkina Faso people" class="" /></a>
   </center>
 </div>
 
@@ -78,13 +78,13 @@ M'aixeco a les 2:35 hora local altre cop per la calor, al encendre l'aire acondi
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911324869/" title="Mosquito net Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3137/2911324869_d22f5b6350_m.jpg" alt="Mosquito net Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911324869/" title="Mosquito net Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3137/2911324869_d22f5b6350_m.jpg" alt="Mosquito net Burkina Faso" class="" /></a>
   </center>
 </div>
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912164640/" title="Mosquito net scaffold" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3086/2912164640_e7158603c1_m.jpg" alt="Mosquito net scaffold" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912164640/" title="Mosquito net scaffold" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3086/2912164640_e7158603c1_m.jpg" alt="Mosquito net scaffold" class="" /></a>
   </center>
 </div>
 

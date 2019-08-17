@@ -30,7 +30,7 @@ Canvio euros per rupies... de sobte l'oficinista em dona dos feixos de bitllets 
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/3897256637/" title="Indian rupees" target="_blank" class="flickr-image aligncenter"><img src="http://farm3.static.flickr.com/2534/3897256637_40b648d832_m.jpg" alt="Indian rupees" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/3897256637/" title="Indian rupees" target="_blank" class="flickr-image aligncenter"><img src="https://farm3.static.flickr.com/2534/3897256637_40b648d832_m.jpg" alt="Indian rupees" class="" /></a>
   </center>
 </div>
 
@@ -71,13 +71,13 @@ Un cop a cobert en un hostel (Ajay's guest house), uns italians molt simpatics e
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2904400174/" title="Carrom India boardgame" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3295/2904400174_470692962f_m.jpg" alt="Carrom India boardgame" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2904400174/" title="Carrom India boardgame" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3295/2904400174_470692962f_m.jpg" alt="Carrom India boardgame" class="" /></a>
   </center>
 </div>
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2903553439/" title="Carrom India boardgame" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3099/2903553439_c0d5d4e906_m.jpg" alt="Carrom India boardgame" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2903553439/" title="Carrom India boardgame" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3099/2903553439_c0d5d4e906_m.jpg" alt="Carrom India boardgame" class="" /></a>
   </center>
 </div>
 

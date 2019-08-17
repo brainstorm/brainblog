@@ -34,7 +34,7 @@ Un dels equips que moren lentament dins aquest forn infernal és un Cisco 2600, 
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912599430/" title="Cisco 2600 breathing" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3041/2912599430_c1d209c3a5_m.jpg" alt="Cisco 2600 breathing" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912599430/" title="Cisco 2600 breathing" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3041/2912599430_c1d209c3a5_m.jpg" alt="Cisco 2600 breathing" class="" /></a>
   </center>
 </div>
 

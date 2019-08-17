@@ -16,7 +16,7 @@ Fins ara no us havia mostrat la primera imatge del mati, aqui la teniu :)
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912458032/" title="Anti mosquito net inside view" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3225/2912458032_a67969c7bf_m.jpg" alt="Anti mosquito net inside view" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912458032/" title="Anti mosquito net inside view" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3225/2912458032_a67969c7bf_m.jpg" alt="Anti mosquito net inside view" class="" /></a>
   </center>
 </div>
 
@@ -24,7 +24,7 @@ Avui també toca fer visites turístiques :) Ens aixequem força d'hora per pode
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912459210/" title="African car overloaded with people" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3180/2912459210_dc2b760402_m.jpg" alt="African car overloaded with people" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912459210/" title="African car overloaded with people" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3180/2912459210_dc2b760402_m.jpg" alt="African car overloaded with people" class="" /></a>
   </center>
 </div>
 
@@ -35,7 +35,7 @@ Finalment arribem al llac... El conductor de la canoa treu aigua del fons de la 
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912479528/" title="Bailing out water from the ship" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3183/2912479528_c16b6c1741_m.jpg" alt="Bailing out water from the ship" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912479528/" title="Bailing out water from the ship" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3183/2912479528_c16b6c1741_m.jpg" alt="Bailing out water from the ship" class="" /></a>
   </center>
 </div>
 
@@ -47,7 +47,7 @@ A meitat de trajecte veiem una manada d'uns tretze hipopòtams en el seu hàbita
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912498422/" title="Hipos in Banfora" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3210/2912498422_2da323bb37_m.jpg" alt="Hipos in Banfora" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912498422/" title="Hipos in Banfora" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3210/2912498422_2da323bb37_m.jpg" alt="Hipos in Banfora" class="" /></a>
   </center>
 </div>
 
@@ -55,7 +55,7 @@ Visitem el mercat de Banfora, força similar al central de Bobo... sorprenentmen
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911608393/" title="Pig on motorbike on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3281/2911608393_78a3688e64_m.jpg" alt="Pig on motorbike on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911608393/" title="Pig on motorbike on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3281/2911608393_78a3688e64_m.jpg" alt="Pig on motorbike on Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -63,7 +63,7 @@ Després de comprar alguns souvenirs típics i una mica de fruita ens dirigim ca
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2911708911/" title="Rose stones on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3238/2911708911_917a83c188_m.jpg" alt="Rose stones on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2911708911/" title="Rose stones on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3238/2911708911_917a83c188_m.jpg" alt="Rose stones on Burkina Faso" class="" /></a>
   </center>
 </div>
 
@@ -71,6 +71,6 @@ De tornada tenim un petit imprevist: punxada de roda enmig d'una carretera que s
 
 <div class='flickr_photo'>
   <center>
-    <a href="https://www.flickr.com/photos/rvalls/2912563154/" title="Dead tire on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="http://farm4.static.flickr.com/3169/2912563154_df70caaab3_m.jpg" alt="Dead tire on Burkina Faso" class="" /></a>
+    <a href="https://www.flickr.com/photos/rvalls/2912563154/" title="Dead tire on Burkina Faso" target="_blank" class="flickr-image aligncenter"><img src="https://farm4.static.flickr.com/3169/2912563154_df70caaab3_m.jpg" alt="Dead tire on Burkina Faso" class="" /></a>
   </center>
 </div>

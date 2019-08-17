@@ -22,7 +22,7 @@ title: Automated Python education via unit testing and Travis-CI
 Sometimes **education can be a daunting process**. It is quite obvious from the student side, we all have gone through exercises, corrections, learning what we did wrong on some of them, fixing and learning from those errors, rinse and repeat. That's how it generally works.
 
 On the teacher's side, correcting assignments is easy and unbiased unless the number of students is considerably large. At  
-one of the sessions of our now official <a href="https://www.kth.se/" title="Kungliga Tekniska Högskolan" target="_blank">KTH</a> course <a href="http://www.kth.se/student/kurser/kurs/DD3436?l=en" title="Scientific Programming in Python for Computational Biology" target="_blank">"DD3436 Scientific Programming in Python for Computational Biology"</a> I was given the task to hold a session on **software testing and continuous integration in Python**... for around 50 students.
+one of the sessions of our now official <a href="https://www.kth.se/" title="Kungliga Tekniska Högskolan" target="_blank">KTH</a> course <a href="https://www.kth.se/student/kurser/kurs/DD3436?l=en" title="Scientific Programming in Python for Computational Biology" target="_blank">"DD3436 Scientific Programming in Python for Computational Biology"</a> I was given the task to hold a session on **software testing and continuous integration in Python**... for around 50 students.
 
 <!--more-->
 

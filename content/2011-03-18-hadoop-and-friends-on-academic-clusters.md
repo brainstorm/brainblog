@@ -40,11 +40,11 @@ Almost **four** years ago I first approached those problems by building a modest
   </p> <table>
     <tr>
       <td>
-        <a href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster.jpg"><img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster-150x150.jpg" alt="13-node poor mans cluster, front view" title="13-node poor mans cluster, front view" width="150" height="150" class="alignleft size-thumbnail wp-image-412" /></a>
+        <a href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster.jpg"><img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster-150x150.jpg" alt="13-node poor mans cluster, front view" title="13-node poor mans cluster, front view" width="150" height="150" class="alignleft size-thumbnail wp-image-412" /></a>
       </td>
       
       <td>
-        <a href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster_rear.jpg"><img src="http://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster_rear-150x150.jpg" alt="13-node poor mans cluster, rear messy cables" title="13-node poor mans cluster, rear messy cables" width="150" height="150" class="alignright size-thumbnail wp-image-413" /></a>
+        <a href="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster_rear.jpg"><img src="https://blogs.nopcode.org/brainstorm/wp-content/uploads/2011/03/cluster_rear-150x150.jpg" alt="13-node poor mans cluster, rear messy cables" title="13-node poor mans cluster, rear messy cables" width="150" height="150" class="alignright size-thumbnail wp-image-413" /></a>
       </td>
     </tr>
   </table>
@@ -54,7 +54,7 @@ Almost **four** years ago I first approached those problems by building a modest
   </p>
   
   <p>
-    But still, building your own cluster doesn't feel quite "easy" or cost-effective anyway, right ? If you are willing to pay a few dollar cents, you can get yourself started on your own with <a href="https://aws.amazon.com/elasticmapreduce/">amazon</a>, easy but slow when uploading big datasets, assuming you are legally allowed to do so for <strong>real datasets</strong>. With some more patience and for free you can even use <a href="http://open.eucalyptus.com/CommunityCloud">Eucalyptus Community Cloud</a>.
+    But still, building your own cluster doesn't feel quite "easy" or cost-effective anyway, right ? If you are willing to pay a few dollar cents, you can get yourself started on your own with <a href="https://aws.amazon.com/elasticmapreduce/">amazon</a>, easy but slow when uploading big datasets, assuming you are legally allowed to do so for <strong>real datasets</strong>. With some more patience and for free you can even use <a href="https://open.eucalyptus.com/CommunityCloud">Eucalyptus Community Cloud</a>.
   </p>
   
   <p>
@@ -62,7 +62,7 @@ Almost **four** years ago I first approached those problems by building a modest
   </p>
   
   <p>
-    Full root access, reasonable quotas, <strong>automatic deployment</strong>, plain <a href="https://wiki.centos.org/HowTos/SetupRpmBuildEnvironment">community</a> <a href="https://wiki.ubuntu.com/Packaging">oriented</a> <strong>package-based</strong> software management as opposed to $PATH and $LD_LIBRARY_PATH hacks, allows for proper <a href="http://www.stanford.edu/~pgbovine/cde.html">reproducible</a> and <a href="http://cloudbiolinux.com">shareable research</a>.
+    Full root access, reasonable quotas, <strong>automatic deployment</strong>, plain <a href="https://wiki.centos.org/HowTos/SetupRpmBuildEnvironment">community</a> <a href="https://wiki.ubuntu.com/Packaging">oriented</a> <strong>package-based</strong> software management as opposed to $PATH and $LD_LIBRARY_PATH hacks, allows for proper <a href="https://www.stanford.edu/~pgbovine/cde.html">reproducible</a> and <a href="http://cloudbiolinux.com">shareable research</a>.
   </p>
   
   <p>

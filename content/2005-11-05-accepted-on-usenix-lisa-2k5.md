@@ -16,7 +16,7 @@ title: Accepted on Usenix LISA 2k5 !
 ---
 
 <center>
-  <a href="https://www.usenix.org/events/lisa05/"><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/lisa05_750_96.jpg' alt='lisa banner' /></a>
+  <a href="https://www.usenix.org/events/lisa05/"><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/lisa05_750_96.jpg' alt='lisa banner' /></a>
 </center>
 
 Yesss ! After writing a pretty long email explaining my interests, projects, work, etc... Me and my colleague Xavier, have received an email from Tara Mulligan, Scholastic Programs Manager:

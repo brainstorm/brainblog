@@ -22,7 +22,7 @@ So there's a day, that day when an organization realizes that there's a real nee
 
 <blockquote class="twitter-tweet">
   <p>
-    Why the Rest of Us Need Virtualization Even If Facebook Doesn’t <a href="https://t.co/E3KdHCMLAu" title="http://feedproxy.google.com/~r/PuppetLabs/~3/tUgrKy9tTRk/">feedproxy.google.com/~r/PuppetLabs/…</a>
+    Why the Rest of Us Need Virtualization Even If Facebook Doesn’t <a href="https://t.co/E3KdHCMLAu" title="https://feedproxy.google.com/~r/PuppetLabs/~3/tUgrKy9tTRk/">feedproxy.google.com/~r/PuppetLabs/…</a>
   </p>
   
   <p>
@@ -92,7 +92,7 @@ Those impatient early birds can try locally with something like [Cloudify][10]..
 
 <blockquote class="twitter-tweet">
   <p>
-    Giving a try to @<a href="https://twitter.com/cloudifysource">cloudifysource</a>… <a href="https://twitter.com/search/%23fail">#fail</a> when installing <a href="https://twitter.com/search/%23Chef">#Chef</a> in os.getVendor()==Apple… <a href="https://t.co/iCTSkienR9" title="http://jtimberman.housepub.org/blog/2012/07/29/os-x-workstation-management-with-chef/">jtimberman.housepub.org/blog/2012/07/2…</a>
+    Giving a try to @<a href="https://twitter.com/cloudifysource">cloudifysource</a>… <a href="https://twitter.com/search/%23fail">#fail</a> when installing <a href="https://twitter.com/search/%23Chef">#Chef</a> in os.getVendor()==Apple… <a href="https://t.co/iCTSkienR9" title="https://jtimberman.housepub.org/blog/2012/07/29/os-x-workstation-management-with-chef/">jtimberman.housepub.org/blog/2012/07/2…</a>
   </p>
   
   <p>
@@ -106,7 +106,7 @@ There are some hiccups that could be circumvented with Virtualbox though:
 
 <blockquote class="twitter-tweet">
   <p>
-    @<a href="https://twitter.com/braincode">braincode</a> check this project from @<a href="https://twitter.com/fastconnect">fastconnect</a> <a href="https://t.co/mk72kraH21" title="http://ow.ly/1TRJsg">ow.ly/1TRJsg</a>. We plan to have this as a native capability in Cloudify as well
+    @<a href="https://twitter.com/braincode">braincode</a> check this project from @<a href="https://twitter.com/fastconnect">fastconnect</a> <a href="https://t.co/mk72kraH21" title="https://ow.ly/1TRJsg">ow.ly/1TRJsg</a>. We plan to have this as a native capability in Cloudify as well
   </p>
   
   <p>

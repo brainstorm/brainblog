@@ -20,11 +20,11 @@ Doncs bé, un cop a Madrid, i al veure que les maletes no sortien vem anar pregu
   </p> <table>
     <tr>
       <td>
-        <a href='https://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada.jpg' alt='Maleta petada' /></a>
+        <a href='https://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada.jpg'><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada.jpg' alt='Maleta petada' /></a>
       </td>
       
       <td>
-        <a href='https://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada2.jpg'><img src='http://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada2.jpg' alt='Maleta Petada 2' /></a>
+        <a href='https://blogs.nopcode.org/brainstorm/wp-content/images/maleta_petada2.jpg'><img src='https://blogs.nopcode.org/brainstorm/wp-content/images/thumb-maleta_petada2.jpg' alt='Maleta Petada 2' /></a>
       </td>
     </tr>
   </table>
