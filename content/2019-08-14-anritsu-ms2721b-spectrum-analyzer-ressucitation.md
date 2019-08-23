@@ -39,7 +39,7 @@ That being said, there's also an "Emergency recovery" 3-key-pressing mechanism w
 
 The nonstop progress bar symptom is fairly similar to the signal path video. On Shariar's video, SRAM modules are burning hot to the touch due to a possible internal short to ground:
 
-{{ youtube UPSLgY_-4HE?t=1247 }}
+{{ youtube UPSLgY_-4HE }}
 
 In my case there were some faint water damage marks on the IC so for <$20 I decided to go ahead replaced all the ICs too, just in case. After that, it would be a piece of cake repair, right? Order chips, desolder those and substitute? Wrong!
 
