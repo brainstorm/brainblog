@@ -92,7 +92,7 @@ shell restarted.
 
 One of the reasons I was suspecting that the RAM was faulty was related to the active VxWorks process (task) table:
 
-{{< highlight shell hl_lines=12>}}
+{{< highlight shell "hl_lines=12">}}
 $ telnet 10.1.1.116
 Trying 10.1.1.116...
 Connected to 10.1.1.116.
