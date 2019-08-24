@@ -90,7 +90,61 @@ c409b88 _yystart +848: _DoRAMTest ()
 shell restarted.
 {{< / highlight >}}
 
-Since the instrument seems to still work, let's not muck around with hardware and switch to software?
+One of the reasons I was suspecting that the RAM was faulty was related to the active VxWorks process (task) table:
+
+{{< highlight shell hl_lines=12>}}
+$ telnet 10.1.1.116
+Trying 10.1.1.116...
+Connected to 10.1.1.116.
+Escape character is '^]'.
+
+-> i
+
+  NAME        ENTRY       TID    PRI   STATUS      PC       SP     ERRNO  DELAY
+---------- ------------ -------- --- ---------- -------- -------- ------- -----
+tExcTask   _excTask      ff7a8f8   0 PEND        c448de0  ff7a850   3006b     0
+tLogTask   _logTask      ff77f58   0 PEND        c448de0  ff77eac       0     0
+(null)     �ߐ          f90df90   0 SUSPEND           4  f90df68       0     0
+tShell     _shell        fb87684   1 READY       c43e720  fb8732c  1c0001     0
+tPcmciad   _pcmciad      ff653e0   2 PEND        c448de0  ff65348       0     0
+tRlogind   _rlogind      fdd09f8   2 PEND        c373d96  fdd06b8       0     0
+tWdbTask   _wdbTask      fb888b8   3 PEND        c373d96  fb886c0  3d0002     0
+tUfiClnt   c081c60       fb8e574   5 PEND        c373d96  fb8e508       0     0
+tKbd       c015fe0       fb7a5bc  25 PEND        c373d96  fb7a560       0     0
+tSplash    _tAnimateSpl  fb2b950  30 READY       c43e14c  fb2b8e8       0     0
+tNetTask   _netTask      fedf468  50 PEND        c373d96  fedf3fc       0     0
+tPortmapd  _portmapd     fdd3d18  54 PEND        c373d96  fdd3b50  3d0002     0
+tTelnetd   _telnetd      fdce710  55 PEND        c373d96  fdce640       0     0
+tFtpdTask  c00d620       fb285d4  55 PEND        c373d96  fb284f8       0     0
+tTelnetOut__telnetOutTa  f91015c  55 READY       c373baa  f90fec0       0     0
+tTelnetIn_f_telnetInTas  f8f58f8  55 PEND        c373d96  f8f55ac       0     0
+tDhcpcStatec3a9700       fdd6a68  56 PEND        c373d96  fdd69ec  3d0004     0
+tDhcpcReadT_dhcpcRead    fdd54bc  56 PEND        c373d96  fdd52f8  3d0002     0
+tUglInput  _uglInputTas  fb76cbc  60 PEND+T      c373d96  fb769b0  3d0002     3
+t1         c413020       fbcbf20 100 PEND        c448de0  fbcbe48       0     0
+tUsbIsp1161_usbIsp1161H  fbc1b48 100 READY       c448de0  fbc1aa0  3d0004     0
+usbOhciIsr c071560       fbbf924 100 PEND        c373d96  fbbf8dc       0     0
+BusM A     c42a6c0       fbbd6d0 100 READY       c43e14c  fbbd678       0     0
+usbMouseLibc413020       fbbaf00 100 PEND        c448de0  fbbad28       0     0
+usbMouseLibc413020       fbb67c0 100 PEND        c448de0  fbb6738       0     0
+usbKeyboardc413020       fbaddcc 100 PEND        c448de0  fbadbf4       0     0
+usbKeyboardc413020       fba968c 100 PEND        c448de0  fba9604       0     0
+BULK_CLASS c413020       fba4f1c 100 PEND        c448de0  fba4d44       0     0
+BULK_CLASS_c413020       fba07dc 100 PEND        c448de0  fba0754       0     0
+tBulkClnt  c080a00       fb9c528 100 PEND        c373d96  fb9c4c0       0     0
+CBI_UFI_CLAc413020       fb96f98 100 PEND        c448de0  fb96dc0       0     0
+CBI_UFI_CLAc413020       fb92858 100 PEND        c448de0  fb927d0       0     0
+usbAcmLib  c413020       fb837f8 100 PEND        c448de0  fb83620       0     0
+usbAcmLib_Ic413020       fb7f0b8 100 PEND        c448de0  fb7f030       0     0
+tBigBrother_tBigBrother  f91c884 100 SUSPEND           4  f91c81c       0     0
+tCheckUsb  _tCheckUsb    f912a20 100 READY       c43e14c  f912608       0     0
+tRootTask  _usrRoot      ff7fe54 103 READY       c43e14c  ff7fb90  1c0001     0
+tDcacheUpd _dcacheUpd    ff4260c 250 READY       c43e14c  ff425a0       0     0
+tUsbKbd    c413020       fbb250c 255 READY       c43e14c  fbb249c       0     0
+value = 0 = 0x0
+{{< / highlight >}}
+
+But I digress a bit here... since the instrument seems to still work, let's not muck around with hardware and switch to software analysis instead?
 
 # Telnet
 
