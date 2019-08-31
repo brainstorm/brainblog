@@ -2,4 +2,5 @@
 https://brainblog.netlify.com/* https://blogs.nopcode.org/brainstorm/:splat 301!
 
 #
-https://blogs.nopcode.org/ https://blogs.nopcode.org/brainstorm/ 301!
+https://blogs.nopcode.org https://blogs.nopcode.org/brainstorm 301!
+https://brainstorm.nopcode.org https://blogs.nopcode.org/brainstorm 301!
