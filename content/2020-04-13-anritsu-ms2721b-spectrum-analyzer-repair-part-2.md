@@ -23,22 +23,7 @@ In other words, this is my personal electronics repair hobby project and also my
 
 The firmware updates are kindly distributed online [by Anritsu here][anritsu_ms2721b_firmware]. Also having radare2 makes it easy to not needing windows to cut to the chase [(the .CAB file)][cab_file]:
 
-```
-$ wget http://dl.cdn-anritsu.com/en-us/test-measurement/files/Software/Drivers-Software-Downloads/MS2721B_V1.51_USBLoader.exe
-$ r2 MS2721B_V1.51_USBLoader.exe
-[0x004067cc]> izzq~MSCF
-0x42686f 6 5 PMSCF
-[0x0042686f]> s 0x00426870
-[0x00426870]> pm
-0x00426870 1 Microsoft Cabinet archive data, 20011963 bytes, 7 files
-[0x00426870]> px 10
-- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF
-0x00426870  4d53 4346 0000 0000 bb5b                 MSCF.....[
-[0x00426870]> pm | awk '{ print $7 }'
-20011963
-[0x00426870]> wtf firmware.cab 20011963
-Dumped 20011963 bytes from 0x00426870 into firmware.cab
-```
+{{< gist brainstorm 5f5902a8e35b50f6cae322d891169f2a "firmware_unpack.txt" >}}
 
  As I was writing this, someone [fixed `pmj`][pmj_fix] making future scripting and automation of the `pm` subcommand easier... did I mention r2 community is awesome?
 
