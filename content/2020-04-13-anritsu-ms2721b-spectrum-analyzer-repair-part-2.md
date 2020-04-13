@@ -29,25 +29,7 @@ The firmware updates are kindly distributed online [by Anritsu here][anritsu_ms2
 
 So extracting the cab contents, including firmware and modules is straightforward now with `cabextract` command line tool:
 
-```
-$ brew install cabextract
-$ cabextract firmware.cab
-Extracting cabinet: firmware.cab
-  extracting V1.51_MS2721B.zip
-  extracting V1.51_MS2721B_Customer_Service_Revision.txt
-  extracting instructions.rtf
-  extracting ANRITSU COMPANY FREE SOFTWARE LICENSE AGREEMENT.rtf
-  extracting USBLoader.exe
-  extracting info.txt
-  extracting master.txt
-
-All done, no errors.
-$ unzip V1.51_MS2721B.zip
-(...)
-inflating: SH4/BASE/sys/base/cst_base.out
-inflating: SH4/OS/VxWorks.bin
-(...)
-```
+{{< gist brainstorm 5f5902a8e35b50f6cae322d891169f2a "usbloader_cabextract.txt" >}}
 
 <!-- # Renesas and SuperH4
 
